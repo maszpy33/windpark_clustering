@@ -1,0 +1,3601 @@
+cluster	Spannungsebene_Category	Spannungsebene_Category
+-1	Mittelspannung	1266
+-1	Hochspannung	154
+-1	Umspannebene Hochspannung/Mittelspannung	123
+-1	Niederspannung	109
+-1	Umspannebene Mittelspannung/Niederspannung	66
+-1	Höchstspannung	5
+0	Höchstspannung	246
+1	Höchstspannung	80
+2	Höchstspannung	80
+3	Höchstspannung	72
+4	Höchstspannung	178
+5	Höchstspannung	167
+6	Mittelspannung	6
+7	Mittelspannung	6
+8	Höchstspannung	80
+8	Hochspannung	1
+9	Hochspannung	8
+9	Mittelspannung	3
+10	Mittelspannung	15
+10	Hochspannung	14
+11	Mittelspannung	4
+11	Niederspannung	1
+12	Mittelspannung	6
+13	Höchstspannung	18
+14	Mittelspannung	6
+15	Mittelspannung	4
+16	Mittelspannung	5
+17	Mittelspannung	5
+18	Hochspannung	5
+18	Mittelspannung	4
+19	Mittelspannung	5
+20	Höchstspannung	21
+21	Mittelspannung	4
+22	Mittelspannung	4
+23	Mittelspannung	11
+24	Mittelspannung	5
+25	Hochspannung	9
+25	Mittelspannung	1
+26	Hochspannung	7
+26	Mittelspannung	1
+27	Hochspannung	9
+27	Mittelspannung	2
+28	Hochspannung	6
+29	Mittelspannung	4
+30	Hochspannung	8
+31	Höchstspannung	272
+31	Hochspannung	12
+32	Mittelspannung	9
+33	Höchstspannung	54
+34	Höchstspannung	97
+35	Mittelspannung	4
+36	Höchstspannung	30
+36	Mittelspannung	2
+37	Mittelspannung	6
+38	Mittelspannung	3
+38	Niederspannung	2
+39	Mittelspannung	4
+39	Niederspannung	1
+40	Umspannebene Hochspannung/Mittelspannung	10
+41	Hochspannung	14
+41	Umspannebene Hochspannung/Mittelspannung	6
+41	Mittelspannung	3
+42	Höchstspannung	129
+43	Mittelspannung	4
+44	Mittelspannung	4
+45	Mittelspannung	7
+46	Mittelspannung	4
+47	Mittelspannung	5
+48	Mittelspannung	10
+49	Hochspannung	11
+50	Höchstspannung	27
+51	Mittelspannung	8
+52	Mittelspannung	13
+53	Mittelspannung	14
+54	Mittelspannung	4
+55	Mittelspannung	2
+55	Niederspannung	2
+56	Mittelspannung	9
+56	Niederspannung	1
+57	Mittelspannung	6
+58	Umspannebene Hochspannung/Mittelspannung	6
+59	Mittelspannung	7
+60	Mittelspannung	4
+61	Mittelspannung	5
+62	Mittelspannung	5
+63	Umspannebene Hochspannung/Mittelspannung	4
+64	Umspannebene Hochspannung/Mittelspannung	4
+65	Umspannebene Hochspannung/Mittelspannung	7
+65	Mittelspannung	3
+66	Mittelspannung	10
+67	Mittelspannung	5
+68	Hochspannung	13
+69	Mittelspannung	4
+70	Mittelspannung	11
+70	Niederspannung	1
+71	Mittelspannung	9
+72	Mittelspannung	5
+73	Mittelspannung	4
+73	Niederspannung	2
+74	Hochspannung	6
+75	Umspannebene Hochspannung/Mittelspannung	13
+75	Mittelspannung	4
+76	Mittelspannung	5
+77	Mittelspannung	8
+77	Hochspannung	3
+78	Mittelspannung	13
+79	Mittelspannung	8
+80	Hochspannung	20
+80	Mittelspannung	3
+81	Mittelspannung	9
+82	Mittelspannung	5
+83	Umspannebene Hochspannung/Mittelspannung	6
+84	Hochspannung	4
+84	Umspannebene Hochspannung/Mittelspannung	1
+85	Mittelspannung	10
+86	Hochspannung	19
+87	Höchstspannung	39
+87	Hochspannung	14
+87	Umspannebene Hochspannung/Mittelspannung	12
+87	Mittelspannung	10
+88	Umspannebene Hochspannung/Mittelspannung	5
+89	Umspannebene Hochspannung/Mittelspannung	5
+90	Mittelspannung	12
+91	Mittelspannung	4
+92	Mittelspannung	5
+93	Umspannebene Hochspannung/Mittelspannung	5
+94	Höchstspannung	6
+94	Mittelspannung	1
+95	Höchstspannung	14
+95	Umspannebene Hochspannung/Mittelspannung	5
+95	Mittelspannung	4
+96	Hochspannung	49
+96	Umspannebene Hochspannung/Mittelspannung	22
+96	Höchstspannung	8
+97	Hochspannung	10
+97	Umspannebene Hochspannung/Mittelspannung	6
+97	Mittelspannung	3
+97	Niederspannung	1
+98	Umspannebene Hochspannung/Mittelspannung	9
+98	Mittelspannung	6
+98	Hochspannung	5
+99	Umspannebene Hochspannung/Mittelspannung	17
+99	Mittelspannung	3
+100	Umspannebene Hochspannung/Mittelspannung	22
+100	Mittelspannung	4
+101	Mittelspannung	5
+102	Mittelspannung	5
+103	Mittelspannung	12
+104	Mittelspannung	12
+105	Mittelspannung	5
+106	Mittelspannung	5
+107	Mittelspannung	4
+108	Mittelspannung	5
+109	Hochspannung	7
+110	Umspannebene Hochspannung/Mittelspannung	10
+110	Hochspannung	2
+111	Mittelspannung	6
+112	Mittelspannung	5
+113	Mittelspannung	6
+114	Mittelspannung	5
+115	Mittelspannung	6
+116	Hochspannung	6
+116	Umspannebene Hochspannung/Mittelspannung	3
+116	Mittelspannung	2
+117	Umspannebene Hochspannung/Mittelspannung	7
+117	Mittelspannung	5
+118	Mittelspannung	9
+119	Mittelspannung	7
+120	Mittelspannung	12
+121	Hochspannung	9
+122	Hochspannung	7
+123	Hochspannung	6
+124	Mittelspannung	6
+125	Mittelspannung	4
+126	Mittelspannung	3
+126	Umspannebene Hochspannung/Mittelspannung	1
+127	Mittelspannung	7
+127	Umspannebene Mittelspannung/Niederspannung	1
+128	Hochspannung	7
+128	Mittelspannung	2
+128	Umspannebene Mittelspannung/Niederspannung	1
+129	Mittelspannung	4
+130	Hochspannung	14
+130	Mittelspannung	1
+131	Mittelspannung	5
+132	Mittelspannung	4
+133	Umspannebene Hochspannung/Mittelspannung	6
+133	Mittelspannung	1
+134	Mittelspannung	9
+134	Hochspannung	4
+135	Mittelspannung	4
+136	Hochspannung	9
+137	Mittelspannung	6
+138	Hochspannung	11
+138	Mittelspannung	2
+139	Mittelspannung	14
+140	Niederspannung	4
+140	Mittelspannung	3
+141	Mittelspannung	8
+141	Hochspannung	3
+142	Mittelspannung	11
+143	Umspannebene Hochspannung/Mittelspannung	9
+144	Mittelspannung	4
+145	Umspannebene Hochspannung/Mittelspannung	5
+145	Mittelspannung	2
+146	Mittelspannung	10
+147	Mittelspannung	4
+148	Mittelspannung	4
+149	Mittelspannung	8
+150	Mittelspannung	16
+151	Mittelspannung	10
+152	Umspannebene Hochspannung/Mittelspannung	5
+153	Mittelspannung	7
+154	Hochspannung	3
+154	Mittelspannung	1
+155	Mittelspannung	5
+156	Umspannebene Hochspannung/Mittelspannung	5
+157	Mittelspannung	4
+158	Hochspannung	9
+158	Mittelspannung	1
+159	Hochspannung	5
+159	Mittelspannung	1
+160	Mittelspannung	5
+161	Mittelspannung	4
+162	Hochspannung	7
+163	Mittelspannung	5
+164	Mittelspannung	2
+164	Umspannebene Mittelspannung/Niederspannung	2
+165	Mittelspannung	4
+166	Umspannebene Hochspannung/Mittelspannung	5
+166	Mittelspannung	2
+167	Mittelspannung	6
+168	Mittelspannung	6
+169	Mittelspannung	5
+170	Mittelspannung	8
+171	Mittelspannung	11
+172	Mittelspannung	6
+173	Mittelspannung	12
+174	Mittelspannung	4
+175	Mittelspannung	7
+176	Mittelspannung	12
+177	Mittelspannung	5
+178	Mittelspannung	4
+179	Hochspannung	9
+180	Umspannebene Hochspannung/Mittelspannung	8
+181	Umspannebene Hochspannung/Mittelspannung	6
+182	Hochspannung	12
+182	Umspannebene Hochspannung/Mittelspannung	8
+182	Mittelspannung	4
+183	Hochspannung	4
+184	Mittelspannung	9
+185	Mittelspannung	13
+186	Hochspannung	18
+187	Mittelspannung	8
+188	Mittelspannung	4
+189	Mittelspannung	7
+190	Mittelspannung	4
+191	Mittelspannung	7
+192	Umspannebene Hochspannung/Mittelspannung	4
+192	Mittelspannung	1
+193	Mittelspannung	14
+194	Umspannebene Hochspannung/Mittelspannung	9
+194	Mittelspannung	8
+195	Mittelspannung	4
+195	Niederspannung	1
+196	Mittelspannung	6
+197	Mittelspannung	4
+197	Hochspannung	3
+197	Umspannebene Hochspannung/Mittelspannung	2
+198	Mittelspannung	9
+198	Hochspannung	3
+199	Mittelspannung	5
+200	Mittelspannung	5
+201	Mittelspannung	4
+202	Mittelspannung	9
+203	Mittelspannung	6
+204	Mittelspannung	4
+205	Mittelspannung	9
+206	Mittelspannung	5
+207	Mittelspannung	4
+207	Umspannebene Hochspannung/Mittelspannung	3
+208	Mittelspannung	4
+209	Mittelspannung	8
+210	Mittelspannung	5
+211	Mittelspannung	6
+212	Höchstspannung	16
+212	Hochspannung	5
+212	Umspannebene Höchstspannung/Hochspannung	4
+213	Mittelspannung	9
+213	Umspannebene Hochspannung/Mittelspannung	1
+214	Mittelspannung	7
+214	Umspannebene Hochspannung/Mittelspannung	1
+215	Mittelspannung	6
+215	Hochspannung	5
+215	Umspannebene Hochspannung/Mittelspannung	4
+216	Mittelspannung	7
+216	Umspannebene Hochspannung/Mittelspannung	4
+217	Mittelspannung	11
+218	Mittelspannung	7
+219	Mittelspannung	7
+220	Hochspannung	3
+221	Hochspannung	6
+222	Mittelspannung	5
+223	Umspannebene Hochspannung/Mittelspannung	7
+224	Umspannebene Hochspannung/Mittelspannung	4
+225	Mittelspannung	7
+225	Niederspannung	1
+226	Hochspannung	3
+226	Mittelspannung	1
+227	Hochspannung	6
+227	Umspannebene Hochspannung/Mittelspannung	2
+227	Mittelspannung	1
+228	Hochspannung	15
+228	Mittelspannung	2
+228	Niederspannung	1
+228	Umspannebene Hochspannung/Mittelspannung	1
+229	Mittelspannung	8
+229	Umspannebene Hochspannung/Mittelspannung	6
+230	Hochspannung	15
+230	Mittelspannung	8
+230	Umspannebene Hochspannung/Mittelspannung	4
+231	Mittelspannung	7
+231	Hochspannung	1
+232	Mittelspannung	4
+233	Mittelspannung	7
+234	Mittelspannung	11
+235	Hochspannung	4
+236	Hochspannung	4
+237	Mittelspannung	4
+238	Mittelspannung	4
+239	Umspannebene Hochspannung/Mittelspannung	4
+240	Hochspannung	9
+240	Mittelspannung	1
+241	Hochspannung	20
+241	Mittelspannung	11
+242	Hochspannung	23
+242	Mittelspannung	3
+242	Umspannebene Hochspannung/Mittelspannung	3
+243	Mittelspannung	27
+243	Hochspannung	14
+243	Umspannebene Hochspannung/Mittelspannung	2
+244	Hochspannung	16
+245	Hochspannung	18
+245	Mittelspannung	3
+245	Niederspannung	3
+246	Hochspannung	3
+246	Mittelspannung	3
+247	Mittelspannung	6
+248	Mittelspannung	7
+249	Umspannebene Hochspannung/Mittelspannung	3
+249	Mittelspannung	1
+250	Hochspannung	21
+251	Hochspannung	13
+251	Mittelspannung	11
+252	Mittelspannung	4
+253	Mittelspannung	5
+253	Umspannebene Hochspannung/Mittelspannung	3
+254	Mittelspannung	7
+255	Mittelspannung	4
+256	Mittelspannung	8
+257	Mittelspannung	5
+258	Mittelspannung	4
+259	Mittelspannung	3
+260	Höchstspannung	5
+261	Höchstspannung	21
+262	Höchstspannung	17
+263	Mittelspannung	12
+263	Hochspannung	6
+263	Umspannebene Hochspannung/Mittelspannung	1
+264	Umspannebene Hochspannung/Mittelspannung	7
+264	Mittelspannung	2
+265	Mittelspannung	9
+266	Mittelspannung	10
+266	Hochspannung	3
+267	Hochspannung	4
+268	Mittelspannung	6
+268	Umspannebene Hochspannung/Mittelspannung	5
+269	Mittelspannung	13
+269	Hochspannung	1
+269	Niederspannung	1
+270	Hochspannung	7
+271	Umspannebene Hochspannung/Mittelspannung	5
+271	Mittelspannung	3
+272	Mittelspannung	4
+273	Hochspannung	16
+274	Mittelspannung	23
+274	Hochspannung	4
+274	Umspannebene Hochspannung/Mittelspannung	1
+275	Umspannebene Hochspannung/Mittelspannung	5
+275	Mittelspannung	1
+276	Mittelspannung	5
+276	Hochspannung	3
+276	Höchstspannung	1
+277	Hochspannung	2
+277	Mittelspannung	1
+278	Mittelspannung	4
+279	Umspannebene Hochspannung/Mittelspannung	5
+280	Mittelspannung	8
+281	Mittelspannung	5
+282	Umspannebene Hochspannung/Mittelspannung	4
+283	Mittelspannung	5
+284	Höchstspannung	22
+284	Mittelspannung	1
+285	Höchstspannung	14
+286	Umspannebene Hochspannung/Mittelspannung	10
+286	Hochspannung	3
+287	Hochspannung	14
+287	Mittelspannung	2
+288	Hochspannung	15
+289	Hochspannung	7
+290	Hochspannung	5
+290	Mittelspannung	2
+290	Umspannebene Hochspannung/Mittelspannung	1
+291	Mittelspannung	5
+291	Hochspannung	1
+292	Mittelspannung	9
+292	Hochspannung	6
+293	Mittelspannung	7
+293	Umspannebene Hochspannung/Mittelspannung	7
+294	Mittelspannung	9
+295	Mittelspannung	4
+296	Mittelspannung	15
+297	Hochspannung	16
+298	Mittelspannung	8
+299	Mittelspannung	4
+300	Mittelspannung	8
+301	Mittelspannung	4
+302	Hochspannung	11
+302	Mittelspannung	2
+303	Umspannebene Hochspannung/Mittelspannung	16
+304	Umspannebene Hochspannung/Mittelspannung	9
+304	Mittelspannung	2
+305	Mittelspannung	5
+306	Mittelspannung	4
+307	Hochspannung	19
+308	Mittelspannung	11
+309	Mittelspannung	10
+310	Umspannebene Hochspannung/Mittelspannung	9
+310	Hochspannung	1
+311	Mittelspannung	6
+312	Hochspannung	8
+313	Mittelspannung	4
+314	Mittelspannung	16
+314	Umspannebene Hochspannung/Mittelspannung	8
+315	Umspannebene Hochspannung/Mittelspannung	7
+315	Mittelspannung	1
+316	Umspannebene Hochspannung/Mittelspannung	9
+316	Umspannebene Höchstspannung/Hochspannung	3
+317	Mittelspannung	8
+317	Umspannebene Hochspannung/Mittelspannung	6
+318	Hochspannung	5
+319	Hochspannung	5
+320	Hochspannung	15
+321	Mittelspannung	6
+321	Umspannebene Hochspannung/Mittelspannung	4
+322	Mittelspannung	12
+322	Hochspannung	5
+322	Umspannebene Hochspannung/Mittelspannung	2
+323	Mittelspannung	5
+324	Mittelspannung	4
+325	Mittelspannung	4
+326	Mittelspannung	13
+327	Mittelspannung	6
+328	Mittelspannung	5
+329	Umspannebene Hochspannung/Mittelspannung	16
+329	Mittelspannung	4
+330	Hochspannung	8
+331	Mittelspannung	6
+332	Umspannebene Hochspannung/Mittelspannung	5
+333	Mittelspannung	6
+334	Hochspannung	4
+334	Mittelspannung	2
+335	Mittelspannung	18
+336	Hochspannung	28
+336	Umspannebene Hochspannung/Mittelspannung	16
+336	Mittelspannung	1
+337	Höchstspannung	6
+337	Umspannebene Hochspannung/Mittelspannung	4
+337	Mittelspannung	3
+338	Hochspannung	9
+338	Mittelspannung	1
+339	Hochspannung	12
+340	Mittelspannung	12
+341	Mittelspannung	4
+342	Mittelspannung	9
+343	Mittelspannung	6
+344	Hochspannung	5
+344	Mittelspannung	3
+345	Hochspannung	13
+345	Mittelspannung	2
+346	Hochspannung	8
+346	Mittelspannung	3
+347	Mittelspannung	5
+347	Hochspannung	3
+348	Mittelspannung	4
+349	Mittelspannung	8
+350	Mittelspannung	19
+351	Mittelspannung	10
+351	Hochspannung	6
+352	Umspannebene Hochspannung/Mittelspannung	6
+353	Mittelspannung	4
+354	Mittelspannung	5
+355	Hochspannung	10
+355	Mittelspannung	2
+356	Umspannebene Hochspannung/Mittelspannung	7
+357	Umspannebene Hochspannung/Mittelspannung	5
+358	Hochspannung	8
+358	Mittelspannung	1
+359	Hochspannung	6
+359	Umspannebene Mittelspannung/Niederspannung	3
+359	Mittelspannung	1
+360	Hochspannung	36
+360	Höchstspannung	4
+360	Mittelspannung	2
+360	Niederspannung	1
+360	Umspannebene Mittelspannung/Niederspannung	1
+361	Mittelspannung	43
+361	Hochspannung	39
+361	Höchstspannung	28
+361	Umspannebene Hochspannung/Mittelspannung	4
+362	Mittelspannung	13
+363	Höchstspannung	10
+363	Mittelspannung	5
+364	Mittelspannung	12
+365	Umspannebene Hochspannung/Mittelspannung	6
+366	Mittelspannung	8
+367	Mittelspannung	10
+368	Hochspannung	7
+368	Umspannebene Hochspannung/Mittelspannung	4
+369	Mittelspannung	6
+370	Mittelspannung	4
+371	Mittelspannung	11
+371	Umspannebene Hochspannung/Mittelspannung	6
+372	Umspannebene Hochspannung/Mittelspannung	4
+373	Hochspannung	12
+373	Mittelspannung	4
+373	Umspannebene Hochspannung/Mittelspannung	4
+374	Hochspannung	4
+375	Hochspannung	5
+376	Hochspannung	13
+376	Mittelspannung	5
+377	Hochspannung	17
+378	Hochspannung	7
+378	Höchstspannung	5
+378	Mittelspannung	2
+379	Umspannebene Hochspannung/Mittelspannung	5
+380	Umspannebene Hochspannung/Mittelspannung	6
+381	Mittelspannung	5
+382	Mittelspannung	9
+383	Hochspannung	27
+383	Mittelspannung	9
+384	Mittelspannung	11
+384	Hochspannung	1
+385	Hochspannung	38
+385	Umspannebene Hochspannung/Mittelspannung	2
+386	Hochspannung	22
+386	Mittelspannung	12
+387	Mittelspannung	7
+387	Niederspannung	1
+388	Hochspannung	10
+388	Niederspannung	2
+389	Hochspannung	6
+390	Mittelspannung	4
+391	Mittelspannung	4
+392	Hochspannung	10
+393	Hochspannung	17
+394	Hochspannung	9
+395	Umspannebene Hochspannung/Mittelspannung	6
+395	Mittelspannung	5
+396	Hochspannung	3
+396	Mittelspannung	1
+397	Mittelspannung	4
+398	Hochspannung	6
+399	Mittelspannung	6
+400	Mittelspannung	5
+400	Umspannebene Hochspannung/Mittelspannung	1
+401	Umspannebene Hochspannung/Mittelspannung	6
+402	Mittelspannung	3
+402	Umspannebene Hochspannung/Mittelspannung	2
+403	Höchstspannung	50
+403	Mittelspannung	2
+404	Umspannebene Hochspannung/Mittelspannung	9
+405	Umspannebene Hochspannung/Mittelspannung	12
+405	Mittelspannung	3
+406	Mittelspannung	4
+406	Hochspannung	1
+407	Mittelspannung	2
+407	Niederspannung	1
+408	Mittelspannung	6
+409	Mittelspannung	11
+410	Umspannebene Hochspannung/Mittelspannung	13
+410	Mittelspannung	10
+410	Hochspannung	5
+411	Hochspannung	8
+411	Mittelspannung	1
+412	Hochspannung	9
+412	Mittelspannung	4
+413	Mittelspannung	12
+414	Mittelspannung	7
+415	Mittelspannung	7
+416	Mittelspannung	5
+416	Umspannebene Hochspannung/Mittelspannung	3
+416	Niederspannung	1
+417	Mittelspannung	11
+418	Mittelspannung	15
+418	Hochspannung	4
+418	Umspannebene Hochspannung/Mittelspannung	1
+419	Hochspannung	10
+420	Mittelspannung	8
+420	Umspannebene Hochspannung/Mittelspannung	4
+421	Umspannebene Hochspannung/Mittelspannung	7
+421	Mittelspannung	3
+422	Hochspannung	9
+423	Hochspannung	7
+423	Mittelspannung	3
+424	Mittelspannung	3
+424	Hochspannung	1
+425	Hochspannung	16
+425	Mittelspannung	3
+426	Mittelspannung	5
+427	Mittelspannung	7
+428	Mittelspannung	6
+429	Hochspannung	4
+430	Hochspannung	17
+430	Mittelspannung	10
+431	Hochspannung	4
+431	Höchstspannung	2
+431	Mittelspannung	2
+432	Höchstspannung	14
+432	Mittelspannung	2
+433	Hochspannung	6
+434	Umspannebene Hochspannung/Mittelspannung	14
+435	Umspannebene Hochspannung/Mittelspannung	5
+436	Umspannebene Hochspannung/Mittelspannung	8
+436	Mittelspannung	1
+437	Mittelspannung	8
+438	Mittelspannung	6
+439	Mittelspannung	8
+440	Mittelspannung	5
+441	Mittelspannung	6
+442	Mittelspannung	6
+443	Mittelspannung	7
+444	Mittelspannung	7
+445	Hochspannung	5
+445	Mittelspannung	2
+446	Umspannebene Hochspannung/Mittelspannung	5
+447	Mittelspannung	5
+448	Hochspannung	10
+449	Mittelspannung	5
+450	Mittelspannung	5
+451	Mittelspannung	6
+452	Mittelspannung	6
+453	Mittelspannung	5
+453	Niederspannung	1
+454	Mittelspannung	10
+455	Mittelspannung	4
+456	Mittelspannung	7
+457	Hochspannung	5
+458	Mittelspannung	4
+459	Mittelspannung	4
+460	Mittelspannung	7
+461	Mittelspannung	9
+462	Mittelspannung	8
+463	Mittelspannung	4
+464	Umspannebene Hochspannung/Mittelspannung	27
+464	Hochspannung	7
+464	Mittelspannung	7
+465	Mittelspannung	10
+465	Umspannebene Hochspannung/Mittelspannung	1
+466	Hochspannung	5
+467	Hochspannung	7
+468	Mittelspannung	4
+469	Mittelspannung	7
+470	Mittelspannung	8
+471	Mittelspannung	12
+472	Mittelspannung	8
+473	Hochspannung	17
+473	Mittelspannung	5
+474	Hochspannung	16
+475	Mittelspannung	5
+475	Umspannebene Hochspannung/Mittelspannung	4
+476	Umspannebene Hochspannung/Mittelspannung	7
+477	Mittelspannung	2
+477	Umspannebene Hochspannung/Mittelspannung	2
+478	Mittelspannung	4
+478	Umspannebene Hochspannung/Mittelspannung	4
+479	Mittelspannung	7
+480	Mittelspannung	11
+481	Mittelspannung	6
+482	Mittelspannung	12
+483	Mittelspannung	5
+484	Mittelspannung	6
+485	Hochspannung	13
+485	Mittelspannung	1
+486	Hochspannung	4
+487	Mittelspannung	4
+488	Mittelspannung	4
+489	Mittelspannung	8
+490	Mittelspannung	4
+490	Hochspannung	2
+491	Mittelspannung	7
+492	Mittelspannung	4
+493	Hochspannung	9
+493	Mittelspannung	3
+494	Mittelspannung	13
+495	Mittelspannung	17
+496	Mittelspannung	6
+497	Hochspannung	4
+498	Hochspannung	3
+498	Mittelspannung	1
+499	Mittelspannung	4
+500	Hochspannung	6
+500	Mittelspannung	2
+501	Umspannebene Hochspannung/Mittelspannung	8
+502	Mittelspannung	9
+503	Mittelspannung	12
+504	Mittelspannung	5
+505	Hochspannung	12
+505	Mittelspannung	1
+506	Hochspannung	7
+506	Mittelspannung	4
+507	Hochspannung	11
+507	Mittelspannung	4
+508	Mittelspannung	3
+508	Niederspannung	1
+509	Mittelspannung	5
+510	Mittelspannung	13
+511	Hochspannung	12
+511	Mittelspannung	11
+512	Hochspannung	20
+512	Mittelspannung	5
+513	Mittelspannung	5
+514	Mittelspannung	11
+515	Mittelspannung	7
+515	Umspannebene Hochspannung/Mittelspannung	7
+515	Umspannebene Mittelspannung/Niederspannung	1
+516	Mittelspannung	5
+517	Mittelspannung	3
+517	Umspannebene Hochspannung/Mittelspannung	1
+518	Umspannebene Hochspannung/Mittelspannung	7
+518	Mittelspannung	2
+519	Mittelspannung	3
+519	Umspannebene Hochspannung/Mittelspannung	3
+520	Mittelspannung	5
+521	Mittelspannung	4
+521	Niederspannung	1
+522	Hochspannung	5
+522	Mittelspannung	1
+523	Hochspannung	11
+523	Mittelspannung	6
+524	Mittelspannung	5
+525	Mittelspannung	5
+525	Umspannebene Hochspannung/Mittelspannung	3
+526	Umspannebene Hochspannung/Mittelspannung	8
+526	Mittelspannung	6
+527	Mittelspannung	5
+528	Mittelspannung	4
+529	Umspannebene Hochspannung/Mittelspannung	10
+530	Mittelspannung	14
+530	Umspannebene Hochspannung/Mittelspannung	8
+531	Mittelspannung	8
+532	Hochspannung	24
+532	Umspannebene Hochspannung/Mittelspannung	3
+533	Umspannebene Hochspannung/Mittelspannung	29
+533	Hochspannung	11
+534	Mittelspannung	4
+534	Umspannebene Hochspannung/Mittelspannung	3
+535	Mittelspannung	13
+535	Umspannebene Hochspannung/Mittelspannung	1
+536	Mittelspannung	6
+536	Umspannebene Hochspannung/Mittelspannung	5
+537	Hochspannung	26
+537	Mittelspannung	4
+538	Mittelspannung	13
+538	Hochspannung	4
+539	Mittelspannung	5
+540	Mittelspannung	4
+541	Mittelspannung	4
+541	Niederspannung	1
+542	Hochspannung	7
+543	Hochspannung	7
+544	Hochspannung	24
+545	Mittelspannung	7
+546	Hochspannung	9
+546	Mittelspannung	4
+547	Umspannebene Hochspannung/Mittelspannung	4
+547	Mittelspannung	3
+548	Mittelspannung	5
+549	Hochspannung	14
+550	Hochspannung	8
+551	Hochspannung	23
+551	Mittelspannung	2
+552	Hochspannung	19
+552	Mittelspannung	5
+552	Umspannebene Hochspannung/Mittelspannung	5
+553	Hochspannung	63
+553	Mittelspannung	13
+554	Hochspannung	12
+554	Mittelspannung	2
+555	Höchstspannung	14
+555	Mittelspannung	11
+556	Höchstspannung	31
+556	Hochspannung	28
+556	Mittelspannung	2
+557	Mittelspannung	5
+558	Umspannebene Hochspannung/Mittelspannung	6
+559	Umspannebene Hochspannung/Mittelspannung	9
+559	Mittelspannung	2
+560	Hochspannung	23
+561	Mittelspannung	6
+562	Umspannebene Hochspannung/Mittelspannung	7
+562	Hochspannung	1
+562	Mittelspannung	1
+563	Hochspannung	10
+563	Mittelspannung	1
+564	Mittelspannung	9
+564	Hochspannung	3
+565	Mittelspannung	6
+566	Hochspannung	31
+566	Mittelspannung	4
+567	Mittelspannung	8
+567	Hochspannung	5
+568	Hochspannung	34
+569	Hochspannung	32
+569	Mittelspannung	4
+570	Höchstspannung	11
+570	Mittelspannung	1
+571	Mittelspannung	11
+571	Hochspannung	6
+571	Höchstspannung	5
+572	Hochspannung	11
+573	Mittelspannung	4
+574	Mittelspannung	9
+574	Hochspannung	8
+575	Hochspannung	22
+576	Mittelspannung	12
+577	Hochspannung	44
+577	Mittelspannung	1
+578	Hochspannung	11
+578	Umspannebene Höchstspannung/Hochspannung	1
+579	Mittelspannung	8
+580	Mittelspannung	18
+580	Hochspannung	3
+581	Umspannebene Hochspannung/Mittelspannung	5
+582	Hochspannung	36
+583	Hochspannung	33
+584	Mittelspannung	7
+585	Umspannebene Hochspannung/Mittelspannung	48
+585	Mittelspannung	5
+586	Hochspannung	19
+586	Mittelspannung	10
+587	Mittelspannung	29
+587	Hochspannung	15
+588	Hochspannung	27
+588	Mittelspannung	1
+589	Mittelspannung	6
+590	Mittelspannung	4
+591	Hochspannung	12
+591	Mittelspannung	8
+592	Mittelspannung	4
+593	Umspannebene Hochspannung/Mittelspannung	5
+593	Mittelspannung	4
+594	Hochspannung	8
+595	Mittelspannung	5
+595	Umspannebene Hochspannung/Mittelspannung	2
+596	Umspannebene Hochspannung/Mittelspannung	15
+596	Mittelspannung	2
+597	Mittelspannung	9
+597	Umspannebene Hochspannung/Mittelspannung	3
+598	Umspannebene Hochspannung/Mittelspannung	9
+598	Mittelspannung	2
+599	Mittelspannung	6
+600	Mittelspannung	8
+600	Umspannebene Hochspannung/Mittelspannung	4
+601	Mittelspannung	6
+602	Mittelspannung	6
+603	Hochspannung	6
+604	Hochspannung	7
+605	Mittelspannung	8
+606	Höchstspannung	15
+606	Hochspannung	5
+606	Mittelspannung	5
+607	Hochspannung	31
+607	Mittelspannung	20
+608	Umspannebene Hochspannung/Mittelspannung	6
+609	Hochspannung	7
+610	Hochspannung	9
+610	Umspannebene Hochspannung/Mittelspannung	3
+611	Hochspannung	16
+611	Mittelspannung	1
+612	Hochspannung	26
+612	Mittelspannung	1
+613	Umspannebene Hochspannung/Mittelspannung	6
+614	Mittelspannung	7
+614	Umspannebene Hochspannung/Mittelspannung	4
+615	Mittelspannung	7
+616	Umspannebene Hochspannung/Mittelspannung	4
+617	Mittelspannung	7
+618	Hochspannung	17
+618	Mittelspannung	2
+619	Mittelspannung	11
+620	Hochspannung	5
+621	Hochspannung	8
+621	Umspannebene Hochspannung/Mittelspannung	5
+622	Hochspannung	10
+622	Mittelspannung	1
+623	Mittelspannung	8
+624	Höchstspannung	8
+625	Hochspannung	8
+625	Mittelspannung	5
+625	Umspannebene Hochspannung/Mittelspannung	5
+626	Höchstspannung	9
+626	Hochspannung	6
+626	Mittelspannung	3
+627	Hochspannung	5
+627	Mittelspannung	2
+628	Mittelspannung	9
+629	Höchstspannung	27
+629	Umspannebene Hochspannung/Mittelspannung	24
+629	Hochspannung	4
+629	Mittelspannung	4
+630	Höchstspannung	28
+630	Mittelspannung	2
+631	Hochspannung	17
+631	Mittelspannung	7
+632	Hochspannung	8
+633	Umspannebene Höchstspannung/Hochspannung	16
+633	Hochspannung	6
+633	Mittelspannung	1
+634	Mittelspannung	4
+635	Hochspannung	7
+636	Umspannebene Hochspannung/Mittelspannung	6
+636	Mittelspannung	4
+637	Mittelspannung	6
+637	Hochspannung	3
+638	Umspannebene Hochspannung/Mittelspannung	4
+638	Mittelspannung	1
+639	Hochspannung	13
+640	Niederspannung	3
+640	Mittelspannung	2
+641	Niederspannung	6
+641	Umspannebene Hochspannung/Mittelspannung	5
+641	Mittelspannung	4
+642	Mittelspannung	5
+643	Hochspannung	10
+643	Umspannebene Hochspannung/Mittelspannung	5
+643	Mittelspannung	4
+644	Höchstspannung	8
+645	Hochspannung	14
+646	Mittelspannung	8
+646	Hochspannung	6
+647	Umspannebene Hochspannung/Mittelspannung	6
+648	Hochspannung	38
+648	Mittelspannung	11
+648	Umspannebene Hochspannung/Mittelspannung	4
+649	Hochspannung	9
+649	Umspannebene Höchstspannung/Hochspannung	5
+649	Mittelspannung	1
+650	Umspannebene Hochspannung/Mittelspannung	4
+651	Hochspannung	6
+651	Mittelspannung	3
+652	Hochspannung	11
+652	Mittelspannung	1
+653	Umspannebene Hochspannung/Mittelspannung	5
+654	Umspannebene Hochspannung/Mittelspannung	8
+654	Hochspannung	6
+655	Mittelspannung	4
+656	Hochspannung	27
+657	Mittelspannung	5
+657	Hochspannung	1
+658	Hochspannung	19
+658	Mittelspannung	6
+658	Umspannebene Hochspannung/Mittelspannung	5
+659	Mittelspannung	7
+660	Hochspannung	36
+660	Mittelspannung	18
+660	Umspannebene Hochspannung/Mittelspannung	3
+661	Mittelspannung	13
+662	Mittelspannung	5
+663	Mittelspannung	12
+664	Hochspannung	4
+664	Mittelspannung	3
+665	Hochspannung	14
+665	Höchstspannung	9
+665	Mittelspannung	9
+666	Hochspannung	9
+667	Hochspannung	5
+667	Mittelspannung	4
+668	Hochspannung	25
+669	Mittelspannung	12
+670	Hochspannung	28
+670	Mittelspannung	17
+671	Mittelspannung	5
+671	Hochspannung	2
+672	Mittelspannung	9
+672	Hochspannung	8
+672	Höchstspannung	7
+673	Mittelspannung	4
+674	Mittelspannung	6
+675	Hochspannung	7
+676	Hochspannung	16
+676	Mittelspannung	1
+677	Hochspannung	7
+678	Hochspannung	7
+679	Hochspannung	5
+680	Hochspannung	32
+680	Mittelspannung	2
+681	Mittelspannung	10
+682	Hochspannung	12
+683	Mittelspannung	5
+684	Mittelspannung	12
+684	Umspannebene Hochspannung/Mittelspannung	1
+685	Hochspannung	8
+686	Hochspannung	7
+686	Mittelspannung	1
+687	Hochspannung	4
+687	Mittelspannung	4
+688	Mittelspannung	8
+689	Mittelspannung	9
+690	Hochspannung	21
+690	Mittelspannung	19
+691	Hochspannung	23
+691	Mittelspannung	3
+692	Mittelspannung	9
+692	Hochspannung	5
+693	Umspannebene Hochspannung/Mittelspannung	5
+693	Mittelspannung	4
+694	Hochspannung	18
+695	Hochspannung	38
+695	Mittelspannung	5
+696	Mittelspannung	11
+697	Mittelspannung	5
+697	Umspannebene Hochspannung/Mittelspannung	2
+697	Umspannebene Mittelspannung/Niederspannung	1
+698	Mittelspannung	9
+698	Hochspannung	5
+699	Mittelspannung	12
+699	Hochspannung	3
+700	Hochspannung	14
+700	Mittelspannung	9
+701	Mittelspannung	17
+701	Hochspannung	4
+702	Mittelspannung	25
+702	Hochspannung	10
+703	Umspannebene Hochspannung/Mittelspannung	14
+703	Mittelspannung	5
+704	Mittelspannung	7
+705	Mittelspannung	6
+706	Mittelspannung	9
+707	Mittelspannung	6
+707	Hochspannung	2
+708	Hochspannung	24
+708	Mittelspannung	8
+708	Umspannebene Hochspannung/Mittelspannung	2
+709	Hochspannung	10
+710	Hochspannung	19
+710	Mittelspannung	10
+710	Umspannebene Hochspannung/Mittelspannung	1
+711	Mittelspannung	17
+712	Hochspannung	5
+712	Mittelspannung	3
+713	Mittelspannung	15
+714	Mittelspannung	5
+715	Hochspannung	21
+715	Mittelspannung	5
+716	Mittelspannung	11
+717	Hochspannung	29
+717	Mittelspannung	12
+718	Hochspannung	3
+718	Mittelspannung	2
+718	Umspannebene Hochspannung/Mittelspannung	2
+719	Hochspannung	9
+719	Mittelspannung	2
+719	Umspannebene Hochspannung/Mittelspannung	1
+720	Hochspannung	31
+720	Mittelspannung	5
+721	Mittelspannung	4
+722	Hochspannung	6
+723	Mittelspannung	6
+723	Umspannebene Hochspannung/Mittelspannung	5
+723	Hochspannung	3
+724	Mittelspannung	10
+724	Hochspannung	5
+725	Umspannebene Hochspannung/Mittelspannung	7
+725	Mittelspannung	2
+726	Umspannebene Hochspannung/Mittelspannung	5
+726	Mittelspannung	1
+727	Mittelspannung	7
+728	Hochspannung	10
+728	Mittelspannung	1
+729	Hochspannung	1
+729	Mittelspannung	1
+729	Niederspannung	1
+730	Umspannebene Hochspannung/Mittelspannung	7
+730	Hochspannung	1
+731	Mittelspannung	4
+731	Höchstspannung	3
+731	Hochspannung	1
+732	Höchstspannung	22
+733	Hochspannung	30
+733	Mittelspannung	7
+734	Hochspannung	5
+734	Umspannebene Hochspannung/Mittelspannung	5
+735	Mittelspannung	15
+736	Umspannebene Hochspannung/Mittelspannung	5
+736	Mittelspannung	2
+737	Mittelspannung	6
+738	Hochspannung	6
+738	Höchstspannung	6
+738	Umspannebene Hochspannung/Mittelspannung	2
+738	Mittelspannung	1
+739	Höchstspannung	55
+740	Hochspannung	26
+740	Mittelspannung	2
+741	Hochspannung	14
+741	Mittelspannung	4
+742	Mittelspannung	8
+743	Umspannebene Hochspannung/Mittelspannung	5
+743	Mittelspannung	4
+743	Hochspannung	3
+744	Hochspannung	34
+744	Mittelspannung	6
+745	Umspannebene Hochspannung/Mittelspannung	4
+745	Mittelspannung	1
+746	Mittelspannung	6
+747	Mittelspannung	11
+748	Hochspannung	13
+748	Mittelspannung	3
+749	Mittelspannung	5
+750	Mittelspannung	9
+751	Mittelspannung	24
+752	Hochspannung	24
+753	Hochspannung	6
+754	Hochspannung	15
+754	Mittelspannung	14
+755	Umspannebene Hochspannung/Mittelspannung	3
+755	Mittelspannung	2
+756	Hochspannung	21
+756	Mittelspannung	2
+756	Umspannebene Hochspannung/Mittelspannung	1
+757	Hochspannung	71
+757	Mittelspannung	2
+758	Hochspannung	5
+759	Hochspannung	11
+760	Hochspannung	25
+761	Hochspannung	32
+762	Mittelspannung	6
+763	Mittelspannung	24
+764	Hochspannung	6
+764	Mittelspannung	1
+765	Hochspannung	8
+766	Hochspannung	10
+766	Mittelspannung	7
+766	Höchstspannung	5
+766	Umspannebene Hochspannung/Mittelspannung	5
+767	Mittelspannung	3
+768	Höchstspannung	18
+768	Hochspannung	3
+768	Mittelspannung	2
+769	Hochspannung	14
+769	Mittelspannung	1
+770	Hochspannung	11
+770	Mittelspannung	6
+771	Mittelspannung	6
+772	Mittelspannung	5
+773	Umspannebene Hochspannung/Mittelspannung	6
+773	Mittelspannung	3
+774	Hochspannung	93
+774	Umspannebene Hochspannung/Mittelspannung	12
+774	Mittelspannung	10
+775	Umspannebene Hochspannung/Mittelspannung	5
+775	Hochspannung	4
+775	Mittelspannung	4
+776	Hochspannung	8
+777	Hochspannung	5
+778	Hochspannung	51
+778	Höchstspannung	42
+778	Mittelspannung	19
+778	Umspannebene Hochspannung/Mittelspannung	5
+779	Mittelspannung	7
+779	Hochspannung	1
+780	Umspannebene Hochspannung/Mittelspannung	8
+780	Mittelspannung	4
+781	Mittelspannung	6
+781	Umspannebene Hochspannung/Mittelspannung	1
+782	Umspannebene Hochspannung/Mittelspannung	5
+782	Mittelspannung	1
+783	Umspannebene Hochspannung/Mittelspannung	8
+783	Mittelspannung	2
+784	Hochspannung	12
+784	Mittelspannung	3
+785	Mittelspannung	7
+786	Mittelspannung	11
+787	Mittelspannung	6
+788	Hochspannung	4
+789	Hochspannung	5
+789	Mittelspannung	4
+790	Umspannebene Hochspannung/Mittelspannung	7
+791	Mittelspannung	5
+792	Mittelspannung	5
+793	Mittelspannung	11
+794	Mittelspannung	6
+795	Mittelspannung	5
+796	Mittelspannung	5
+797	Niederspannung	4
+797	Mittelspannung	3
+798	Mittelspannung	9
+798	Umspannebene Hochspannung/Mittelspannung	2
+799	Umspannebene Hochspannung/Mittelspannung	4
+799	Mittelspannung	1
+800	Mittelspannung	5
+801	Hochspannung	22
+801	Umspannebene Hochspannung/Mittelspannung	8
+802	Mittelspannung	4
+803	Hochspannung	7
+804	Hochspannung	14
+805	Hochspannung	8
+805	Mittelspannung	2
+806	Hochspannung	32
+806	Mittelspannung	1
+807	Hochspannung	11
+808	Hochspannung	7
+808	Umspannebene Hochspannung/Mittelspannung	2
+809	Umspannebene Hochspannung/Mittelspannung	12
+809	Hochspannung	3
+810	Hochspannung	9
+811	Umspannebene Hochspannung/Mittelspannung	3
+811	Mittelspannung	1
+812	Mittelspannung	6
+812	Umspannebene Hochspannung/Mittelspannung	3
+813	Mittelspannung	18
+814	Mittelspannung	12
+814	Umspannebene Hochspannung/Mittelspannung	5
+815	Mittelspannung	6
+816	Umspannebene Hochspannung/Mittelspannung	9
+817	Hochspannung	5
+818	Umspannebene Hochspannung/Mittelspannung	8
+818	Hochspannung	3
+819	Hochspannung	4
+819	Mittelspannung	1
+819	Umspannebene Hochspannung/Mittelspannung	1
+820	Mittelspannung	6
+820	Umspannebene Hochspannung/Mittelspannung	5
+821	Mittelspannung	11
+822	Hochspannung	6
+822	Mittelspannung	1
+823	Umspannebene Hochspannung/Mittelspannung	4
+823	Mittelspannung	1
+824	Hochspannung	5
+824	Mittelspannung	2
+825	Mittelspannung	7
+826	Mittelspannung	5
+827	Hochspannung	14
+828	Mittelspannung	6
+828	Niederspannung	1
+829	Mittelspannung	6
+830	Mittelspannung	5
+831	Hochspannung	5
+832	Mittelspannung	6
+833	Mittelspannung	4
+834	Hochspannung	9
+834	Mittelspannung	8
+834	Umspannebene Hochspannung/Mittelspannung	4
+835	Hochspannung	12
+835	Mittelspannung	1
+836	Hochspannung	18
+836	Mittelspannung	1
+836	Umspannebene Mittelspannung/Niederspannung	1
+837	Mittelspannung	7
+838	Mittelspannung	4
+838	Niederspannung	1
+839	Mittelspannung	6
+840	Hochspannung	4
+840	Mittelspannung	4
+841	Mittelspannung	7
+842	Hochspannung	11
+842	Mittelspannung	1
+843	Mittelspannung	8
+844	Hochspannung	4
+844	Umspannebene Hochspannung/Mittelspannung	4
+845	Umspannebene Hochspannung/Mittelspannung	7
+846	Mittelspannung	8
+846	Umspannebene Hochspannung/Mittelspannung	5
+846	Hochspannung	3
+847	Mittelspannung	6
+847	Umspannebene Hochspannung/Mittelspannung	5
+848	Mittelspannung	5
+849	Mittelspannung	5
+850	Umspannebene Hochspannung/Mittelspannung	5
+851	Hochspannung	9
+851	Mittelspannung	8
+852	Mittelspannung	4
+853	Mittelspannung	8
+853	Niederspannung	2
+854	Mittelspannung	9
+855	Hochspannung	18
+856	Hochspannung	9
+857	Mittelspannung	4
+858	Mittelspannung	6
+859	Hochspannung	4
+860	Hochspannung	12
+860	Umspannebene Hochspannung/Mittelspannung	1
+861	Hochspannung	5
+861	Umspannebene Hochspannung/Mittelspannung	4
+862	Hochspannung	10
+862	Mittelspannung	2
+863	Hochspannung	4
+863	Niederspannung	1
+864	Hochspannung	3
+864	Mittelspannung	2
+865	Mittelspannung	11
+866	Hochspannung	7
+867	Hochspannung	10
+868	Mittelspannung	3
+868	Umspannebene Hochspannung/Mittelspannung	3
+868	Niederspannung	1
+869	Mittelspannung	2
+869	Hochspannung	1
+870	Hochspannung	10
+870	Mittelspannung	2
+871	Mittelspannung	14
+872	Umspannebene Hochspannung/Mittelspannung	5
+872	Mittelspannung	2
+873	Mittelspannung	4
+874	Mittelspannung	16
+875	Mittelspannung	7
+876	Mittelspannung	8
+877	Mittelspannung	4
+878	Umspannebene Hochspannung/Mittelspannung	7
+878	Hochspannung	2
+878	Mittelspannung	1
+879	Hochspannung	16
+879	Umspannebene Hochspannung/Mittelspannung	13
+880	Mittelspannung	4
+880	Umspannebene Hochspannung/Mittelspannung	4
+880	Hochspannung	2
+881	Hochspannung	4
+882	Mittelspannung	4
+882	Umspannebene Hochspannung/Mittelspannung	1
+883	Umspannebene Hochspannung/Mittelspannung	6
+884	Hochspannung	7
+884	Mittelspannung	2
+885	Mittelspannung	4
+886	Hochspannung	7
+887	Umspannebene Hochspannung/Mittelspannung	7
+887	Mittelspannung	1
+888	Mittelspannung	5
+888	Niederspannung	1
+889	Mittelspannung	5
+890	Mittelspannung	6
+891	Mittelspannung	3
+891	Umspannebene Hochspannung/Mittelspannung	3
+892	Mittelspannung	15
+893	Mittelspannung	9
+894	Umspannebene Hochspannung/Mittelspannung	4
+894	Hochspannung	2
+895	Mittelspannung	8
+896	Mittelspannung	13
+897	Mittelspannung	5
+897	Umspannebene Hochspannung/Mittelspannung	1
+898	Mittelspannung	7
+899	Hochspannung	17
+899	Mittelspannung	3
+900	Mittelspannung	10
+901	Mittelspannung	15
+901	Umspannebene Mittelspannung/Niederspannung	1
+902	Mittelspannung	4
+902	Hochspannung	2
+902	Umspannebene Hochspannung/Mittelspannung	2
+903	Mittelspannung	12
+904	Hochspannung	10
+904	Mittelspannung	4
+905	Umspannebene Hochspannung/Mittelspannung	8
+905	Mittelspannung	5
+905	Hochspannung	2
+906	Umspannebene Hochspannung/Mittelspannung	18
+906	Mittelspannung	1
+907	Hochspannung	9
+908	Hochspannung	21
+909	Umspannebene Hochspannung/Mittelspannung	12
+910	Hochspannung	11
+910	Umspannebene Hochspannung/Mittelspannung	9
+911	Hochspannung	11
+911	Mittelspannung	2
+912	Hochspannung	18
+912	Umspannebene Hochspannung/Mittelspannung	15
+913	Mittelspannung	6
+914	Mittelspannung	20
+915	Hochspannung	4
+915	Mittelspannung	2
+916	Hochspannung	10
+916	Umspannebene Hochspannung/Mittelspannung	4
+917	Umspannebene Hochspannung/Mittelspannung	9
+917	Hochspannung	6
+917	Mittelspannung	1
+918	Umspannebene Hochspannung/Mittelspannung	19
+918	Mittelspannung	7
+919	Umspannebene Hochspannung/Mittelspannung	9
+919	Mittelspannung	6
+920	Umspannebene Hochspannung/Mittelspannung	8
+920	Mittelspannung	3
+921	Mittelspannung	11
+922	Mittelspannung	5
+923	Mittelspannung	5
+924	Mittelspannung	8
+924	Umspannebene Hochspannung/Mittelspannung	6
+925	Hochspannung	13
+925	Mittelspannung	2
+926	Mittelspannung	9
+927	Hochspannung	7
+927	Mittelspannung	6
+928	Mittelspannung	3
+928	Umspannebene Hochspannung/Mittelspannung	1
+929	Mittelspannung	7
+929	Niederspannung	1
+930	Hochspannung	19
+931	Mittelspannung	14
+931	Umspannebene Hochspannung/Mittelspannung	2
+932	Umspannebene Hochspannung/Mittelspannung	9
+933	Hochspannung	34
+933	Mittelspannung	11
+934	Mittelspannung	12
+935	Mittelspannung	9
+935	Umspannebene Hochspannung/Mittelspannung	5
+936	Umspannebene Hochspannung/Mittelspannung	7
+936	Mittelspannung	5
+937	Hochspannung	7
+938	Mittelspannung	6
+938	Umspannebene Hochspannung/Mittelspannung	4
+939	Hochspannung	6
+939	Umspannebene Hochspannung/Mittelspannung	6
+939	Mittelspannung	1
+940	Umspannebene Hochspannung/Mittelspannung	12
+941	Hochspannung	12
+941	Mittelspannung	9
+942	Hochspannung	20
+942	Mittelspannung	1
+943	Hochspannung	31
+944	Hochspannung	21
+944	Mittelspannung	4
+945	Hochspannung	27
+945	Höchstspannung	13
+945	Mittelspannung	12
+945	Umspannebene Hochspannung/Mittelspannung	6
+945	Umspannebene Höchstspannung/Hochspannung	1
+946	Hochspannung	22
+946	Mittelspannung	11
+946	Umspannebene Hochspannung/Mittelspannung	8
+947	Hochspannung	17
+948	Mittelspannung	6
+948	Hochspannung	3
+949	Mittelspannung	8
+950	Mittelspannung	7
+951	Mittelspannung	19
+951	Umspannebene Hochspannung/Mittelspannung	3
+952	Mittelspannung	12
+953	Mittelspannung	5
+954	Mittelspannung	35
+954	Hochspannung	10
+955	Mittelspannung	5
+956	Mittelspannung	8
+956	Niederspannung	4
+957	Mittelspannung	11
+958	Mittelspannung	20
+958	Umspannebene Hochspannung/Mittelspannung	9
+958	Niederspannung	1
+959	Hochspannung	15
+959	Mittelspannung	4
+960	Mittelspannung	7
+960	Umspannebene Hochspannung/Mittelspannung	3
+961	Mittelspannung	8
+962	Mittelspannung	10
+963	Mittelspannung	6
+964	Mittelspannung	11
+965	Mittelspannung	19
+966	Mittelspannung	7
+967	Umspannebene Hochspannung/Mittelspannung	8
+968	Umspannebene Hochspannung/Mittelspannung	6
+969	Hochspannung	11
+969	Mittelspannung	4
+970	Hochspannung	5
+970	Mittelspannung	1
+971	Umspannebene Hochspannung/Mittelspannung	9
+971	Mittelspannung	1
+972	Hochspannung	4
+973	Hochspannung	9
+974	Mittelspannung	4
+975	Umspannebene Hochspannung/Mittelspannung	4
+975	Mittelspannung	1
+976	Hochspannung	21
+976	Umspannebene Hochspannung/Mittelspannung	13
+976	Mittelspannung	1
+977	Hochspannung	12
+977	Umspannebene Hochspannung/Mittelspannung	7
+977	Mittelspannung	5
+978	Umspannebene Hochspannung/Mittelspannung	7
+978	Mittelspannung	2
+979	Umspannebene Hochspannung/Mittelspannung	7
+980	Umspannebene Hochspannung/Mittelspannung	21
+980	Mittelspannung	11
+981	Umspannebene Hochspannung/Mittelspannung	8
+982	Hochspannung	7
+983	Mittelspannung	4
+984	Hochspannung	6
+985	Umspannebene Hochspannung/Mittelspannung	10
+985	Mittelspannung	3
+986	Mittelspannung	9
+986	Umspannebene Hochspannung/Mittelspannung	6
+987	Mittelspannung	13
+988	Umspannebene Hochspannung/Mittelspannung	5
+989	Mittelspannung	4
+990	Mittelspannung	23
+990	Umspannebene Hochspannung/Mittelspannung	16
+991	Mittelspannung	7
+992	Mittelspannung	6
+993	Mittelspannung	12
+994	Hochspannung	8
+994	Umspannebene Hochspannung/Mittelspannung	7
+995	Hochspannung	25
+996	Umspannebene Hochspannung/Mittelspannung	10
+997	Hochspannung	15
+998	Hochspannung	12
+998	Umspannebene Hochspannung/Mittelspannung	8
+998	Mittelspannung	4
+999	Mittelspannung	5
+999	Umspannebene Hochspannung/Mittelspannung	3
+1000	Mittelspannung	3
+1000	Hochspannung	2
+1000	Umspannebene Hochspannung/Mittelspannung	2
+1001	Umspannebene Hochspannung/Mittelspannung	7
+1001	Mittelspannung	2
+1002	Mittelspannung	6
+1003	Mittelspannung	25
+1003	Hochspannung	14
+1004	Hochspannung	6
+1004	Mittelspannung	5
+1005	Mittelspannung	5
+1006	Mittelspannung	13
+1007	Mittelspannung	23
+1008	Mittelspannung	8
+1009	Mittelspannung	4
+1010	Mittelspannung	9
+1010	Hochspannung	5
+1011	Umspannebene Hochspannung/Mittelspannung	3
+1011	Mittelspannung	1
+1012	Höchstspannung	15
+1013	Hochspannung	14
+1014	Hochspannung	6
+1015	Hochspannung	3
+1015	Umspannebene Hochspannung/Mittelspannung	1
+1016	Hochspannung	4
+1017	Mittelspannung	4
+1017	Umspannebene Hochspannung/Mittelspannung	1
+1018	Mittelspannung	9
+1018	Hochspannung	6
+1018	Umspannebene Hochspannung/Mittelspannung	6
+1019	Mittelspannung	5
+1019	Umspannebene Hochspannung/Mittelspannung	3
+1020	Hochspannung	9
+1020	Mittelspannung	7
+1020	Umspannebene Hochspannung/Mittelspannung	1
+1021	Mittelspannung	5
+1021	Umspannebene Hochspannung/Mittelspannung	3
+1022	Umspannebene Hochspannung/Mittelspannung	5
+1022	Mittelspannung	1
+1023	Höchstspannung	7
+1023	Mittelspannung	5
+1024	Hochspannung	5
+1024	Mittelspannung	1
+1025	Mittelspannung	5
+1026	Mittelspannung	8
+1027	Mittelspannung	5
+1028	Mittelspannung	7
+1029	Mittelspannung	5
+1029	Umspannebene Hochspannung/Mittelspannung	4
+1030	Mittelspannung	6
+1031	Mittelspannung	5
+1032	Umspannebene Hochspannung/Mittelspannung	3
+1032	Mittelspannung	2
+1033	Umspannebene Hochspannung/Mittelspannung	5
+1033	Mittelspannung	2
+1034	Hochspannung	4
+1034	Mittelspannung	4
+1035	Umspannebene Hochspannung/Mittelspannung	8
+1035	Mittelspannung	3
+1036	Hochspannung	10
+1036	Mittelspannung	1
+1037	Hochspannung	28
+1037	Mittelspannung	2
+1037	Höchstspannung	1
+1038	Hochspannung	14
+1038	Mittelspannung	4
+1039	Mittelspannung	4
+1040	Mittelspannung	23
+1041	Mittelspannung	12
+1042	Höchstspannung	16
+1042	Mittelspannung	1
+1043	Höchstspannung	8
+1043	Mittelspannung	2
+1044	Umspannebene Hochspannung/Mittelspannung	6
+1044	Mittelspannung	1
+1045	Hochspannung	2
+1045	Mittelspannung	2
+1046	Umspannebene Hochspannung/Mittelspannung	9
+1046	Mittelspannung	5
+1047	Umspannebene Hochspannung/Mittelspannung	9
+1047	Hochspannung	4
+1047	Mittelspannung	4
+1048	Mittelspannung	7
+1049	Mittelspannung	10
+1050	Mittelspannung	4
+1051	Mittelspannung	8
+1052	Mittelspannung	11
+1052	Hochspannung	6
+1052	Umspannebene Mittelspannung/Niederspannung	1
+1053	Mittelspannung	8
+1054	Mittelspannung	11
+1055	Mittelspannung	35
+1056	Mittelspannung	13
+1056	Niederspannung	2
+1057	Mittelspannung	13
+1058	Hochspannung	5
+1059	Mittelspannung	4
+1060	Mittelspannung	14
+1061	Mittelspannung	8
+1062	Mittelspannung	6
+1063	Mittelspannung	14
+1063	Umspannebene Hochspannung/Mittelspannung	3
+1064	Mittelspannung	5
+1065	Mittelspannung	7
+1065	Hochspannung	6
+1065	Niederspannung	1
+1066	Hochspannung	22
+1067	Umspannebene Hochspannung/Mittelspannung	12
+1067	Mittelspannung	5
+1068	Hochspannung	5
+1068	Umspannebene Hochspannung/Mittelspannung	4
+1069	Umspannebene Hochspannung/Mittelspannung	4
+1069	Mittelspannung	2
+1070	Hochspannung	17
+1070	Mittelspannung	8
+1071	Mittelspannung	4
+1072	Mittelspannung	11
+1073	Mittelspannung	5
+1074	Mittelspannung	4
+1075	Mittelspannung	15
+1076	Hochspannung	8
+1077	Mittelspannung	7
+1078	Mittelspannung	21
+1079	Mittelspannung	9
+1080	Mittelspannung	11
+1080	Niederspannung	2
+1081	Mittelspannung	9
+1082	Mittelspannung	17
+1083	Mittelspannung	5
+1084	Mittelspannung	6
+1085	Hochspannung	4
+1086	Hochspannung	12
+1086	Mittelspannung	11
+1086	Umspannebene Hochspannung/Mittelspannung	2
+1087	Mittelspannung	5
+1088	Hochspannung	8
+1088	Niederspannung	1
+1089	Hochspannung	34
+1090	Mittelspannung	15
+1090	Umspannebene Hochspannung/Mittelspannung	6
+1091	Mittelspannung	7
+1092	Mittelspannung	22
+1093	Mittelspannung	15
+1094	Mittelspannung	13
+1095	Mittelspannung	4
+1095	Umspannebene Hochspannung/Mittelspannung	1
+1096	Umspannebene Hochspannung/Mittelspannung	8
+1096	Mittelspannung	1
+1096	Niederspannung	1
+1097	Mittelspannung	18
+1098	Mittelspannung	8
+1099	Mittelspannung	9
+1100	Mittelspannung	4
+1101	Mittelspannung	3
+1101	Hochspannung	1
+1102	Mittelspannung	8
+1103	Mittelspannung	5
+1104	Mittelspannung	7
+1105	Umspannebene Hochspannung/Mittelspannung	4
+1105	Mittelspannung	1
+1106	Umspannebene Hochspannung/Mittelspannung	6
+1106	Mittelspannung	3
+1107	Mittelspannung	6
+1108	Mittelspannung	4
+1109	Hochspannung	12
+1109	Mittelspannung	3
+1110	Mittelspannung	5
+1111	Mittelspannung	9
+1112	Mittelspannung	6
+1113	Mittelspannung	5
+1114	Hochspannung	15
+1114	Mittelspannung	7
+1115	Hochspannung	4
+1116	Hochspannung	3
+1116	Mittelspannung	3
+1117	Hochspannung	17
+1117	Mittelspannung	3
+1118	Umspannebene Hochspannung/Mittelspannung	7
+1118	Mittelspannung	3
+1118	Hochspannung	2
+1119	Hochspannung	5
+1120	Mittelspannung	5
+1121	Mittelspannung	5
+1122	Mittelspannung	7
+1123	Mittelspannung	5
+1124	Mittelspannung	28
+1124	Hochspannung	7
+1125	Umspannebene Hochspannung/Mittelspannung	5
+1126	Mittelspannung	5
+1127	Mittelspannung	4
+1127	Hochspannung	2
+1128	Mittelspannung	4
+1129	Mittelspannung	9
+1130	Hochspannung	9
+1131	Mittelspannung	4
+1132	Mittelspannung	4
+1133	Mittelspannung	5
+1134	Hochspannung	6
+1134	Umspannebene Hochspannung/Mittelspannung	3
+1135	Umspannebene Hochspannung/Mittelspannung	10
+1135	Mittelspannung	3
+1135	Niederspannung	3
+1136	Hochspannung	6
+1136	Umspannebene Hochspannung/Mittelspannung	4
+1136	Mittelspannung	1
+1137	Hochspannung	7
+1138	Mittelspannung	7
+1139	Mittelspannung	4
+1140	Mittelspannung	7
+1141	Hochspannung	9
+1141	Mittelspannung	4
+1142	Mittelspannung	11
+1143	Mittelspannung	2
+1143	Umspannebene Hochspannung/Mittelspannung	2
+1144	Mittelspannung	17
+1145	Umspannebene Hochspannung/Mittelspannung	8
+1146	Mittelspannung	8
+1146	Umspannebene Hochspannung/Mittelspannung	6
+1147	Umspannebene Hochspannung/Mittelspannung	9
+1147	Hochspannung	8
+1148	Mittelspannung	6
+1149	Hochspannung	5
+1150	Hochspannung	9
+1151	Mittelspannung	31
+1151	Hochspannung	18
+1152	Mittelspannung	5
+1153	Umspannebene Hochspannung/Mittelspannung	5
+1153	Mittelspannung	1
+1154	Mittelspannung	4
+1155	Mittelspannung	4
+1156	Mittelspannung	8
+1157	Mittelspannung	13
+1157	Umspannebene Hochspannung/Mittelspannung	6
+1158	Hochspannung	12
+1159	Mittelspannung	6
+1160	Mittelspannung	5
+1161	Hochspannung	4
+1161	Mittelspannung	1
+1162	Mittelspannung	6
+1163	Mittelspannung	7
+1164	Hochspannung	4
+1165	Hochspannung	3
+1165	Mittelspannung	3
+1165	Umspannebene Hochspannung/Mittelspannung	2
+1166	Hochspannung	37
+1167	Mittelspannung	9
+1168	Umspannebene Hochspannung/Mittelspannung	31
+1168	Mittelspannung	23
+1168	Hochspannung	2
+1169	Mittelspannung	19
+1170	Umspannebene Hochspannung/Mittelspannung	18
+1171	Mittelspannung	4
+1172	Hochspannung	30
+1172	Mittelspannung	5
+1173	Umspannebene Hochspannung/Mittelspannung	14
+1173	Mittelspannung	3
+1174	Mittelspannung	13
+1175	Mittelspannung	8
+1176	Mittelspannung	4
+1177	Mittelspannung	6
+1178	Mittelspannung	4
+1178	Umspannebene Hochspannung/Mittelspannung	3
+1179	Mittelspannung	3
+1179	Hochspannung	1
+1180	Mittelspannung	10
+1181	Mittelspannung	15
+1182	Hochspannung	4
+1182	Mittelspannung	1
+1182	Umspannebene Hochspannung/Mittelspannung	1
+1183	Mittelspannung	9
+1184	Mittelspannung	5
+1185	Hochspannung	17
+1186	Mittelspannung	12
+1186	Umspannebene Hochspannung/Mittelspannung	11
+1187	Mittelspannung	5
+1188	Mittelspannung	5
+1189	Umspannebene Hochspannung/Mittelspannung	7
+1189	Mittelspannung	2
+1190	Umspannebene Hochspannung/Mittelspannung	23
+1190	Mittelspannung	16
+1191	Hochspannung	36
+1191	Mittelspannung	17
+1192	Mittelspannung	11
+1193	Mittelspannung	10
+1194	Mittelspannung	15
+1195	Mittelspannung	5
+1196	Mittelspannung	6
+1197	Mittelspannung	16
+1198	Mittelspannung	6
+1199	Hochspannung	13
+1199	Mittelspannung	2
+1200	Mittelspannung	8
+1201	Mittelspannung	5
+1201	Umspannebene Hochspannung/Mittelspannung	5
+1202	Mittelspannung	4
+1203	Mittelspannung	7
+1204	Hochspannung	13
+1204	Mittelspannung	6
+1205	Hochspannung	70
+1205	Mittelspannung	4
+1206	Mittelspannung	5
+1207	Mittelspannung	41
+1208	Mittelspannung	10
+1209	Umspannebene Hochspannung/Mittelspannung	4
+1209	Mittelspannung	2
+1210	Hochspannung	5
+1211	Hochspannung	8
+1211	Mittelspannung	4
+1212	Hochspannung	46
+1212	Mittelspannung	15
+1213	Mittelspannung	5
+1214	Mittelspannung	5
+1215	Mittelspannung	6
+1216	Mittelspannung	15
+1217	Mittelspannung	6
+1218	Mittelspannung	6
+1219	Mittelspannung	5
+1220	Mittelspannung	8
+1221	Umspannebene Hochspannung/Mittelspannung	11
+1222	Mittelspannung	5
+1223	Mittelspannung	5
+1224	Mittelspannung	12
+1224	Umspannebene Hochspannung/Mittelspannung	6
+1225	Mittelspannung	6
+1225	Hochspannung	3
+1225	Umspannebene Hochspannung/Mittelspannung	1
+1226	Mittelspannung	14
+1227	Hochspannung	5
+1227	Mittelspannung	3
+1227	Umspannebene Hochspannung/Mittelspannung	3
+1228	Hochspannung	40
+1229	Mittelspannung	4
+1229	Umspannebene Hochspannung/Mittelspannung	1
+1230	Mittelspannung	14
+1230	Niederspannung	1
+1230	Umspannebene Mittelspannung/Niederspannung	1
+1231	Mittelspannung	4
+1232	Mittelspannung	11
+1233	Mittelspannung	15
+1234	Mittelspannung	14
+1235	Mittelspannung	8
+1236	Mittelspannung	4
+1237	Mittelspannung	6
+1238	Mittelspannung	5
+1239	Hochspannung	16
+1239	Mittelspannung	1
+1240	Mittelspannung	10
+1241	Umspannebene Hochspannung/Mittelspannung	10
+1241	Mittelspannung	8
+1242	Mittelspannung	7
+1243	Mittelspannung	6
+1244	Mittelspannung	11
+1245	Umspannebene Hochspannung/Mittelspannung	13
+1245	Mittelspannung	5
+1245	Hochspannung	1
+1246	Hochspannung	3
+1247	Hochspannung	6
+1247	Umspannebene Hochspannung/Mittelspannung	1
+1248	Umspannebene Hochspannung/Mittelspannung	3
+1248	Mittelspannung	1
+1249	Hochspannung	9
+1250	Hochspannung	10
+1250	Mittelspannung	7
+1251	Hochspannung	20
+1252	Mittelspannung	8
+1253	Umspannebene Hochspannung/Mittelspannung	5
+1254	Umspannebene Hochspannung/Mittelspannung	5
+1254	Mittelspannung	1
+1255	Umspannebene Hochspannung/Mittelspannung	8
+1255	Mittelspannung	5
+1256	Mittelspannung	7
+1257	Hochspannung	10
+1257	Mittelspannung	3
+1257	Niederspannung	1
+1258	Mittelspannung	8
+1259	Hochspannung	21
+1259	Mittelspannung	2
+1260	Hochspannung	26
+1260	Mittelspannung	6
+1261	Mittelspannung	4
+1262	Mittelspannung	7
+1263	Mittelspannung	5
+1264	Mittelspannung	15
+1265	Hochspannung	10
+1266	Mittelspannung	7
+1267	Mittelspannung	7
+1268	Hochspannung	21
+1268	Mittelspannung	7
+1268	Umspannebene Hochspannung/Mittelspannung	1
+1269	Mittelspannung	24
+1270	Mittelspannung	4
+1271	Mittelspannung	7
+1272	Hochspannung	11
+1272	Umspannebene Hochspannung/Mittelspannung	3
+1273	Mittelspannung	8
+1273	Umspannebene Hochspannung/Mittelspannung	6
+1274	Hochspannung	4
+1275	Mittelspannung	7
+1276	Mittelspannung	3
+1276	Umspannebene Hochspannung/Mittelspannung	3
+1277	Hochspannung	10
+1277	Mittelspannung	2
+1278	Hochspannung	4
+1278	Mittelspannung	3
+1279	Hochspannung	20
+1279	Umspannebene Hochspannung/Mittelspannung	5
+1279	Mittelspannung	1
+1280	Mittelspannung	6
+1281	Umspannebene Hochspannung/Mittelspannung	10
+1281	Mittelspannung	4
+1282	Hochspannung	18
+1283	Hochspannung	18
+1283	Mittelspannung	4
+1284	Hochspannung	9
+1284	Mittelspannung	1
+1285	Hochspannung	14
+1285	Mittelspannung	2
+1286	Mittelspannung	6
+1287	Hochspannung	9
+1287	Mittelspannung	2
+1288	Mittelspannung	7
+1289	Hochspannung	4
+1289	Umspannebene Hochspannung/Mittelspannung	2
+1290	Hochspannung	7
+1290	Umspannebene Hochspannung/Mittelspannung	4
+1291	Umspannebene Hochspannung/Mittelspannung	5
+1291	Mittelspannung	1
+1292	Mittelspannung	16
+1292	Umspannebene Hochspannung/Mittelspannung	11
+1293	Umspannebene Hochspannung/Mittelspannung	7
+1294	Hochspannung	32
+1294	Umspannebene Hochspannung/Mittelspannung	11
+1295	Mittelspannung	10
+1295	Umspannebene Hochspannung/Mittelspannung	1
+1296	Umspannebene Hochspannung/Mittelspannung	5
+1297	Umspannebene Hochspannung/Mittelspannung	5
+1297	Mittelspannung	3
+1298	Mittelspannung	14
+1299	Hochspannung	17
+1300	Hochspannung	40
+1301	Hochspannung	17
+1302	Hochspannung	5
+1302	Mittelspannung	2
+1303	Mittelspannung	10
+1304	Mittelspannung	6
+1304	Hochspannung	1
+1305	Mittelspannung	8
+1306	Mittelspannung	4
+1307	Hochspannung	27
+1307	Mittelspannung	5
+1308	Mittelspannung	24
+1308	Hochspannung	3
+1309	Mittelspannung	4
+1310	Mittelspannung	26
+1310	Hochspannung	6
+1311	Mittelspannung	22
+1312	Hochspannung	5
+1312	Mittelspannung	2
+1313	Hochspannung	5
+1314	Hochspannung	8
+1314	Mittelspannung	1
+1315	Hochspannung	11
+1315	Mittelspannung	5
+1316	Mittelspannung	4
+1317	Hochspannung	21
+1318	Hochspannung	10
+1319	Mittelspannung	11
+1320	Mittelspannung	4
+1321	Umspannebene Hochspannung/Mittelspannung	4
+1322	Mittelspannung	16
+1322	Umspannebene Hochspannung/Mittelspannung	1
+1323	Mittelspannung	5
+1324	Mittelspannung	4
+1325	Mittelspannung	12
+1326	Hochspannung	67
+1326	Mittelspannung	5
+1327	Mittelspannung	14
+1327	Umspannebene Hochspannung/Mittelspannung	3
+1328	Mittelspannung	7
+1329	Hochspannung	12
+1330	Mittelspannung	10
+1330	Hochspannung	9
+1331	Hochspannung	5
+1332	Hochspannung	18
+1332	Mittelspannung	18
+1333	Mittelspannung	8
+1334	Umspannebene Hochspannung/Mittelspannung	7
+1334	Mittelspannung	1
+1335	Mittelspannung	4
+1336	Hochspannung	16
+1336	Mittelspannung	6
+1337	Mittelspannung	11
+1337	Hochspannung	1
+1338	Hochspannung	14
+1338	Mittelspannung	7
+1338	Umspannebene Hochspannung/Mittelspannung	4
+1339	Hochspannung	4
+1339	Mittelspannung	4
+1340	Mittelspannung	10
+1340	Hochspannung	7
+1341	Mittelspannung	6
+1342	Hochspannung	8
+1343	Umspannebene Hochspannung/Mittelspannung	5
+1343	Mittelspannung	1
+1344	Mittelspannung	8
+1345	Mittelspannung	5
+1345	Niederspannung	1
+1346	Mittelspannung	4
+1347	Mittelspannung	5
+1348	Mittelspannung	17
+1348	Hochspannung	3
+1349	Hochspannung	44
+1349	Mittelspannung	3
+1350	Hochspannung	46
+1350	Mittelspannung	1
+1351	Mittelspannung	11
+1352	Mittelspannung	25
+1352	Hochspannung	2
+1353	Mittelspannung	4
+1354	Mittelspannung	6
+1355	Mittelspannung	7
+1356	Mittelspannung	4
+1357	Mittelspannung	9
+1358	Hochspannung	10
+1359	Hochspannung	19
+1360	Mittelspannung	11
+1361	Mittelspannung	5
+1362	Mittelspannung	3
+1362	Umspannebene Hochspannung/Mittelspannung	1
+1363	Mittelspannung	11
+1364	Mittelspannung	7
+1365	Mittelspannung	5
+1366	Umspannebene Hochspannung/Mittelspannung	5
+1367	Mittelspannung	4
+1368	Umspannebene Hochspannung/Mittelspannung	3
+1368	Mittelspannung	2
+1369	Umspannebene Hochspannung/Mittelspannung	22
+1370	Hochspannung	64
+1370	Mittelspannung	5
+1370	Umspannebene Hochspannung/Mittelspannung	1
+1371	Mittelspannung	11
+1372	Umspannebene Hochspannung/Mittelspannung	12
+1372	Mittelspannung	6
+1373	Mittelspannung	20
+1373	Hochspannung	4
+1373	Niederspannung	1
+1374	Umspannebene Hochspannung/Mittelspannung	5
+1374	Mittelspannung	3
+1375	Umspannebene Hochspannung/Mittelspannung	4
+1375	Mittelspannung	2
+1376	Mittelspannung	4
+1377	Hochspannung	15
+1378	Umspannebene Hochspannung/Mittelspannung	13
+1378	Hochspannung	11
+1378	Mittelspannung	7
+1379	Mittelspannung	6
+1380	Mittelspannung	5
+1381	Mittelspannung	10
+1382	Umspannebene Hochspannung/Mittelspannung	7
+1383	Umspannebene Hochspannung/Mittelspannung	5
+1383	Mittelspannung	2
+1384	Mittelspannung	6
+1385	Hochspannung	6
+1385	Mittelspannung	2
+1386	Hochspannung	10
+1386	Mittelspannung	2
+1387	Hochspannung	11
+1387	Mittelspannung	2
+1388	Mittelspannung	5
+1389	Umspannebene Hochspannung/Mittelspannung	11
+1389	Mittelspannung	5
+1390	Umspannebene Hochspannung/Mittelspannung	8
+1390	Mittelspannung	1
+1391	Hochspannung	4
+1391	Mittelspannung	1
+1392	Mittelspannung	19
+1393	Umspannebene Hochspannung/Mittelspannung	7
+1394	Mittelspannung	13
+1395	Umspannebene Hochspannung/Mittelspannung	5
+1395	Mittelspannung	1
+1396	Mittelspannung	6
+1397	Mittelspannung	7
+1398	Mittelspannung	7
+1399	Mittelspannung	4
+1400	Mittelspannung	5
+1401	Hochspannung	5
+1402	Hochspannung	45
+1402	Mittelspannung	2
+1403	Umspannebene Hochspannung/Mittelspannung	6
+1403	Mittelspannung	2
+1404	Hochspannung	5
+1405	Hochspannung	9
+1405	Mittelspannung	1
+1406	Mittelspannung	4
+1407	Umspannebene Hochspannung/Mittelspannung	6
+1407	Mittelspannung	2
+1408	Mittelspannung	11
+1408	Hochspannung	3
+1409	Mittelspannung	7
+1410	Mittelspannung	5
+1411	Umspannebene Hochspannung/Mittelspannung	4
+1412	Hochspannung	15
+1413	Umspannebene Hochspannung/Mittelspannung	9
+1413	Mittelspannung	2
+1414	Mittelspannung	4
+1415	Mittelspannung	4
+1416	Mittelspannung	23
+1417	Umspannebene Hochspannung/Mittelspannung	4
+1418	Hochspannung	6
+1419	Mittelspannung	4
+1420	Mittelspannung	11
+1421	Hochspannung	35
+1421	Mittelspannung	6
+1421	Umspannebene Hochspannung/Mittelspannung	6
+1422	Mittelspannung	4
+1423	Mittelspannung	5
+1423	Umspannebene Hochspannung/Mittelspannung	4
+1424	Hochspannung	20
+1424	Mittelspannung	4
+1424	Umspannebene Hochspannung/Mittelspannung	3
+1425	Umspannebene Hochspannung/Mittelspannung	8
+1425	Mittelspannung	6
+1426	Hochspannung	5
+1426	Mittelspannung	2
+1427	Niederspannung	3
+1427	Mittelspannung	1
+1428	Mittelspannung	5
+1428	Umspannebene Hochspannung/Mittelspannung	5
+1429	Mittelspannung	6
+1429	Umspannebene Hochspannung/Mittelspannung	4
+1430	Mittelspannung	6
+1431	Hochspannung	7
+1432	Hochspannung	4
+1433	Mittelspannung	5
+1433	Umspannebene Hochspannung/Mittelspannung	5
+1434	Mittelspannung	4
+1435	Mittelspannung	4
+1436	Mittelspannung	27
+1436	Umspannebene Hochspannung/Mittelspannung	10
+1437	Umspannebene Hochspannung/Mittelspannung	4
+1438	Hochspannung	22
+1439	Mittelspannung	6
+1440	Hochspannung	6
+1440	Mittelspannung	6
+1440	Umspannebene Hochspannung/Mittelspannung	6
+1441	Mittelspannung	4
+1442	Mittelspannung	6
+1443	Umspannebene Hochspannung/Mittelspannung	7
+1444	Umspannebene Hochspannung/Mittelspannung	6
+1444	Mittelspannung	2
+1445	Mittelspannung	3
+1445	Niederspannung	1
+1446	Mittelspannung	5
+1446	Niederspannung	1
+1447	Mittelspannung	9
+1447	Umspannebene Hochspannung/Mittelspannung	5
+1448	Hochspannung	68
+1448	Mittelspannung	3
+1449	Mittelspannung	4
+1450	Umspannebene Hochspannung/Mittelspannung	4
+1450	Mittelspannung	2
+1451	Umspannebene Hochspannung/Mittelspannung	9
+1451	Mittelspannung	2
+1452	Umspannebene Hochspannung/Mittelspannung	4
+1453	Umspannebene Hochspannung/Mittelspannung	4
+1454	Hochspannung	3
+1454	Mittelspannung	2
+1455	Hochspannung	15
+1456	Mittelspannung	14
+1457	Hochspannung	16
+1457	Niederspannung	2
+1458	Mittelspannung	5
+1459	Mittelspannung	4
+1459	Umspannebene Hochspannung/Mittelspannung	1
+1460	Mittelspannung	4
+1461	Hochspannung	10
+1461	Mittelspannung	5
+1461	Umspannebene Hochspannung/Mittelspannung	1
+1462	Hochspannung	8
+1462	Umspannebene Hochspannung/Mittelspannung	2
+1463	Umspannebene Hochspannung/Mittelspannung	4
+1463	Mittelspannung	1
+1464	Umspannebene Hochspannung/Mittelspannung	8
+1464	Mittelspannung	3
+1465	Umspannebene Hochspannung/Mittelspannung	4
+1465	Mittelspannung	1
+1466	Umspannebene Hochspannung/Mittelspannung	9
+1466	Hochspannung	8
+1466	Mittelspannung	2
+1467	Hochspannung	20
+1467	Umspannebene Hochspannung/Mittelspannung	4
+1467	Mittelspannung	2
+1468	Mittelspannung	5
+1468	Niederspannung	1
+1469	Mittelspannung	5
+1470	Mittelspannung	13
+1471	Mittelspannung	8
+1471	Niederspannung	1
+1472	Mittelspannung	7
+1473	Hochspannung	6
+1474	Mittelspannung	4
+1474	Hochspannung	2
+1475	Mittelspannung	4
+1476	Umspannebene Hochspannung/Mittelspannung	4
+1476	Mittelspannung	2
+1477	Mittelspannung	4
+1478	Hochspannung	10
+1479	Hochspannung	4
+1480	Umspannebene Hochspannung/Mittelspannung	13
+1481	Mittelspannung	5
+1482	Mittelspannung	4
+1483	Hochspannung	6
+1484	Hochspannung	10
+1485	Hochspannung	4
+1485	Mittelspannung	1
+1486	Hochspannung	20
+1486	Mittelspannung	1
+1487	Mittelspannung	4
+1487	Umspannebene Hochspannung/Mittelspannung	4
+1487	Niederspannung	1
+1488	Mittelspannung	8
+1489	Mittelspannung	4
+1490	Mittelspannung	4
+1491	Umspannebene Hochspannung/Mittelspannung	4
+1491	Mittelspannung	3
+1492	Umspannebene Hochspannung/Mittelspannung	5
+1492	Mittelspannung	2
+1493	Umspannebene Hochspannung/Mittelspannung	6
+1494	Mittelspannung	5
+1495	Hochspannung	6
+1496	Hochspannung	5
+1497	Mittelspannung	13
+1497	Niederspannung	1
+1498	Mittelspannung	5
+1499	Mittelspannung	10
+1500	Hochspannung	5
+1501	Hochspannung	4
+1502	Umspannebene Hochspannung/Mittelspannung	5
+1503	Mittelspannung	18
+1504	Mittelspannung	7
+1505	Mittelspannung	19
+1506	Mittelspannung	4
+1507	Mittelspannung	6
+1508	Mittelspannung	15
+1509	Umspannebene Hochspannung/Mittelspannung	6
+1509	Mittelspannung	4
+1510	Mittelspannung	5
+1511	Höchstspannung	13
+1511	Mittelspannung	4
+1511	Umspannebene Mittelspannung/Niederspannung	1
+1512	Umspannebene Hochspannung/Mittelspannung	7
+1512	Mittelspannung	1
+1513	Umspannebene Hochspannung/Mittelspannung	6
+1514	Mittelspannung	10
+1515	Hochspannung	17
+1515	Mittelspannung	2
+1516	Hochspannung	16
+1516	Umspannebene Höchstspannung/Hochspannung	1
+1517	Hochspannung	8
+1518	Mittelspannung	9
+1518	Umspannebene Hochspannung/Mittelspannung	8
+1519	Mittelspannung	4
+1520	Höchstspannung	9
+1520	Mittelspannung	3
+1521	Mittelspannung	8
+1522	Mittelspannung	12
+1522	Umspannebene Mittelspannung/Niederspannung	1
+1523	Umspannebene Höchstspannung/Hochspannung	23
+1523	Mittelspannung	9
+1524	Umspannebene Hochspannung/Mittelspannung	7
+1524	Mittelspannung	4
+1524	Niederspannung	1
+1525	Mittelspannung	4
+1526	Hochspannung	24
+1526	Mittelspannung	6
+1526	Niederspannung	1
+1527	Mittelspannung	14
+1528	Hochspannung	8
+1528	Umspannebene Hochspannung/Mittelspannung	6
+1528	Mittelspannung	2
+1529	Umspannebene Hochspannung/Mittelspannung	2
+1529	Höchstspannung	1
+1530	Hochspannung	8
+1531	Umspannebene Hochspannung/Mittelspannung	5
+1531	Mittelspannung	1
+1532	Höchstspannung	9
+1533	Umspannebene Hochspannung/Mittelspannung	12
+1533	Mittelspannung	10
+1534	Mittelspannung	6
+1535	Hochspannung	4
+1536	Umspannebene Hochspannung/Mittelspannung	21
+1536	Mittelspannung	5
+1536	Umspannebene Mittelspannung/Niederspannung	1
+1537	Hochspannung	9
+1537	Mittelspannung	8
+1537	Umspannebene Mittelspannung/Niederspannung	1
+1538	Umspannebene Hochspannung/Mittelspannung	11
+1539	Mittelspannung	7
+1540	Mittelspannung	7
+1540	Umspannebene Hochspannung/Mittelspannung	6
+1541	Höchstspannung	10
+1541	Umspannebene Hochspannung/Mittelspannung	1
+1542	Mittelspannung	10
+1542	Hochspannung	5
+1543	Mittelspannung	12
+1543	Umspannebene Hochspannung/Mittelspannung	7
+1544	Hochspannung	4
+1544	Mittelspannung	3
+1544	Umspannebene Hochspannung/Mittelspannung	3
+1545	Hochspannung	4
+1545	Mittelspannung	4
+1546	Umspannebene Hochspannung/Mittelspannung	5
+1547	Hochspannung	21
+1547	Mittelspannung	19
+1547	Umspannebene Hochspannung/Mittelspannung	2
+1548	Umspannebene Hochspannung/Mittelspannung	9
+1548	Mittelspannung	1
+1549	Mittelspannung	8
+1550	Mittelspannung	5
+1551	Hochspannung	5
+1552	Mittelspannung	6
+1552	Umspannebene Hochspannung/Mittelspannung	5
+1553	Mittelspannung	4
+1554	Mittelspannung	9
+1554	Niederspannung	1
+1555	Hochspannung	5
+1555	Mittelspannung	3
+1556	Mittelspannung	11
+1557	Höchstspannung	6
+1557	Mittelspannung	4
+1558	Mittelspannung	6
+1558	Umspannebene Hochspannung/Mittelspannung	1
+1559	Mittelspannung	34
+1559	Umspannebene Hochspannung/Mittelspannung	13
+1559	Hochspannung	5
+1560	Mittelspannung	3
+1560	Umspannebene Hochspannung/Mittelspannung	2
+1561	Mittelspannung	15
+1562	Mittelspannung	23
+1562	Hochspannung	8
+1563	Mittelspannung	3
+1564	Mittelspannung	8
+1564	Hochspannung	3
+1565	Mittelspannung	14
+1566	Mittelspannung	17
+1567	Mittelspannung	6
+1567	Umspannebene Hochspannung/Mittelspannung	4
+1568	Umspannebene Hochspannung/Mittelspannung	10
+1568	Mittelspannung	6
+1569	Hochspannung	2
+1569	Mittelspannung	2
+1570	Mittelspannung	6
+1570	Hochspannung	5
+1571	Mittelspannung	11
+1572	Umspannebene Hochspannung/Mittelspannung	18
+1572	Mittelspannung	6
+1573	Umspannebene Hochspannung/Mittelspannung	4
+1574	Mittelspannung	11
+1574	Umspannebene Hochspannung/Mittelspannung	11
+1575	Umspannebene Hochspannung/Mittelspannung	8
+1575	Mittelspannung	7
+1576	Mittelspannung	10
+1576	Hochspannung	4
+1576	Umspannebene Hochspannung/Mittelspannung	4
+1577	Mittelspannung	6
+1578	Mittelspannung	9
+1579	Mittelspannung	5
+1580	Mittelspannung	6
+1581	Mittelspannung	7
+1581	Hochspannung	4
+1581	Umspannebene Mittelspannung/Niederspannung	1
+1582	Mittelspannung	6
+1583	Mittelspannung	4
+1583	Umspannebene Hochspannung/Mittelspannung	3
+1584	Mittelspannung	17
+1584	Umspannebene Hochspannung/Mittelspannung	10
+1584	Umspannebene Mittelspannung/Niederspannung	1
+1585	Umspannebene Hochspannung/Mittelspannung	13
+1585	Mittelspannung	5
+1586	Mittelspannung	3
+1586	Umspannebene Hochspannung/Mittelspannung	1
+1587	Mittelspannung	31
+1587	Hochspannung	12
+1587	Umspannebene Hochspannung/Mittelspannung	9
+1588	Mittelspannung	4
+1589	Mittelspannung	5
+1590	Mittelspannung	5
+1590	Niederspannung	1
+1591	Mittelspannung	6
+1592	Mittelspannung	10
+1592	Hochspannung	7
+1593	Mittelspannung	6
+1594	Umspannebene Hochspannung/Mittelspannung	11
+1594	Mittelspannung	4
+1595	Mittelspannung	7
+1595	Niederspannung	2
+1596	Mittelspannung	4
+1596	Umspannebene Hochspannung/Mittelspannung	3
+1596	Hochspannung	2
+1597	Hochspannung	7
+1597	Umspannebene Hochspannung/Mittelspannung	6
+1598	Mittelspannung	9
+1598	Umspannebene Hochspannung/Mittelspannung	1
+1599	Umspannebene Hochspannung/Mittelspannung	5
+1599	Mittelspannung	1
+1600	Umspannebene Hochspannung/Mittelspannung	6
+1601	Hochspannung	5
+1602	Umspannebene Hochspannung/Mittelspannung	5
+1602	Mittelspannung	2
+1603	Mittelspannung	11
+1603	Umspannebene Hochspannung/Mittelspannung	1
+1604	Mittelspannung	9
+1604	Umspannebene Hochspannung/Mittelspannung	7
+1605	Umspannebene Hochspannung/Mittelspannung	19
+1605	Mittelspannung	18
+1605	Hochspannung	4
+1606	Mittelspannung	12
+1607	Mittelspannung	11
+1608	Mittelspannung	11
+1609	Umspannebene Hochspannung/Mittelspannung	6
+1610	Mittelspannung	6
+1611	Mittelspannung	4
+1612	Mittelspannung	10
+1613	Hochspannung	4
+1613	Mittelspannung	3
+1614	Hochspannung	8
+1615	Umspannebene Hochspannung/Mittelspannung	4
+1616	Mittelspannung	11
+1616	Umspannebene Hochspannung/Mittelspannung	8
+1617	Umspannebene Hochspannung/Mittelspannung	15
+1617	Mittelspannung	2
+1617	Hochspannung	1
+1618	Mittelspannung	7
+1619	Mittelspannung	12
+1620	Umspannebene Hochspannung/Mittelspannung	4
+1620	Mittelspannung	3
+1621	Mittelspannung	49
+1621	Umspannebene Hochspannung/Mittelspannung	1
+1622	Mittelspannung	10
+1622	Umspannebene Hochspannung/Mittelspannung	10
+1623	Umspannebene Hochspannung/Mittelspannung	5
+1623	Mittelspannung	3
+1624	Umspannebene Hochspannung/Mittelspannung	4
+1624	Mittelspannung	1
+1625	Mittelspannung	5
+1625	Umspannebene Hochspannung/Mittelspannung	1
+1626	Mittelspannung	9
+1626	Umspannebene Hochspannung/Mittelspannung	2
+1627	Umspannebene Hochspannung/Mittelspannung	19
+1627	Mittelspannung	7
+1628	Mittelspannung	6
+1628	Umspannebene Hochspannung/Mittelspannung	4
+1629	Hochspannung	5
+1629	Mittelspannung	3
+1630	Mittelspannung	6
+1631	Mittelspannung	6
+1632	Umspannebene Hochspannung/Mittelspannung	5
+1633	Umspannebene Hochspannung/Mittelspannung	9
+1634	Mittelspannung	3
+1634	Umspannebene Hochspannung/Mittelspannung	1
+1635	Mittelspannung	6
+1635	Umspannebene Hochspannung/Mittelspannung	6
+1636	Hochspannung	33
+1636	Umspannebene Hochspannung/Mittelspannung	21
+1636	Mittelspannung	19
+1637	Mittelspannung	6
+1637	Umspannebene Hochspannung/Mittelspannung	5
+1637	Hochspannung	1
+1637	Niederspannung	1
+1638	Hochspannung	35
+1638	Mittelspannung	4
+1638	Umspannebene Hochspannung/Mittelspannung	2
+1639	Hochspannung	12
+1639	Mittelspannung	11
+1639	Umspannebene Hochspannung/Mittelspannung	2
+1640	Mittelspannung	10
+1641	Mittelspannung	9
+1641	Umspannebene Hochspannung/Mittelspannung	4
+1642	Umspannebene Hochspannung/Mittelspannung	8
+1642	Mittelspannung	1
+1643	Umspannebene Hochspannung/Mittelspannung	3
+1643	Mittelspannung	1
+1644	Mittelspannung	14
+1644	Umspannebene Hochspannung/Mittelspannung	7
+1645	Umspannebene Hochspannung/Mittelspannung	4
+1646	Mittelspannung	5
+1647	Umspannebene Hochspannung/Mittelspannung	5
+1648	Hochspannung	17
+1648	Umspannebene Hochspannung/Mittelspannung	4
+1649	Umspannebene Hochspannung/Mittelspannung	6
+1649	Hochspannung	2
+1650	Hochspannung	10
+1650	Mittelspannung	8
+1650	Umspannebene Hochspannung/Mittelspannung	8
+1651	Umspannebene Hochspannung/Mittelspannung	3
+1651	Mittelspannung	2
+1652	Mittelspannung	7
+1652	Umspannebene Hochspannung/Mittelspannung	1
+1653	Mittelspannung	22
+1653	Umspannebene Hochspannung/Mittelspannung	21
+1653	Umspannebene Höchstspannung/Hochspannung	2
+1654	Höchstspannung	8
+1655	Umspannebene Hochspannung/Mittelspannung	13
+1655	Mittelspannung	2
+1656	Mittelspannung	17
+1656	Umspannebene Hochspannung/Mittelspannung	5
+1657	Umspannebene Hochspannung/Mittelspannung	6
+1657	Mittelspannung	3
+1658	Hochspannung	6
+1659	Umspannebene Hochspannung/Mittelspannung	9
+1660	Mittelspannung	24
+1660	Umspannebene Hochspannung/Mittelspannung	12
+1660	Hochspannung	4
+1661	Mittelspannung	10
+1661	Hochspannung	6
+1662	Mittelspannung	5
+1662	Umspannebene Hochspannung/Mittelspannung	2
+1663	Umspannebene Hochspannung/Mittelspannung	5
+1663	Umspannebene Mittelspannung/Niederspannung	1
+1664	Mittelspannung	16
+1665	Hochspannung	14
+1666	Mittelspannung	7
+1666	Umspannebene Hochspannung/Mittelspannung	6
+1667	Mittelspannung	12
+1667	Hochspannung	8
+1667	Umspannebene Hochspannung/Mittelspannung	6
+1668	Umspannebene Hochspannung/Mittelspannung	7
+1668	Mittelspannung	1
+1669	Umspannebene Hochspannung/Mittelspannung	6
+1669	Mittelspannung	2
+1670	Mittelspannung	4
+1670	Niederspannung	1
+1671	Hochspannung	16
+1671	Mittelspannung	5
+1671	Umspannebene Hochspannung/Mittelspannung	1
+1672	Umspannebene Hochspannung/Mittelspannung	5
+1672	Mittelspannung	1
+1673	Umspannebene Hochspannung/Mittelspannung	18
+1673	Mittelspannung	7
+1674	Hochspannung	22
+1674	Mittelspannung	11
+1674	Umspannebene Hochspannung/Mittelspannung	1
+1675	Hochspannung	12
+1675	Umspannebene Hochspannung/Mittelspannung	2
+1676	Umspannebene Hochspannung/Mittelspannung	4
+1676	Mittelspannung	2
+1677	Umspannebene Hochspannung/Mittelspannung	7
+1677	Mittelspannung	4
+1678	Hochspannung	10
+1679	Höchstspannung	11
+1679	Mittelspannung	6
+1679	Umspannebene Hochspannung/Mittelspannung	6
+1679	Hochspannung	2
+1680	Mittelspannung	5
+1681	Mittelspannung	6
+1682	Hochspannung	10
+1682	Mittelspannung	2
+1683	Hochspannung	20
+1683	Mittelspannung	4
+1684	Mittelspannung	7
+1685	Mittelspannung	7
+1686	Umspannebene Hochspannung/Mittelspannung	4
+1686	Mittelspannung	2
+1687	Mittelspannung	5
+1688	Mittelspannung	6
+1689	Umspannebene Hochspannung/Mittelspannung	5
+1690	Umspannebene Hochspannung/Mittelspannung	6
+1690	Mittelspannung	4
+1691	Mittelspannung	4
+1692	Mittelspannung	16
+1692	Niederspannung	1
+1693	Hochspannung	23
+1693	Umspannebene Hochspannung/Mittelspannung	6
+1693	Mittelspannung	4
+1694	Höchstspannung	4
+1694	Hochspannung	3
+1695	Hochspannung	4
+1696	Mittelspannung	3
+1696	Niederspannung	1
+1697	Mittelspannung	4
+1698	Mittelspannung	7
+1699	Hochspannung	6
+1700	Umspannebene Hochspannung/Mittelspannung	2
+1700	Umspannebene Mittelspannung/Niederspannung	2
+1701	Mittelspannung	10
+1701	Umspannebene Hochspannung/Mittelspannung	2
+1701	Hochspannung	1
+1702	Hochspannung	4
+1703	Hochspannung	6
+1704	Mittelspannung	7
+1705	Hochspannung	7
+1706	Mittelspannung	14
+1707	Mittelspannung	11
+1708	Umspannebene Hochspannung/Mittelspannung	4
+1708	Mittelspannung	3
+1709	Mittelspannung	10
+1710	Mittelspannung	4
+1710	Umspannebene Hochspannung/Mittelspannung	1
+1711	Mittelspannung	8
+1712	Umspannebene Hochspannung/Mittelspannung	4
+1712	Mittelspannung	2
+1712	Niederspannung	1
+1713	Mittelspannung	9
+1714	Hochspannung	10
+1714	Niederspannung	1
+1715	Umspannebene Hochspannung/Mittelspannung	11
+1715	Hochspannung	8
+1715	Mittelspannung	4
+1716	Mittelspannung	26
+1717	Umspannebene Hochspannung/Mittelspannung	6
+1718	Mittelspannung	6
+1719	Hochspannung	13
+1719	Mittelspannung	12
+1719	Umspannebene Hochspannung/Mittelspannung	10
+1719	Höchstspannung	4
+1720	Hochspannung	10
+1720	Mittelspannung	1
+1721	Mittelspannung	5
+1721	Umspannebene Mittelspannung/Niederspannung	1
+1722	Umspannebene Hochspannung/Mittelspannung	13
+1722	Hochspannung	9
+1723	Hochspannung	16
+1723	Mittelspannung	16
+1723	Umspannebene Hochspannung/Mittelspannung	10
+1724	Mittelspannung	10
+1724	Umspannebene Hochspannung/Mittelspannung	4
+1725	Hochspannung	15
+1725	Umspannebene Hochspannung/Mittelspannung	6
+1725	Mittelspannung	1
+1725	Umspannebene Mittelspannung/Niederspannung	1
+1726	Hochspannung	10
+1726	Mittelspannung	1
+1727	Mittelspannung	5
+1728	Mittelspannung	9
+1729	Umspannebene Hochspannung/Mittelspannung	5
+1729	Mittelspannung	2
+1730	Mittelspannung	4
+1730	Umspannebene Mittelspannung/Niederspannung	4
+1730	Niederspannung	2
+1731	Mittelspannung	5
+1731	Niederspannung	1
+1732	Mittelspannung	13
+1732	Umspannebene Mittelspannung/Niederspannung	1
+1733	Mittelspannung	10
+1734	Hochspannung	21
+1735	Mittelspannung	5
+1735	Umspannebene Mittelspannung/Niederspannung	2
+1736	Umspannebene Hochspannung/Mittelspannung	3
+1736	Mittelspannung	2
+1737	Mittelspannung	3
+1738	Hochspannung	91
+1738	Mittelspannung	27
+1738	Umspannebene Hochspannung/Mittelspannung	25
+1739	Mittelspannung	4
+1740	Mittelspannung	4
+1741	Mittelspannung	5
+1741	Umspannebene Hochspannung/Mittelspannung	2
+1742	Umspannebene Hochspannung/Mittelspannung	7
+1742	Mittelspannung	1
+1743	Hochspannung	5
+1743	Mittelspannung	5
+1744	Mittelspannung	5
+1745	Hochspannung	18
+1745	Umspannebene Hochspannung/Mittelspannung	11
+1745	Umspannebene Mittelspannung/Niederspannung	1
+1746	Mittelspannung	6
+1746	Umspannebene Mittelspannung/Niederspannung	4
+1746	Niederspannung	1
+1747	Hochspannung	36
+1747	Mittelspannung	31
+1747	Umspannebene Hochspannung/Mittelspannung	26
+1747	Umspannebene Mittelspannung/Niederspannung	2
+1748	Hochspannung	4
+1748	Mittelspannung	2
+1749	Mittelspannung	10
+1750	Hochspannung	10
+1750	Umspannebene Hochspannung/Mittelspannung	3
+1751	Mittelspannung	6
+1752	Mittelspannung	8
+1753	Mittelspannung	5
+1754	Mittelspannung	8
+1755	Umspannebene Hochspannung/Mittelspannung	12
+1755	Hochspannung	8
+1755	Mittelspannung	4
+1756	Mittelspannung	4
+1757	Mittelspannung	4
+1757	Umspannebene Höchstspannung/Hochspannung	3
+1758	Umspannebene Hochspannung/Mittelspannung	23
+1758	Mittelspannung	3
+1759	Mittelspannung	2
+1759	Hochspannung	1
+1760	Mittelspannung	24
+1760	Hochspannung	10
+1761	Mittelspannung	4
+1761	Hochspannung	2
+1762	Mittelspannung	13
+1763	Mittelspannung	4
+1764	Mittelspannung	6
+1765	Mittelspannung	5
+1766	Mittelspannung	10
+1767	Mittelspannung	7
+1768	Umspannebene Höchstspannung/Hochspannung	9
+1768	Umspannebene Hochspannung/Mittelspannung	7
+1768	Mittelspannung	4
+1769	Hochspannung	5
+1769	Umspannebene Hochspannung/Mittelspannung	5
+1769	Mittelspannung	3
+1770	Umspannebene Mittelspannung/Niederspannung	2
+1770	Mittelspannung	1
+1770	Niederspannung	1
+1771	Umspannebene Hochspannung/Mittelspannung	8
+1771	Mittelspannung	6
+1772	Mittelspannung	5
+1772	Niederspannung	4
+1773	Mittelspannung	7
+1774	Umspannebene Hochspannung/Mittelspannung	9
+1775	Mittelspannung	4
+1776	Hochspannung	4
+1776	Mittelspannung	1
+1777	Mittelspannung	26
+1777	Umspannebene Hochspannung/Mittelspannung	25
+1777	Hochspannung	3
+1777	Umspannebene Mittelspannung/Niederspannung	1
+1778	Hochspannung	13
+1778	Mittelspannung	12
+1778	Umspannebene Hochspannung/Mittelspannung	9
+1779	Umspannebene Hochspannung/Mittelspannung	8
+1780	Mittelspannung	6
+1781	Hochspannung	8
+1782	Mittelspannung	23
+1783	Hochspannung	5
+1784	Mittelspannung	8
+1784	Umspannebene Hochspannung/Mittelspannung	2
+1785	Mittelspannung	4
+1786	Mittelspannung	6
+1787	Mittelspannung	16
+1788	Mittelspannung	6
+1788	Niederspannung	1
+1789	Mittelspannung	3
+1789	Niederspannung	2
+1790	Mittelspannung	25
+1791	Umspannebene Hochspannung/Mittelspannung	9
+1791	Mittelspannung	6
+1792	Umspannebene Hochspannung/Mittelspannung	4
+1793	Hochspannung	2
+1793	Umspannebene Hochspannung/Mittelspannung	2
+1794	Mittelspannung	4
+1794	Umspannebene Mittelspannung/Niederspannung	3
+1795	Umspannebene Mittelspannung/Niederspannung	5
+1795	Niederspannung	3
+1795	Mittelspannung	1
+1796	Mittelspannung	4
+1797	Mittelspannung	11
+1798	Mittelspannung	8
+1799	Umspannebene Hochspannung/Mittelspannung	13
+1800	Umspannebene Hochspannung/Mittelspannung	8
+1801	Hochspannung	17
+1802	Hochspannung	12
+1802	Umspannebene Hochspannung/Mittelspannung	7
+1803	Hochspannung	6
+1803	Mittelspannung	6
+1804	Mittelspannung	4
+1805	Mittelspannung	3
+1806	Mittelspannung	2
+1806	Hochspannung	1
+1806	Umspannebene Mittelspannung/Niederspannung	1
+1807	Mittelspannung	21
+1807	Umspannebene Mittelspannung/Niederspannung	1
+1808	Mittelspannung	4
+1809	Mittelspannung	6
+1810	Umspannebene Hochspannung/Mittelspannung	3
+1810	Mittelspannung	1
+1811	Mittelspannung	3
+1811	Umspannebene Hochspannung/Mittelspannung	3
+1811	Umspannebene Mittelspannung/Niederspannung	3
+1812	Umspannebene Hochspannung/Mittelspannung	7
+1812	Mittelspannung	2
+1813	Hochspannung	3
+1813	Mittelspannung	1
+1813	Niederspannung	1
+1814	Umspannebene Hochspannung/Mittelspannung	37
+1814	Hochspannung	6
+1814	Mittelspannung	2
+1815	Mittelspannung	5
+1815	Umspannebene Hochspannung/Mittelspannung	2
+1816	Mittelspannung	10
+1817	Mittelspannung	15
+1818	Hochspannung	22
+1819	Mittelspannung	5
+1820	Mittelspannung	9
+1821	Mittelspannung	7
+1822	Mittelspannung	7
+1822	Niederspannung	1
+1823	Mittelspannung	10
+1824	Mittelspannung	9
+1825	Mittelspannung	7
+1826	Mittelspannung	6
+1826	Umspannebene Hochspannung/Mittelspannung	3
+1827	Mittelspannung	12
+1827	Umspannebene Hochspannung/Mittelspannung	6
+1828	Mittelspannung	4
+1829	Mittelspannung	4
+1830	Mittelspannung	13
+1830	Hochspannung	10
+1831	Hochspannung	29
+1832	Hochspannung	21
+1832	Mittelspannung	5
+1833	Hochspannung	4
+1833	Mittelspannung	1
+1834	Mittelspannung	19
+1834	Hochspannung	4
+1835	Mittelspannung	10
+1836	Umspannebene Hochspannung/Mittelspannung	3
+1836	Mittelspannung	1
+1837	Mittelspannung	7
+1838	Hochspannung	4
+1838	Mittelspannung	4
+1839	Umspannebene Hochspannung/Mittelspannung	6
+1840	Mittelspannung	8
+1841	Mittelspannung	20
+1842	Mittelspannung	9
+1842	Niederspannung	1
+1843	Mittelspannung	5
+1844	Mittelspannung	5
+1845	Mittelspannung	7
+1846	Höchstspannung	25
+1846	Mittelspannung	4
+1847	Umspannebene Hochspannung/Mittelspannung	12
+1847	Mittelspannung	1
+1848	Mittelspannung	13
+1849	Höchstspannung	10
+1850	Mittelspannung	7
+1851	Mittelspannung	8
+1852	Hochspannung	23
+1853	Mittelspannung	6
+1854	Mittelspannung	7
+1855	Mittelspannung	4
+1856	Mittelspannung	42
+1857	Mittelspannung	6
+1858	Mittelspannung	5
+1859	Mittelspannung	14
+1859	Umspannebene Mittelspannung/Niederspannung	1
+1860	Mittelspannung	10
+1861	Mittelspannung	4
+1862	Mittelspannung	4
+1863	Mittelspannung	11
+1864	Mittelspannung	2
+1864	Niederspannung	1
+1865	Mittelspannung	11
+1865	Umspannebene Mittelspannung/Niederspannung	2
+1866	Mittelspannung	5
+1867	Mittelspannung	13
+1867	Umspannebene Hochspannung/Mittelspannung	1
+1868	Umspannebene Hochspannung/Mittelspannung	12
+1868	Mittelspannung	3
+1869	Mittelspannung	11
+1870	Mittelspannung	6
+1871	Mittelspannung	10
+1871	Umspannebene Hochspannung/Mittelspannung	4
+1872	Mittelspannung	4
+1873	Mittelspannung	6
+1874	Mittelspannung	17
+1874	Hochspannung	12
+1875	Hochspannung	7
+1875	Mittelspannung	2
+1876	Mittelspannung	5
+1877	Mittelspannung	5
+1878	Mittelspannung	9
+1879	Umspannebene Hochspannung/Mittelspannung	6
+1879	Mittelspannung	1
+1880	Mittelspannung	4
+1881	Mittelspannung	4
+1881	Niederspannung	1
+1881	Umspannebene Mittelspannung/Niederspannung	1
+1882	Mittelspannung	24
+1882	Umspannebene Hochspannung/Mittelspannung	3
+1882	Umspannebene Mittelspannung/Niederspannung	1
+1883	Mittelspannung	9
+1884	Mittelspannung	6
+1885	Umspannebene Hochspannung/Mittelspannung	4
+1885	Mittelspannung	1
+1886	Umspannebene Hochspannung/Mittelspannung	4
+1887	Mittelspannung	7
+1888	Mittelspannung	4
+1889	Umspannebene Hochspannung/Mittelspannung	10
+1890	Mittelspannung	5
+1890	Umspannebene Hochspannung/Mittelspannung	5
+1891	Mittelspannung	4
+1892	Mittelspannung	11
+1893	Mittelspannung	8
+1894	Mittelspannung	12
+1895	Mittelspannung	5
+1896	Mittelspannung	10
+1897	Mittelspannung	3
+1897	Umspannebene Hochspannung/Mittelspannung	2
+1898	Mittelspannung	6
+1898	Niederspannung	1
+1899	Mittelspannung	5
+1900	Mittelspannung	22
+1900	Hochspannung	3
+1901	Hochspannung	5
+1902	Umspannebene Hochspannung/Mittelspannung	13
+1902	Hochspannung	5
+1902	Mittelspannung	3
+1903	Hochspannung	4
+1903	Mittelspannung	2
+1904	Mittelspannung	6
+1905	Mittelspannung	8
+1905	Hochspannung	4
+1905	Umspannebene Hochspannung/Mittelspannung	4
+1905	Niederspannung	1
+1906	Mittelspannung	4
+1907	Mittelspannung	8
+1908	Mittelspannung	2
+1908	Umspannebene Hochspannung/Mittelspannung	2
+1909	Umspannebene Hochspannung/Mittelspannung	4
+1910	Mittelspannung	7
+1911	Mittelspannung	8
+1912	Mittelspannung	4
+1913	Umspannebene Hochspannung/Mittelspannung	10
+1914	Umspannebene Hochspannung/Mittelspannung	6
+1914	Mittelspannung	1
+1914	Umspannebene Mittelspannung/Niederspannung	1
+1915	Mittelspannung	3
+1915	Umspannebene Mittelspannung/Niederspannung	1
+1916	Mittelspannung	10
+1917	Hochspannung	9
+1917	Mittelspannung	2
+1917	Umspannebene Hochspannung/Mittelspannung	2
+1918	Mittelspannung	9
+1919	Hochspannung	5
+1919	Mittelspannung	5
+1920	Mittelspannung	4
+1921	Hochspannung	9
+1921	Niederspannung	1
+1922	Mittelspannung	8
+1923	Umspannebene Hochspannung/Mittelspannung	7
+1923	Mittelspannung	1
+1924	Mittelspannung	6
+1925	Hochspannung	7
+1925	Mittelspannung	1
+1926	Hochspannung	20
+1927	Umspannebene Hochspannung/Mittelspannung	4
+1928	Mittelspannung	7
+1928	Niederspannung	1
+1928	Umspannebene Mittelspannung/Niederspannung	1
+1929	Mittelspannung	6
+1930	Hochspannung	15
+1931	Hochspannung	5
+1931	Mittelspannung	1
+1932	Mittelspannung	13
+1933	Mittelspannung	6
+1934	Umspannebene Hochspannung/Mittelspannung	7
+1934	Mittelspannung	2
+1935	Mittelspannung	7
+1935	Umspannebene Hochspannung/Mittelspannung	2
+1936	Mittelspannung	7
+1937	Mittelspannung	9
+1938	Mittelspannung	5
+1938	Umspannebene Hochspannung/Mittelspannung	2
+1939	Mittelspannung	4
+1940	Hochspannung	9
+1941	Umspannebene Hochspannung/Mittelspannung	8
+1941	Mittelspannung	1
+1942	Mittelspannung	14
+1943	Mittelspannung	7
+1944	Umspannebene Mittelspannung/Niederspannung	4
+1945	Mittelspannung	7
+1946	Hochspannung	6
+1947	Mittelspannung	6
+1947	Umspannebene Hochspannung/Mittelspannung	1
+1948	Mittelspannung	6
+1949	Mittelspannung	6
+1950	Hochspannung	25
+1950	Mittelspannung	23
+1950	Umspannebene Hochspannung/Mittelspannung	4
+1950	Umspannebene Mittelspannung/Niederspannung	1
+1951	Hochspannung	7
+1951	Mittelspannung	6
+1951	Umspannebene Hochspannung/Mittelspannung	5
+1952	Hochspannung	16
+1953	Mittelspannung	8
+1953	Umspannebene Hochspannung/Mittelspannung	2
+1954	Umspannebene Hochspannung/Mittelspannung	6
+1955	Mittelspannung	9
+1956	Mittelspannung	12
+1957	Mittelspannung	4
+1958	Mittelspannung	4
+1959	Mittelspannung	8
+1960	Mittelspannung	5
+1960	Umspannebene Hochspannung/Mittelspannung	4
+1961	Mittelspannung	10
+1962	Umspannebene Hochspannung/Mittelspannung	8
+1962	Mittelspannung	2
+1963	Mittelspannung	6
+1964	Mittelspannung	7
+1965	Mittelspannung	25
+1965	Hochspannung	1
+1966	Mittelspannung	7
+1967	Hochspannung	4
+1967	Mittelspannung	3
+1968	Mittelspannung	13
+1969	Hochspannung	13
+1970	Mittelspannung	9
+1971	Mittelspannung	5
+1972	Mittelspannung	4
+1973	Mittelspannung	6
+1974	Mittelspannung	6
+1974	Umspannebene Hochspannung/Mittelspannung	4
+1975	Umspannebene Hochspannung/Mittelspannung	5
+1976	Mittelspannung	13
+1976	Niederspannung	1
+1977	Mittelspannung	5
+1978	Umspannebene Hochspannung/Mittelspannung	10
+1978	Mittelspannung	6
+1978	Niederspannung	1
+1979	Umspannebene Mittelspannung/Niederspannung	11
+1979	Mittelspannung	4
+1979	Niederspannung	3
+1980	Mittelspannung	6
+1981	Mittelspannung	4
+1982	Mittelspannung	8
+1982	Niederspannung	1
+1983	Hochspannung	14
+1984	Mittelspannung	4
+1985	Mittelspannung	12
+1986	Mittelspannung	6
+1987	Hochspannung	18
+1988	Mittelspannung	2
+1988	Umspannebene Hochspannung/Mittelspannung	1
+1989	Mittelspannung	4
+1990	Mittelspannung	18
+1991	Mittelspannung	10
+1992	Mittelspannung	5
+1993	Mittelspannung	5
+1994	Mittelspannung	14
+1995	Mittelspannung	14
+1996	Umspannebene Hochspannung/Mittelspannung	8
+1997	Mittelspannung	15
+1997	Umspannebene Hochspannung/Mittelspannung	12
+1998	Mittelspannung	13
+1999	Mittelspannung	5
+2000	Mittelspannung	15
+2001	Mittelspannung	5
+2002	Mittelspannung	4
+2003	Mittelspannung	9
+2004	Mittelspannung	5
+2005	Mittelspannung	7
+2006	Mittelspannung	4
+2007	Hochspannung	18
+2007	Mittelspannung	1
+2008	Mittelspannung	5
+2009	Umspannebene Hochspannung/Mittelspannung	13
+2009	Mittelspannung	10
+2010	Mittelspannung	19
+2011	Mittelspannung	4
+2012	Mittelspannung	20
+2012	Umspannebene Hochspannung/Mittelspannung	2
+2013	Mittelspannung	10
+2014	Mittelspannung	6
+2015	Mittelspannung	5
+2015	Umspannebene Mittelspannung/Niederspannung	1
+2016	Mittelspannung	5
+2017	Mittelspannung	4
+2018	Mittelspannung	5
+2019	Mittelspannung	12
+2020	Mittelspannung	5
+2021	Mittelspannung	6
+2022	Mittelspannung	5
+2023	Hochspannung	17
+2023	Mittelspannung	2
+2024	Mittelspannung	8
+2025	Umspannebene Hochspannung/Mittelspannung	4
+2025	Mittelspannung	1
+2025	Niederspannung	1
+2026	Hochspannung	17
+2026	Mittelspannung	11
+2027	Mittelspannung	4
+2027	Umspannebene Hochspannung/Mittelspannung	3
+2028	Umspannebene Hochspannung/Mittelspannung	3
+2028	Mittelspannung	2
+2029	Mittelspannung	6
+2030	Mittelspannung	4
+2031	Mittelspannung	5
+2032	Mittelspannung	7
+2033	Mittelspannung	10
+2033	Niederspannung	2
+2034	Mittelspannung	19
+2035	Umspannebene Hochspannung/Mittelspannung	4
+2035	Mittelspannung	2
+2036	Hochspannung	9
+2036	Mittelspannung	9
+2036	Umspannebene Mittelspannung/Niederspannung	3
+2037	Mittelspannung	16
+2038	Mittelspannung	70
+2039	Umspannebene Hochspannung/Mittelspannung	20
+2040	Umspannebene Hochspannung/Mittelspannung	6
+2041	Hochspannung	12
+2042	Mittelspannung	4
+2043	Mittelspannung	4
+2044	Mittelspannung	8
+2045	Mittelspannung	6
+2046	Mittelspannung	14
+2047	Mittelspannung	5
+2047	Umspannebene Hochspannung/Mittelspannung	4
+2048	Mittelspannung	5
+2049	Hochspannung	12
+2049	Mittelspannung	1
+2050	Mittelspannung	12
+2051	Umspannebene Hochspannung/Mittelspannung	3
+2051	Mittelspannung	1
+2052	Hochspannung	24
+2052	Mittelspannung	1
+2053	Mittelspannung	3
+2054	Mittelspannung	9
+2054	Niederspannung	1
+2055	Mittelspannung	6
+2056	Hochspannung	6
+2057	Umspannebene Hochspannung/Mittelspannung	4
+2057	Mittelspannung	3
+2058	Mittelspannung	11
+2059	Umspannebene Hochspannung/Mittelspannung	3
+2060	Hochspannung	6
+2061	Mittelspannung	3
+2061	Niederspannung	1
+2062	Umspannebene Hochspannung/Mittelspannung	4
+2063	Mittelspannung	6
+2064	Hochspannung	8
+2064	Mittelspannung	1
+2065	Umspannebene Hochspannung/Mittelspannung	16
+2065	Mittelspannung	7
+2066	Hochspannung	7
+2067	Mittelspannung	13
+2068	Mittelspannung	4
+2069	Mittelspannung	13
+2070	Hochspannung	12
+2070	Mittelspannung	5
+2070	Niederspannung	1
+2071	Umspannebene Hochspannung/Mittelspannung	9
+2071	Mittelspannung	5
+2072	Mittelspannung	9
+2072	Niederspannung	2
+2073	Mittelspannung	8
+2073	Niederspannung	1
+2074	Mittelspannung	11
+2075	Mittelspannung	73
+2075	Niederspannung	1
+2076	Mittelspannung	11
+2077	Mittelspannung	85
+2077	Hochspannung	6
+2078	Mittelspannung	21
+2078	Umspannebene Hochspannung/Mittelspannung	7
+2079	Umspannebene Hochspannung/Mittelspannung	5
+2079	Mittelspannung	1
+2080	Umspannebene Hochspannung/Mittelspannung	2
+2080	Mittelspannung	1
+2081	Mittelspannung	6
+2082	Mittelspannung	3
+2082	Umspannebene Hochspannung/Mittelspannung	2
+2083	Mittelspannung	15
+2084	Mittelspannung	4
+2085	Mittelspannung	8
+2086	Mittelspannung	4
+2087	Hochspannung	8
+2087	Mittelspannung	3
+2088	Hochspannung	7
+2088	Niederspannung	1
+2088	Umspannebene Mittelspannung/Niederspannung	1
+2089	Mittelspannung	7
+2090	Mittelspannung	6
+2091	Mittelspannung	5
+2092	Mittelspannung	4
+2093	Mittelspannung	5
+2094	Umspannebene Hochspannung/Mittelspannung	10
+2094	Mittelspannung	5
+2095	Mittelspannung	9
+2096	Mittelspannung	8
+2097	Mittelspannung	5
+2097	Niederspannung	1
+2098	Hochspannung	19
+2099	Mittelspannung	2
+2099	Umspannebene Mittelspannung/Niederspannung	2
+2100	Umspannebene Hochspannung/Mittelspannung	7
+2101	Mittelspannung	6
+2101	Niederspannung	2
+2102	Mittelspannung	6
+2103	Mittelspannung	4
+2104	Mittelspannung	4
+2105	Mittelspannung	7
+2106	Hochspannung	6
+2106	Mittelspannung	2
+2107	Mittelspannung	4
+2108	Mittelspannung	9
+2109	Hochspannung	7
+2110	Hochspannung	6
+2111	Mittelspannung	12
+2112	Umspannebene Hochspannung/Mittelspannung	5
+2112	Mittelspannung	2
+2113	Hochspannung	9
+2114	Hochspannung	6
+2114	Umspannebene Hochspannung/Mittelspannung	6
+2114	Mittelspannung	1
+2114	Niederspannung	1
+2115	Mittelspannung	7
+2116	Mittelspannung	18
+2117	Hochspannung	7
+2118	Umspannebene Hochspannung/Mittelspannung	5
+2118	Mittelspannung	2
+2119	Mittelspannung	5
+2120	Mittelspannung	6
+2121	Hochspannung	16
+2122	Umspannebene Hochspannung/Mittelspannung	4
+2122	Mittelspannung	1
+2123	Mittelspannung	12
+2124	Mittelspannung	10
+2125	Mittelspannung	18
+2125	Hochspannung	8
+2125	Umspannebene Hochspannung/Mittelspannung	7
+2125	Umspannebene Mittelspannung/Niederspannung	4
+2126	Mittelspannung	11
+2127	Hochspannung	8
+2128	Mittelspannung	5
+2128	Umspannebene Mittelspannung/Niederspannung	1
+2129	Hochspannung	5
+2130	Mittelspannung	5
+2131	Mittelspannung	17
+2131	Niederspannung	1
+2132	Umspannebene Hochspannung/Mittelspannung	7
+2133	Mittelspannung	5
+2134	Mittelspannung	16
+2135	Mittelspannung	6
+2136	Mittelspannung	5
+2137	Mittelspannung	9
+2137	Umspannebene Hochspannung/Mittelspannung	8
+2138	Mittelspannung	4
+2139	Hochspannung	12
+2139	Mittelspannung	3
+2140	Hochspannung	14
+2140	Mittelspannung	8
+2141	Mittelspannung	3
+2141	Umspannebene Hochspannung/Mittelspannung	3
+2142	Mittelspannung	6
+2143	Hochspannung	5
+2143	Mittelspannung	1
+2144	Mittelspannung	4
+2145	Mittelspannung	6
+2145	Niederspannung	1
+2146	Mittelspannung	5
+2147	Hochspannung	3
+2147	Mittelspannung	1
+2148	Umspannebene Hochspannung/Mittelspannung	6
+2148	Mittelspannung	4
+2149	Hochspannung	14
+2149	Umspannebene Hochspannung/Mittelspannung	7
+2149	Mittelspannung	2
+2150	Umspannebene Hochspannung/Mittelspannung	8
+2150	Mittelspannung	2
+2151	Umspannebene Hochspannung/Mittelspannung	5
+2151	Mittelspannung	2
+2151	Niederspannung	1
+2152	Mittelspannung	17
+2153	Hochspannung	11
+2153	Mittelspannung	9
+2153	Umspannebene Mittelspannung/Niederspannung	1
+2154	Mittelspannung	8
+2155	Mittelspannung	6
+2155	Umspannebene Hochspannung/Mittelspannung	4
+2155	Niederspannung	1
+2156	Umspannebene Hochspannung/Mittelspannung	7
+2156	Mittelspannung	1
+2157	Hochspannung	6
+2157	Mittelspannung	1
+2158	Mittelspannung	5
+2158	Umspannebene Hochspannung/Mittelspannung	4
+2159	Umspannebene Hochspannung/Mittelspannung	3
+2159	Mittelspannung	2
+2160	Umspannebene Hochspannung/Mittelspannung	17
+2161	Mittelspannung	15
+2162	Mittelspannung	7
+2163	Mittelspannung	4
+2164	Hochspannung	6
+2165	Mittelspannung	9
+2165	Hochspannung	4
+2166	Mittelspannung	5
+2167	Mittelspannung	8
+2168	Mittelspannung	5
+2169	Mittelspannung	7
+2170	Mittelspannung	13
+2171	Mittelspannung	9
+2171	Umspannebene Hochspannung/Mittelspannung	3
+2171	Niederspannung	1
+2172	Mittelspannung	22
+2172	Hochspannung	7
+2173	Mittelspannung	8
+2173	Umspannebene Mittelspannung/Niederspannung	1
+2174	Mittelspannung	5
+2175	Mittelspannung	11
+2176	Mittelspannung	4
+2177	Mittelspannung	11
+2177	Hochspannung	7
+2177	Umspannebene Hochspannung/Mittelspannung	5
+2178	Mittelspannung	7
+2178	Hochspannung	6
+2179	Mittelspannung	4
+2180	Hochspannung	5
+2181	Umspannebene Hochspannung/Mittelspannung	4
+2182	Umspannebene Hochspannung/Mittelspannung	18
+2182	Mittelspannung	11
+2182	Niederspannung	1
+2182	Umspannebene Mittelspannung/Niederspannung	1
+2183	Mittelspannung	5
+2184	Mittelspannung	5
+2185	Umspannebene Hochspannung/Mittelspannung	15
+2185	Mittelspannung	2
+2186	Mittelspannung	4
+2187	Umspannebene Hochspannung/Mittelspannung	10
+2187	Mittelspannung	5
+2188	Mittelspannung	10
+2189	Mittelspannung	4
+2190	Mittelspannung	5
+2191	Mittelspannung	5
+2192	Mittelspannung	5
+2193	Mittelspannung	9
+2194	Hochspannung	6
+2194	Mittelspannung	2
+2195	Hochspannung	6
+2196	Mittelspannung	19
+2197	Mittelspannung	5
+2198	Mittelspannung	28
+2199	Umspannebene Hochspannung/Mittelspannung	7
+2200	Mittelspannung	4
+2200	Niederspannung	2
+2201	Mittelspannung	5
+2202	Mittelspannung	11
+2203	Mittelspannung	5
+2204	Mittelspannung	6
+2205	Mittelspannung	8
+2205	Hochspannung	5
+2205	Niederspannung	1
+2206	Hochspannung	11
+2206	Mittelspannung	3
+2207	Mittelspannung	7
+2207	Umspannebene Hochspannung/Mittelspannung	3
+2208	Mittelspannung	5
+2209	Mittelspannung	8
+2209	Niederspannung	1
+2210	Hochspannung	10
+2211	Hochspannung	2
+2211	Mittelspannung	2
+2212	Umspannebene Hochspannung/Mittelspannung	5
+2212	Mittelspannung	2
+2213	Mittelspannung	6
+2213	Umspannebene Hochspannung/Mittelspannung	3
+2214	Umspannebene Hochspannung/Mittelspannung	5
+2214	Hochspannung	3
+2214	Mittelspannung	3
+2215	Mittelspannung	4
+2216	Mittelspannung	8
+2217	Mittelspannung	16
+2218	Mittelspannung	5
+2219	Hochspannung	9
+2219	Mittelspannung	1
+2219	Niederspannung	1
+2220	Hochspannung	28
+2220	Mittelspannung	16
+2221	Mittelspannung	18
+2222	Mittelspannung	5
+2223	Mittelspannung	5
+2224	Hochspannung	15
+2224	Mittelspannung	8
+2224	Umspannebene Mittelspannung/Niederspannung	5
+2225	Hochspannung	10
+2225	Mittelspannung	8
+2226	Mittelspannung	6
+2227	Mittelspannung	6
+2228	Hochspannung	4
+2229	Hochspannung	9
+2230	Hochspannung	15
+2230	Mittelspannung	1
+2230	Umspannebene Mittelspannung/Niederspannung	1
+2231	Mittelspannung	9
+2232	Mittelspannung	8
+2232	Umspannebene Hochspannung/Mittelspannung	4
+2233	Mittelspannung	3
+2234	Mittelspannung	4
+2235	Mittelspannung	8
+2235	Niederspannung	1
+2236	Mittelspannung	20
+2236	Niederspannung	1
+2237	Umspannebene Hochspannung/Mittelspannung	3
+2237	Mittelspannung	2
+2238	Mittelspannung	17
+2239	Mittelspannung	17
+2240	Mittelspannung	7
+2240	Niederspannung	1
+2241	Hochspannung	4
+2242	Hochspannung	8
+2243	Umspannebene Hochspannung/Mittelspannung	7
+2244	Mittelspannung	3
+2245	Mittelspannung	5
+2246	Mittelspannung	4
+2247	Mittelspannung	11
+2248	Mittelspannung	2
+2248	Niederspannung	2
+2249	Hochspannung	23
+2249	Mittelspannung	6
+2249	Umspannebene Hochspannung/Mittelspannung	2
+2249	Umspannebene Mittelspannung/Niederspannung	1
+2250	Hochspannung	30
+2250	Umspannebene Hochspannung/Mittelspannung	4
+2250	Mittelspannung	3
+2250	Umspannebene Mittelspannung/Niederspannung	1
+2251	Mittelspannung	8
+2252	Hochspannung	20
+2253	Mittelspannung	8
+2254	Mittelspannung	10
+2255	Hochspannung	9
+2255	Mittelspannung	2
+2256	Hochspannung	13
+2257	Mittelspannung	6
+2258	Mittelspannung	2
+2258	Niederspannung	2
+2259	Mittelspannung	6
+2260	Mittelspannung	9
+2261	Mittelspannung	4
+2261	Niederspannung	1
+2262	Hochspannung	4
+2262	Mittelspannung	1
+2263	Mittelspannung	6
+2263	Niederspannung	2
+2264	Hochspannung	5
+2265	Hochspannung	5
+2265	Mittelspannung	1
+2266	Hochspannung	4
+2266	Mittelspannung	1
+2267	Hochspannung	5
+2267	Mittelspannung	5
+2268	Hochspannung	38
+2268	Mittelspannung	7
+2269	Umspannebene Hochspannung/Mittelspannung	5
+2270	Hochspannung	5
+2270	Mittelspannung	1
+2271	Mittelspannung	4
+2272	Umspannebene Hochspannung/Mittelspannung	3
+2272	Mittelspannung	2
+2273	Mittelspannung	5
+2273	Niederspannung	1
+2274	Mittelspannung	8
+2275	Mittelspannung	4
+2276	Umspannebene Hochspannung/Mittelspannung	8
+2276	Mittelspannung	4
+2277	Umspannebene Hochspannung/Mittelspannung	11
+2278	Hochspannung	16
+2279	Mittelspannung	5
+2280	Mittelspannung	5
+2281	Mittelspannung	6
+2281	Umspannebene Mittelspannung/Niederspannung	2
+2282	Mittelspannung	13
+2283	Mittelspannung	6
+2283	Niederspannung	1
+2284	Hochspannung	27
+2284	Mittelspannung	4
+2284	Umspannebene Hochspannung/Mittelspannung	2
+2285	Mittelspannung	7
+2286	Mittelspannung	4
+2287	Mittelspannung	44
+2288	Hochspannung	9
+2289	Hochspannung	14
+2289	Mittelspannung	9
+2290	Mittelspannung	8
+2290	Niederspannung	1
+2291	Hochspannung	3
+2291	Umspannebene Hochspannung/Mittelspannung	1
+2292	Mittelspannung	4
+2293	Mittelspannung	5
+2294	Mittelspannung	12
+2295	Mittelspannung	5
+2296	Mittelspannung	6
+2297	Mittelspannung	3
+2297	Umspannebene Mittelspannung/Niederspannung	1
+2298	Hochspannung	8
+2298	Mittelspannung	2
+2299	Mittelspannung	4
+2299	Hochspannung	2
+2300	Mittelspannung	10
+2301	Mittelspannung	12
+2302	Mittelspannung	7
+2302	Hochspannung	4
+2303	Mittelspannung	4
+2304	Mittelspannung	3
+2305	Hochspannung	9
+2305	Mittelspannung	1
+2306	Mittelspannung	8
+2307	Hochspannung	4
+2307	Mittelspannung	1
+2308	Hochspannung	17
+2309	Hochspannung	3
+2309	Mittelspannung	1
+2310	Hochspannung	5
+2310	Mittelspannung	2
+2311	Hochspannung	4
+2311	Mittelspannung	2
+2312	Hochspannung	8
+2312	Mittelspannung	1
+2313	Mittelspannung	7
+2314	Mittelspannung	6
+2315	Mittelspannung	3
+2315	Niederspannung	2
+2316	Hochspannung	7
+2316	Umspannebene Hochspannung/Mittelspannung	7
+2316	Mittelspannung	4
+2317	Hochspannung	7
+2318	Hochspannung	5
+2318	Mittelspannung	5
+2319	Mittelspannung	10
+2319	Hochspannung	6
+2320	Mittelspannung	5
+2320	Umspannebene Mittelspannung/Niederspannung	1
+2321	Hochspannung	4
+2322	Hochspannung	46
+2322	Mittelspannung	6
+2323	Mittelspannung	7
+2324	Mittelspannung	4
+2325	Mittelspannung	3
+2326	Mittelspannung	7
+2327	Hochspannung	3
+2327	Mittelspannung	2
+2328	Hochspannung	8
+2328	Mittelspannung	3
+2329	Hochspannung	9
+2330	Mittelspannung	7
+2331	Mittelspannung	6
+2332	Hochspannung	4
+2333	Mittelspannung	8
+2334	Mittelspannung	28
+2335	Hochspannung	4
+2336	Mittelspannung	11
+2336	Hochspannung	4
+2337	Hochspannung	3
+2337	Mittelspannung	2
+2338	Hochspannung	7
+2339	Mittelspannung	2
+2339	Hochspannung	1
+2340	Mittelspannung	15
+2340	Hochspannung	6
+2341	Mittelspannung	8
+2342	Mittelspannung	6
+2342	Niederspannung	1
+2343	Mittelspannung	4
+2344	Mittelspannung	5
+2344	Niederspannung	1
+2345	Mittelspannung	7
+2346	Mittelspannung	4
+2346	Niederspannung	1
+2347	Mittelspannung	8
+2347	Hochspannung	7
+2348	Hochspannung	6
+2348	Mittelspannung	2
+2349	Mittelspannung	5
+2350	Mittelspannung	4
+2351	Mittelspannung	7
+2351	Umspannebene Hochspannung/Mittelspannung	7
+2352	Hochspannung	11
+2352	Mittelspannung	8
+2352	Niederspannung	1
+2353	Hochspannung	3
+2354	Mittelspannung	7
+2355	Hochspannung	5
+2356	Hochspannung	5
+2357	Hochspannung	2
+2357	Umspannebene Hochspannung/Mittelspannung	1
+2358	Hochspannung	7
+2358	Mittelspannung	4
+2358	Umspannebene Hochspannung/Mittelspannung	3

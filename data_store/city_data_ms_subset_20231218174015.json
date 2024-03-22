@@ -1,0 +1,130 @@
+{
+    "13073077": {
+        "Coordinates": [
+            54.3098719,
+            12.4992041
+        ],
+        "CityName": "Saal",
+        "Gemeindeschluessel": 13073077
+    },
+    "13075151": {
+        "Coordinates": [
+            54.0678501,
+            13.8984786
+        ],
+        "CityName": "Zinnowitz",
+        "Gemeindeschluessel": 13075151
+    },
+    "12061260": {
+        "Coordinates": [
+            52.2994511,
+            13.6244389
+        ],
+        "CityName": "K\u00f6nigs Wusterhausen",
+        "Gemeindeschluessel": 12061260
+    },
+    "12065144": {
+        "Coordinates": [
+            52.6732755,
+            13.2807255
+        ],
+        "CityName": "Hohen Neuendorf",
+        "Gemeindeschluessel": 12065144
+    },
+    "13075144": {
+        "Coordinates": [
+            54.0536473,
+            13.7757809
+        ],
+        "CityName": "Wolgast",
+        "Gemeindeschluessel": 13075144
+    },
+    "12069590": {
+        "Coordinates": [
+            52.3389,
+            12.9722001
+        ],
+        "CityName": "Schwielowsee",
+        "Gemeindeschluessel": 12069590
+    },
+    "12067144": {
+        "Coordinates": [
+            52.3580209,
+            14.064985
+        ],
+        "CityName": "F\u00fcrstenwalde/Spree",
+        "Gemeindeschluessel": 12067144
+    },
+    "12068117": {
+        "Coordinates": [
+            52.8142217,
+            12.7652143
+        ],
+        "CityName": "Fehrbellin",
+        "Gemeindeschluessel": 12068117
+    },
+    "12072477": {
+        "Coordinates": [
+            52.2159073,
+            13.4488958
+        ],
+        "CityName": "Zossen",
+        "Gemeindeschluessel": 12072477
+    },
+    "12064380": {
+        "Coordinates": [
+            52.5234509,
+            13.7696818
+        ],
+        "CityName": "Petershagen/Eggersdorf",
+        "Gemeindeschluessel": 12064380
+    },
+    "12070222": {
+        "Coordinates": [
+            53.2397159,
+            12.161814412375286
+        ],
+        "CityName": "K\u00fcmmernitztal",
+        "Gemeindeschluessel": 12070222
+    },
+    "13075079": {
+        "Coordinates": [
+            53.4518623,
+            14.2169635
+        ],
+        "CityName": "L\u00f6cknitz",
+        "Gemeindeschluessel": 13075079
+    },
+    "12068477": {
+        "Coordinates": [
+            52.8902416,
+            12.4618457
+        ],
+        "CityName": "Wusterhausen/Dosse",
+        "Gemeindeschluessel": 12068477
+    },
+    "12060052": {
+        "Coordinates": [
+            52.8350807,
+            13.7996542
+        ],
+        "CityName": "Eberswalde",
+        "Gemeindeschluessel": 12060052
+    },
+    "5315000": {
+        "Coordinates": [
+            50.938361,
+            6.959974
+        ],
+        "CityName": "K\u00f6ln",
+        "Gemeindeschluessel": 5315000
+    },
+    "13071037": {
+        "Coordinates": [
+            53.6197596,
+            13.705076
+        ],
+        "CityName": "Galenbeck",
+        "Gemeindeschluessel": 13071037
+    }
+}

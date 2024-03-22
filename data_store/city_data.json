@@ -1,0 +1,82 @@
+{
+    "12061572": {
+        "Coordinates": [
+            52.3507952,
+            13.629328
+        ],
+        "CityName": "Zeuthen",
+        "Gemeindeschluessel": 12061572
+    },
+    "12072426": {
+        "Coordinates": [
+            52.2150361,
+            13.2140282
+        ],
+        "CityName": "Trebbin",
+        "Gemeindeschluessel": 12072426
+    },
+    "13072004": {
+        "Coordinates": [
+            53.898783,
+            12.7391044
+        ],
+        "CityName": "Altkalen",
+        "Gemeindeschluessel": 13072004
+    },
+    "13075036": {
+        "Coordinates": [
+            53.9909271,
+            13.2702958
+        ],
+        "CityName": "G\u00f6rmin",
+        "Gemeindeschluessel": 13075036
+    },
+    "12069304": {
+        "Coordinates": [
+            52.4064167,
+            13.2236601
+        ],
+        "CityName": "Kleinmachnow",
+        "Gemeindeschluessel": 12069304
+    },
+    "12065198": {
+        "Coordinates": [
+            52.8949435,
+            13.1722462
+        ],
+        "CityName": "L\u00f6wenberger Land",
+        "Gemeindeschluessel": 12065198
+    },
+    "13071029": {
+        "Coordinates": [
+            53.9070019,
+            13.0327836
+        ],
+        "CityName": "Demmin",
+        "Gemeindeschluessel": 13071029
+    },
+    "12063148": {
+        "Coordinates": [
+            52.4769264,
+            12.8443972
+        ],
+        "CityName": "Ketzin/Havel",
+        "Gemeindeschluessel": 12063148
+    },
+    "12067144": {
+        "Coordinates": [
+            52.3580209,
+            14.064985
+        ],
+        "CityName": "F\u00fcrstenwalde/Spree",
+        "Gemeindeschluessel": 12067144
+    },
+    "12065096": {
+        "Coordinates": [
+            52.63227,
+            13.3307308
+        ],
+        "CityName": "Glienicke/Nordbahn",
+        "Gemeindeschluessel": 12065096
+    }
+}

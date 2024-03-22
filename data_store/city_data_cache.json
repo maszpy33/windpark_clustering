@@ -1,0 +1,6246 @@
+{
+    "12061572": {
+        "Coordinates": [
+            52.3507952,
+            13.629328
+        ],
+        "CityName": "Zeuthen"
+    },
+    "12072426": {
+        "Coordinates": [
+            52.2150361,
+            13.2140282
+        ],
+        "CityName": "Trebbin"
+    },
+    "13072004": {
+        "Coordinates": [
+            53.898783,
+            12.7391044
+        ],
+        "CityName": "Altkalen"
+    },
+    "13075036": {
+        "Coordinates": [
+            53.9909271,
+            13.2702958
+        ],
+        "CityName": "G\u00f6rmin"
+    },
+    "12069304": {
+        "Coordinates": [
+            52.4064167,
+            13.2236601
+        ],
+        "CityName": "Kleinmachnow"
+    },
+    "12065198": {
+        "Coordinates": [
+            52.8949435,
+            13.1722462
+        ],
+        "CityName": "L\u00f6wenberger Land"
+    },
+    "13071029": {
+        "Coordinates": [
+            53.9070019,
+            13.0327836
+        ],
+        "CityName": "Demmin"
+    },
+    "12063148": {
+        "Coordinates": [
+            52.4769264,
+            12.8443972
+        ],
+        "CityName": "Ketzin/Havel"
+    },
+    "12067144": {
+        "Coordinates": [
+            52.3580209,
+            14.064985
+        ],
+        "CityName": "F\u00fcrstenwalde/Spree"
+    },
+    "12065096": {
+        "Coordinates": [
+            52.63227,
+            13.3307308
+        ],
+        "CityName": "Glienicke/Nordbahn"
+    },
+    "12069537": {
+        "Coordinates": [
+            47.6375154,
+            7.5371474
+        ],
+        "CityName": "Rosenau"
+    },
+    "12070149": {
+        "Coordinates": [
+            52.9792807,
+            12.2523998
+        ],
+        "CityName": "Gumtow"
+    },
+    "12064380": {
+        "Coordinates": [
+            52.5234509,
+            13.7696818
+        ],
+        "CityName": "Petershagen/Eggersdorf"
+    },
+    "13075147": {
+        "Coordinates": [
+            53.9783374,
+            13.7543119
+        ],
+        "CityName": "Zemitz"
+    },
+    "12072477": {
+        "Coordinates": [
+            52.2159073,
+            13.4488958
+        ],
+        "CityName": "Zossen"
+    },
+    "12072312": {
+        "Coordinates": [
+            52.1311888,
+            13.210377
+        ],
+        "CityName": "Nuthe-Urstromtal"
+    },
+    "13072074": {
+        "Coordinates": [
+            54.0314438,
+            11.6721265
+        ],
+        "CityName": "Neubukow"
+    },
+    "13073035": {
+        "Coordinates": [
+            54.1127844,
+            13.0429152
+        ],
+        "CityName": "Grimmen"
+    },
+    "13071059": {
+        "Coordinates": [
+            53.7500047,
+            13.183299
+        ],
+        "CityName": "G\u00fcltz"
+    },
+    "13071044": {
+        "Coordinates": [
+            53.7920605,
+            13.2793281
+        ],
+        "CityName": "Golchen"
+    },
+    "13075102": {
+        "Coordinates": [
+            54.23649,
+            8.9877874
+        ],
+        "CityName": "Neuenkirchen"
+    },
+    "13073030": {
+        "Coordinates": [
+            54.5698783,
+            13.4712685
+        ],
+        "CityName": "Glowe"
+    },
+    "12069604": {
+        "Coordinates": [
+            52.3869675,
+            13.2077118
+        ],
+        "CityName": "Stahnsdorf"
+    },
+    "13075082": {
+        "Coordinates": [
+            53.96913,
+            13.1285573
+        ],
+        "CityName": "Loitz"
+    },
+    "13072093": {
+        "Coordinates": [
+            53.9896562,
+            11.8952147
+        ],
+        "CityName": "Satow"
+    },
+    "13071004": {
+        "Coordinates": [
+            53.6929029,
+            13.2512464
+        ],
+        "CityName": "Altentreptow"
+    },
+    "12069656": {
+        "Coordinates": [
+            52.3715809,
+            12.9329125
+        ],
+        "CityName": "Werder (Havel)"
+    },
+    "12069454": {
+        "Coordinates": [
+            52.317831,
+            13.1331067
+        ],
+        "CityName": "Nuthetal"
+    },
+    "12051000": {
+        "Coordinates": [
+            52.4108261,
+            12.5497933
+        ],
+        "CityName": "Brandenburg an der Havel"
+    },
+    "12064029": {
+        "Coordinates": [
+            52.5614869,
+            13.7245542
+        ],
+        "CityName": "Altlandsberg"
+    },
+    "13073075": {
+        "Coordinates": [
+            54.2433326,
+            12.4319733
+        ],
+        "CityName": "Ribnitz-Damgarten"
+    },
+    "13074017": {
+        "Coordinates": [
+            53.9089582,
+            10.9756958
+        ],
+        "CityName": "Dassow"
+    },
+    "12063036": {
+        "Coordinates": [
+            52.588357,
+            12.9958846
+        ],
+        "CityName": "Brieselang"
+    },
+    "12069270": {
+        "Coordinates": [
+            52.4913976,
+            12.4595798
+        ],
+        "CityName": "Havelsee"
+    },
+    "12073097": {
+        "Coordinates": [
+            53.2110052,
+            14.2085984
+        ],
+        "CityName": "Casekow"
+    },
+    "13071170": {
+        "Coordinates": [
+            53.5817001,
+            13.1943211
+        ],
+        "CityName": "Zirzow"
+    },
+    "12065136": {
+        "Coordinates": [
+            52.6375777,
+            13.2057511
+        ],
+        "CityName": "Hennigsdorf"
+    },
+    "12061260": {
+        "Coordinates": [
+            52.2994511,
+            13.6244389
+        ],
+        "CityName": "K\u00f6nigs Wusterhausen"
+    },
+    "12072340": {
+        "Coordinates": [
+            52.2914292,
+            13.418888
+        ],
+        "CityName": "Rangsdorf"
+    },
+    "12072017": {
+        "Coordinates": [
+            52.3479238,
+            13.4119554
+        ],
+        "CityName": "Blankenfelde-Mahlow"
+    },
+    "12060181": {
+        "Coordinates": [
+            52.6480137,
+            13.5412361
+        ],
+        "CityName": "Panketal"
+    },
+    "13073082": {
+        "Coordinates": [
+            54.2213923,
+            12.6836788
+        ],
+        "CityName": "Schlemmin"
+    },
+    "12069616": {
+        "Coordinates": [
+            52.4016457,
+            13.2644532
+        ],
+        "CityName": "Teltow"
+    },
+    "13071103": {
+        "Coordinates": [
+            53.6310391,
+            12.5734978
+        ],
+        "CityName": "Moltzow"
+    },
+    "13072057": {
+        "Coordinates": [
+            54.0520394,
+            12.052726
+        ],
+        "CityName": "Kritzmow"
+    },
+    "13071067": {
+        "Coordinates": [
+            53.4650566,
+            13.2710051
+        ],
+        "CityName": "Holldorf"
+    },
+    "12070316": {
+        "Coordinates": [
+            53.1492896,
+            12.1761903
+        ],
+        "CityName": "Pritzwalk"
+    },
+    "12068353": {
+        "Coordinates": [
+            53.0983176,
+            12.8910116
+        ],
+        "CityName": "Rheinsberg"
+    },
+    "12060052": {
+        "Coordinates": [
+            52.8350807,
+            13.7996542
+        ],
+        "CityName": "Eberswalde"
+    },
+    "12061112": {
+        "Coordinates": [
+            52.373076,
+            13.6219208
+        ],
+        "CityName": "Eichwalde"
+    },
+    "12063080": {
+        "Coordinates": [
+            52.5678244,
+            13.0855621
+        ],
+        "CityName": "Falkensee"
+    },
+    "12069020": {
+        "Coordinates": [
+            52.1405622,
+            12.5865873
+        ],
+        "CityName": "Bad Belzig"
+    },
+    "12063357": {
+        "Coordinates": [
+            52.5462731,
+            12.9404114
+        ],
+        "CityName": "Wustermark"
+    },
+    "12069052": {
+        "Coordinates": [
+            52.2269301,
+            12.863707
+        ],
+        "CityName": "Borkheide"
+    },
+    "12061020": {
+        "Coordinates": [
+            52.242895,
+            13.6279176
+        ],
+        "CityName": "Bestensee"
+    },
+    "13075093": {
+        "Coordinates": [
+            53.7673498,
+            13.9672087
+        ],
+        "CityName": "M\u00f6nkebude"
+    },
+    "12069017": {
+        "Coordinates": [
+            52.2363582,
+            12.9700041
+        ],
+        "CityName": "Beelitz"
+    },
+    "13075018": {
+        "Coordinates": [
+            54.105837,
+            13.5632465
+        ],
+        "CityName": "Br\u00fcnzow"
+    },
+    "12065301": {
+        "Coordinates": [
+            53.0190013,
+            13.0897846
+        ],
+        "CityName": "Sonnenberg"
+    },
+    "13071023": {
+        "Coordinates": [
+            53.345726,
+            12.4860597
+        ],
+        "CityName": "B\u00fctow"
+    },
+    "13074074": {
+        "Coordinates": [
+            53.6781808,
+            10.4318363
+        ],
+        "CityName": "Sch\u00f6nberg"
+    },
+    "12069460": {
+        "Coordinates": [
+            52.5118003,
+            12.7151425
+        ],
+        "CityName": "P\u00e4wesin"
+    },
+    "12065144": {
+        "Coordinates": [
+            52.6732755,
+            13.2807255
+        ],
+        "CityName": "Hohen Neuendorf"
+    },
+    "13075081": {
+        "Coordinates": [
+            54.1130966,
+            13.5294375
+        ],
+        "CityName": "Loissin"
+    },
+    "12064336": {
+        "Coordinates": [
+            52.5261884,
+            13.6889259
+        ],
+        "CityName": "Neuenhagen bei Berlin"
+    },
+    "12064136": {
+        "Coordinates": [
+            52.524107,
+            13.7530411
+        ],
+        "CityName": "Fredersdorf-Vogelsdorf"
+    },
+    "13072088": {
+        "Coordinates": [
+            54.1749967,
+            12.239515
+        ],
+        "CityName": "R\u00f6vershagen"
+    },
+    "13073055": {
+        "Coordinates": [
+            54.1556493,
+            12.5725117
+        ],
+        "CityName": "Marlow"
+    },
+    "12060024": {
+        "Coordinates": [
+            52.7664978,
+            13.6289589
+        ],
+        "CityName": "Biesenthal"
+    },
+    "12064512": {
+        "Coordinates": [
+            52.7167845,
+            14.1365723
+        ],
+        "CityName": "Wriezen"
+    },
+    "12067440": {
+        "Coordinates": [
+            52.4782896,
+            13.6971638
+        ],
+        "CityName": "Sch\u00f6neiche bei Berlin"
+    },
+    "12060005": {
+        "Coordinates": [
+            52.5782258,
+            13.5739094
+        ],
+        "CityName": "Ahrensfelde"
+    },
+    "13071075": {
+        "Coordinates": [
+            53.4527488,
+            13.0281003
+        ],
+        "CityName": "Klein Vielen"
+    },
+    "13072022": {
+        "Coordinates": [
+            53.9905105,
+            11.736971594041425
+        ],
+        "CityName": "Carinerland"
+    },
+    "13075010": {
+        "Coordinates": [
+            53.9404498,
+            14.0729189
+        ],
+        "CityName": "Benz"
+    },
+    "12072002": {
+        "Coordinates": [
+            52.1633343,
+            13.4005903
+        ],
+        "CityName": "Am Mellensee"
+    },
+    "13073068": {
+        "Coordinates": [
+            54.3690196,
+            13.0244154
+        ],
+        "CityName": "Prohn"
+    },
+    "12064482": {
+        "Coordinates": [
+            52.515,
+            14.3141
+        ],
+        "CityName": "Vierlinden"
+    },
+    "13072081": {
+        "Coordinates": [
+            54.1315304,
+            12.2875185
+        ],
+        "CityName": "Poppendorf"
+    },
+    "13075121": {
+        "Coordinates": [
+            53.9346762,
+            13.7223019
+        ],
+        "CityName": "Rubkow"
+    },
+    "13071142": {
+        "Coordinates": [
+            53.6952808,
+            12.9082954
+        ],
+        "CityName": "Stavenhagen"
+    },
+    "12072053": {
+        "Coordinates": [
+            51.8699392,
+            13.4284903
+        ],
+        "CityName": "Dahme/Mark"
+    },
+    "12064227": {
+        "Coordinates": [
+            52.550231,
+            13.641194431680784
+        ],
+        "CityName": "Hoppegarten"
+    },
+    "13072029": {
+        "Coordinates": [
+            54.0131361,
+            12.2281926
+        ],
+        "CityName": "Dummerstorf"
+    },
+    "12065165": {
+        "Coordinates": [
+            52.7604941,
+            13.0294822
+        ],
+        "CityName": "Kremmen"
+    },
+    "13075033": {
+        "Coordinates": [
+            53.6639135,
+            13.8900976
+        ],
+        "CityName": "Ferdinandshof"
+    },
+    "12065180": {
+        "Coordinates": [
+            52.7236613,
+            13.193295
+        ],
+        "CityName": "Leegebruch"
+    },
+    "12067072": {
+        "Coordinates": [
+            52.3447104,
+            14.2775651
+        ],
+        "CityName": "Briesen (Mark)"
+    },
+    "13075006": {
+        "Coordinates": [
+            53.9638082,
+            13.3738268
+        ],
+        "CityName": "Bandelin"
+    },
+    "13075005": {
+        "Coordinates": [
+            53.8560526,
+            13.688091
+        ],
+        "CityName": "Anklam"
+    },
+    "12061444": {
+        "Coordinates": [
+            52.3643159,
+            13.5960911
+        ],
+        "CityName": "Schulzendorf"
+    },
+    "12069470": {
+        "Coordinates": [
+            52.2521377,
+            12.6868717
+        ],
+        "CityName": "Planebruch"
+    },
+    "13071147": {
+        "Coordinates": [
+            53.3387655,
+            12.9797943
+        ],
+        "CityName": "Userin"
+    },
+    "12073008": {
+        "Coordinates": [
+            53.017276,
+            13.9981503
+        ],
+        "CityName": "Angerm\u00fcnde"
+    },
+    "13072087": {
+        "Coordinates": [
+            54.0709472,
+            12.2036057
+        ],
+        "CityName": "Roggentin"
+    },
+    "12068117": {
+        "Coordinates": [
+            52.8142217,
+            12.7652143
+        ],
+        "CityName": "Fehrbellin"
+    },
+    "12060269": {
+        "Coordinates": [
+            52.7536782,
+            13.4513345
+        ],
+        "CityName": "Wandlitz"
+    },
+    "12063094": {
+        "Coordinates": [
+            49.6725799,
+            7.1587277
+        ],
+        "CityName": "Gollenberg"
+    },
+    "12063208": {
+        "Coordinates": [
+            52.6061065,
+            12.8772599
+        ],
+        "CityName": "Nauen"
+    },
+    "13072001": {
+        "Coordinates": [
+            54.124717000000004,
+            11.980569703995158
+        ],
+        "CityName": "Admannshagen-Bargeshagen"
+    },
+    "12069448": {
+        "Coordinates": [
+            52.0749361,
+            12.6889448
+        ],
+        "CityName": "Niemegk"
+    },
+    "12061217": {
+        "Coordinates": [
+            52.2564475,
+            13.782084
+        ],
+        "CityName": "Heidesee"
+    },
+    "13072060": {
+        "Coordinates": [
+            54.1483764,
+            11.7441876
+        ],
+        "CityName": "K\u00fchlungsborn"
+    },
+    "12065256": {
+        "Coordinates": [
+            52.7529379,
+            13.2457591
+        ],
+        "CityName": "Oranienburg"
+    },
+    "13071021": {
+        "Coordinates": [
+            53.4956816,
+            13.3097058
+        ],
+        "CityName": "Burg Stargard"
+    },
+    "13072072": {
+        "Coordinates": [
+            54.1486928,
+            12.2255355
+        ],
+        "CityName": "M\u00f6nchhagen"
+    },
+    "12060280": {
+        "Coordinates": [
+            52.6334769,
+            13.7340939
+        ],
+        "CityName": "Werneuchen"
+    },
+    "12068109": {
+        "Coordinates": [
+            53.7864252,
+            11.9687734
+        ],
+        "CityName": "Dreetz"
+    },
+    "13072034": {
+        "Coordinates": [
+            54.0788474,
+            12.5132459
+        ],
+        "CityName": "Gnewitz"
+    },
+    "12064290": {
+        "Coordinates": [
+            52.49485205,
+            14.439830707329163
+        ],
+        "CityName": "Lindendorf"
+    },
+    "13072030": {
+        "Coordinates": [
+            54.1509015,
+            11.999807266302767
+        ],
+        "CityName": "Elmenhorst/Lichtenhagen"
+    },
+    "13075009": {
+        "Coordinates": [
+            53.9457793,
+            13.2748722
+        ],
+        "CityName": "Bentzin"
+    },
+    "12063186": {
+        "Coordinates": [
+            52.5808769,
+            12.6304329
+        ],
+        "CityName": "M\u00e4rkisch Luch"
+    },
+    "13071101": {
+        "Coordinates": [
+            53.5234416,
+            12.9264743
+        ],
+        "CityName": "M\u00f6llenhagen"
+    },
+    "13075126": {
+        "Coordinates": [
+            53.5427121,
+            13.9046593
+        ],
+        "CityName": "Sch\u00f6nwalde"
+    },
+    "12067357": {
+        "Coordinates": [
+            52.0908428,
+            14.6493003
+        ],
+        "CityName": "Neuzelle"
+    },
+    "13071122": {
+        "Coordinates": [
+            53.3304218,
+            12.7223343
+        ],
+        "CityName": "Rechlin"
+    },
+    "12063244": {
+        "Coordinates": [
+            52.528092,
+            12.3394514
+        ],
+        "CityName": "Premnitz"
+    },
+    "12069596": {
+        "Coordinates": [
+            52.2798016,
+            13.0129167
+        ],
+        "CityName": "Seddiner See"
+    },
+    "12068477": {
+        "Coordinates": [
+            52.8902416,
+            12.4618457
+        ],
+        "CityName": "Wusterhausen/Dosse"
+    },
+    "12064317": {
+        "Coordinates": [
+            52.5037484,
+            14.1404688
+        ],
+        "CityName": "M\u00fcncheberg"
+    },
+    "13074039": {
+        "Coordinates": [
+            53.9668696,
+            11.1656678
+        ],
+        "CityName": "Kl\u00fctz"
+    },
+    "12068426": {
+        "Coordinates": [
+            52.8774457,
+            12.640015
+        ],
+        "CityName": "Temnitztal"
+    },
+    "12070125": {
+        "Coordinates": [
+            53.118342,
+            12.0506759
+        ],
+        "CityName": "Gro\u00df Pankow (Prignitz)"
+    },
+    "12070393": {
+        "Coordinates": [
+            53.211763,
+            12.1010541
+        ],
+        "CityName": "Triglitz"
+    },
+    "12068452": {
+        "Coordinates": [
+            52.9399265,
+            12.6679804
+        ],
+        "CityName": "Walsleben"
+    },
+    "12068468": {
+        "Coordinates": [
+            53.162999,
+            12.4868962
+        ],
+        "CityName": "Wittstock/Dosse"
+    },
+    "12063189": {
+        "Coordinates": [
+            52.4940635,
+            12.3949553
+        ],
+        "CityName": "Milower Land"
+    },
+    "12067544": {
+        "Coordinates": [
+            53.5776994,
+            10.6387716
+        ],
+        "CityName": "Woltersdorf"
+    },
+    "12064539": {
+        "Coordinates": [
+            52.417060250000006,
+            14.407842199909139
+        ],
+        "CityName": "Zeschdorf"
+    },
+    "12067438": {
+        "Coordinates": [
+            52.12901345,
+            14.501152078766477
+        ],
+        "CityName": "Schlaubetal"
+    },
+    "12069397": {
+        "Coordinates": [
+            52.3165197,
+            13.0316383
+        ],
+        "CityName": "Michendorf"
+    },
+    "13073087": {
+        "Coordinates": [
+            53.8436425,
+            11.929235
+        ],
+        "CityName": "Steinhagen"
+    },
+    "13074093": {
+        "Coordinates": [
+            53.8674158,
+            11.066567109447533
+        ],
+        "CityName": "Stepenitztal"
+    },
+    "12067173": {
+        "Coordinates": [
+            52.3928978,
+            13.7300131
+        ],
+        "CityName": "Gosen-Neu Zittau"
+    },
+    "13071035": {
+        "Coordinates": [
+            53.6716022,
+            13.5487647
+        ],
+        "CityName": "Friedland"
+    },
+    "12072297": {
+        "Coordinates": [
+            51.9786523,
+            12.986901
+        ],
+        "CityName": "Niederg\u00f6rsdorf"
+    },
+    "13075011": {
+        "Coordinates": [
+            47.9176209,
+            7.2469864
+        ],
+        "CityName": "Bergholz"
+    },
+    "12069632": {
+        "Coordinates": [
+            52.0966552,
+            12.8734896
+        ],
+        "CityName": "Treuenbrietzen"
+    },
+    "13071027": {
+        "Coordinates": [
+            53.9,
+            12.85
+        ],
+        "CityName": "Dargun"
+    },
+    "12063056": {
+        "Coordinates": [
+            52.5406496,
+            13.0602956
+        ],
+        "CityName": "Dallgow-D\u00f6beritz"
+    },
+    "12067469": {
+        "Coordinates": [
+            52.3412361,
+            13.8803037
+        ],
+        "CityName": "Spreenhagen"
+    },
+    "13073070": {
+        "Coordinates": [
+            54.3535322,
+            13.4749134
+        ],
+        "CityName": "Putbus"
+    },
+    "12061332": {
+        "Coordinates": [
+            52.2642238,
+            13.5360563
+        ],
+        "CityName": "Mittenwalde"
+    },
+    "12069541": {
+        "Coordinates": [
+            52.4730439,
+            12.715434
+        ],
+        "CityName": "Roskow"
+    },
+    "12072169": {
+        "Coordinates": [
+            51.9916493,
+            13.0801128
+        ],
+        "CityName": "J\u00fcterbog"
+    },
+    "13071055": {
+        "Coordinates": [
+            53.4734432,
+            13.2215784
+        ],
+        "CityName": "Gro\u00df Nemerow"
+    },
+    "12068188": {
+        "Coordinates": [
+            52.9004778,
+            12.968977
+        ],
+        "CityName": "Herzberg (Mark)"
+    },
+    "13074069": {
+        "Coordinates": [
+            53.9132044,
+            11.0679277
+        ],
+        "CityName": "Roggenstorf"
+    },
+    "12060198": {
+        "Coordinates": [
+            52.9021805,
+            13.5553279
+        ],
+        "CityName": "Schorfheide"
+    },
+    "13072049": {
+        "Coordinates": [
+            53.8775886,
+            12.6150233
+        ],
+        "CityName": "J\u00f6rdenstorf"
+    },
+    "13071174": {
+        "Coordinates": [
+            53.5104874,
+            12.847652330627001
+        ],
+        "CityName": "Schloen-Dratow"
+    },
+    "13075012": {
+        "Coordinates": [
+            53.5107781,
+            14.3110187
+        ],
+        "CityName": "Blankensee"
+    },
+    "13073017": {
+        "Coordinates": [
+            54.2918991,
+            12.351915
+        ],
+        "CityName": "Dierhagen"
+    },
+    "12064044": {
+        "Coordinates": [
+            52.787521,
+            14.0300689
+        ],
+        "CityName": "Bad Freienwalde (Oder)"
+    },
+    "13075074": {
+        "Coordinates": [
+            53.9486928,
+            13.8490767
+        ],
+        "CityName": "Lassan"
+    },
+    "13075123": {
+        "Coordinates": [
+            54.00588355,
+            13.210104317162163
+        ],
+        "CityName": "Sassen-Trantow"
+    },
+    "12067481": {
+        "Coordinates": [
+            52.2058093,
+            13.9049798
+        ],
+        "CityName": "Storkow (Mark)"
+    },
+    "13073089": {
+        "Coordinates": [
+            54.0762002,
+            13.1332958
+        ],
+        "CityName": "S\u00fcderholz"
+    },
+    "12068072": {
+        "Coordinates": [
+            52.9029636,
+            12.7261924
+        ],
+        "CityName": "Dabergotz"
+    },
+    "13073015": {
+        "Coordinates": [
+            54.1045616,
+            12.5186137
+        ],
+        "CityName": "Dettmannsdorf"
+    },
+    "12063273": {
+        "Coordinates": [
+            52.6401274,
+            13.0502083
+        ],
+        "CityName": "Sch\u00f6nwalde-Glien"
+    },
+    "12065251": {
+        "Coordinates": [
+            52.7079067,
+            13.1099284
+        ],
+        "CityName": "Oberkr\u00e4mer"
+    },
+    "13074057": {
+        "Coordinates": [
+            53.8645385,
+            11.6824343
+        ],
+        "CityName": "Neukloster"
+    },
+    "12064428": {
+        "Coordinates": [
+            52.471293,
+            13.784527
+        ],
+        "CityName": "R\u00fcdersdorf bei Berlin"
+    },
+    "13075041": {
+        "Coordinates": [
+            54.011266,
+            13.4774485
+        ],
+        "CityName": "Gro\u00df Kiesow"
+    },
+    "13075130": {
+        "Coordinates": [
+            53.5084448,
+            13.7434101
+        ],
+        "CityName": "Strasburg (Uckermark)"
+    },
+    "13071065": {
+        "Coordinates": [
+            53.8203005,
+            13.1773181
+        ],
+        "CityName": "Hohenmocker"
+    },
+    "12069402": {
+        "Coordinates": [
+            52.1192029,
+            12.8009174
+        ],
+        "CityName": "M\u00fchlenflie\u00df"
+    },
+    "13072117": {
+        "Coordinates": [
+            54.1266362,
+            11.7909831
+        ],
+        "CityName": "Wittenbeck"
+    },
+    "12069018": {
+        "Coordinates": [
+            52.479531,
+            12.5533692
+        ],
+        "CityName": "Beetzsee"
+    },
+    "13073098": {
+        "Coordinates": [
+            54.0740636,
+            12.9426663
+        ],
+        "CityName": "Wendisch Baggendorf"
+    },
+    "12067493": {
+        "Coordinates": [
+            52.1529688,
+            14.1614171
+        ],
+        "CityName": "Tauche"
+    },
+    "12069056": {
+        "Coordinates": [
+            52.2545728,
+            12.8343424
+        ],
+        "CityName": "Borkwalde"
+    },
+    "12065225": {
+        "Coordinates": [
+            52.6841309,
+            13.375854377162955
+        ],
+        "CityName": "M\u00fchlenbecker Land"
+    },
+    "12069028": {
+        "Coordinates": [
+            48.9051253,
+            6.7600862
+        ],
+        "CityName": "Bensdorf"
+    },
+    "12061433": {
+        "Coordinates": [
+            52.388552,
+            13.5048276
+        ],
+        "CityName": "Sch\u00f6nefeld"
+    },
+    "13071097": {
+        "Coordinates": [
+            45.4985848,
+            9.4242513
+        ],
+        "CityName": "Melz"
+    },
+    "13071145": {
+        "Coordinates": [
+            53.6066527,
+            13.2899543
+        ],
+        "CityName": "Trollenhagen"
+    },
+    "12069696": {
+        "Coordinates": [
+            52.2652873,
+            12.2898896
+        ],
+        "CityName": "Ziesar"
+    },
+    "12069019": {
+        "Coordinates": [
+            52.4917,
+            12.6125
+        ],
+        "CityName": "Beetzseeheide"
+    },
+    "12064125": {
+        "Coordinates": [
+            49.0487769,
+            6.5958205
+        ],
+        "CityName": "Falkenberg"
+    },
+    "13075144": {
+        "Coordinates": [
+            54.0536473,
+            13.7757809
+        ],
+        "CityName": "Wolgast"
+    },
+    "12068324": {
+        "Coordinates": [
+            52.8550517,
+            12.440522
+        ],
+        "CityName": "Neustadt (Dosse)"
+    },
+    "13073066": {
+        "Coordinates": [
+            54.2359233,
+            10.2818352
+        ],
+        "CityName": "Preetz"
+    },
+    "12060149": {
+        "Coordinates": [
+            52.92822535,
+            14.111425575410086
+        ],
+        "CityName": "Lunow-Stolzenhagen"
+    },
+    "13074090": {
+        "Coordinates": [
+            53.8642587,
+            11.6138004
+        ],
+        "CityName": "Zurow"
+    },
+    "13072019": {
+        "Coordinates": [
+            54.0805237,
+            12.2601396
+        ],
+        "CityName": "Broderstorf"
+    },
+    "12063228": {
+        "Coordinates": [
+            52.6754313,
+            12.7125263
+        ],
+        "CityName": "Paulinenaue"
+    },
+    "13072006": {
+        "Coordinates": [
+            54.105858,
+            11.9026057
+        ],
+        "CityName": "Bad Doberan"
+    },
+    "13072012": {
+        "Coordinates": [
+            53.0393643,
+            11.7335853
+        ],
+        "CityName": "Bentwisch"
+    },
+    "13074079": {
+        "Coordinates": [
+            53.8199538,
+            11.2161944
+        ],
+        "CityName": "Upahl"
+    },
+    "13071043": {
+        "Coordinates": [
+            53.4781976,
+            12.510908
+        ],
+        "CityName": "G\u00f6hren-Lebbin"
+    },
+    "13071099": {
+        "Coordinates": [
+            53.2851568,
+            12.847677
+        ],
+        "CityName": "Mirow"
+    },
+    "12064420": {
+        "Coordinates": [
+            52.5014562,
+            14.5827835
+        ],
+        "CityName": "Reitwein"
+    },
+    "12069249": {
+        "Coordinates": [
+            52.4041498,
+            12.7764128
+        ],
+        "CityName": "Gro\u00df Kreutz (Havel)"
+    },
+    "12061192": {
+        "Coordinates": [
+            52.1646622,
+            13.6588172
+        ],
+        "CityName": "Gro\u00df K\u00f6ris"
+    },
+    "13075045": {
+        "Coordinates": [
+            53.5997998,
+            13.978805
+        ],
+        "CityName": "Hammer a.d. Uecker"
+    },
+    "12068425": {
+        "Coordinates": [
+            53.0078136,
+            12.608904694561296
+        ],
+        "CityName": "Temnitzquell"
+    },
+    "12069590": {
+        "Coordinates": [
+            52.3389,
+            12.9722001
+        ],
+        "CityName": "Schwielowsee"
+    },
+    "12067458": {
+        "Coordinates": [
+            52.19698325,
+            14.521068306535273
+        ],
+        "CityName": "Siehdichum"
+    },
+    "12067201": {
+        "Coordinates": [
+            52.4262298,
+            13.8226458
+        ],
+        "CityName": "Gr\u00fcnheide (Mark)"
+    },
+    "12068264": {
+        "Coordinates": [
+            52.9430648,
+            12.3966896
+        ],
+        "CityName": "Kyritz"
+    },
+    "13071049": {
+        "Coordinates": [
+            53.7125469,
+            13.2891498
+        ],
+        "CityName": "Grapzow"
+    },
+    "13075136": {
+        "Coordinates": [
+            53.7371069,
+            14.0458887
+        ],
+        "CityName": "Ueckerm\u00fcnde"
+    },
+    "13075131": {
+        "Coordinates": [
+            53.6304232,
+            14.0113284
+        ],
+        "CityName": "Torgelow"
+    },
+    "13071137": {
+        "Coordinates": [
+            53.4462375,
+            12.5580048
+        ],
+        "CityName": "Sietow"
+    },
+    "12067237": {
+        "Coordinates": [
+            52.3392261,
+            14.3536714
+        ],
+        "CityName": "Jacobsdorf"
+    },
+    "12072240": {
+        "Coordinates": [
+            52.3016096,
+            13.2610163
+        ],
+        "CityName": "Ludwigsfelde"
+    },
+    "13075066": {
+        "Coordinates": [
+            54.0510368,
+            13.9990573
+        ],
+        "CityName": "Koserow"
+    },
+    "13074089": {
+        "Coordinates": [
+            53.9264072,
+            11.3741079
+        ],
+        "CityName": "Zierow"
+    },
+    "13073036": {
+        "Coordinates": [
+            54.3326796,
+            12.8409704
+        ],
+        "CityName": "Gro\u00df Kordshagen"
+    },
+    "12073578": {
+        "Coordinates": [
+            53.2545183,
+            13.9372945
+        ],
+        "CityName": "Uckerfelde"
+    },
+    "13073043": {
+        "Coordinates": [
+            54.3547061,
+            12.7729263
+        ],
+        "CityName": "Kenz-K\u00fcstrow"
+    },
+    "13072058": {
+        "Coordinates": [
+            54.0720121,
+            11.7936085
+        ],
+        "CityName": "Kr\u00f6pelin"
+    },
+    "12073261": {
+        "Coordinates": [
+            53.3443337,
+            13.3123778
+        ],
+        "CityName": "Gr\u00fcnow"
+    },
+    "11000000": {
+        "Coordinates": [
+            52.5170365,
+            13.3888599
+        ],
+        "CityName": "Berlin"
+    },
+    "13073064": {
+        "Coordinates": [
+            54.4661218,
+            13.395655
+        ],
+        "CityName": "Patzig"
+    },
+    "12063252": {
+        "Coordinates": [
+            52.6063703,
+            12.3382259
+        ],
+        "CityName": "Rathenow"
+    },
+    "13073049": {
+        "Coordinates": [
+            54.4833877,
+            13.5067976
+        ],
+        "CityName": "Lietzow"
+    },
+    "12067124": {
+        "Coordinates": [
+            52.4259804,
+            13.7542811
+        ],
+        "CityName": "Erkner"
+    },
+    "13073077": {
+        "Coordinates": [
+            54.3098719,
+            12.4992041
+        ],
+        "CityName": "Saal"
+    },
+    "13075068": {
+        "Coordinates": [
+            53.8296311,
+            13.4488547
+        ],
+        "CityName": "Krien"
+    },
+    "13074076": {
+        "Coordinates": [
+            53.8827264,
+            10.8575937
+        ],
+        "CityName": "Selmsdorf"
+    },
+    "12073384": {
+        "Coordinates": [
+            53.2083284,
+            13.3164795
+        ],
+        "CityName": "Lychen"
+    },
+    "13075027": {
+        "Coordinates": [
+            54.0475177,
+            13.2938101
+        ],
+        "CityName": "Dersekow"
+    },
+    "12069306": {
+        "Coordinates": [
+            52.319366599999995,
+            12.72463745396169
+        ],
+        "CityName": "Kloster Lehnin"
+    },
+    "13072091": {
+        "Coordinates": [
+            54.0766197,
+            12.3770381
+        ],
+        "CityName": "Sanitz"
+    },
+    "12067473": {
+        "Coordinates": [
+            52.401007,
+            14.1651961
+        ],
+        "CityName": "Steinh\u00f6fel"
+    },
+    "13073054": {
+        "Coordinates": [
+            53.8399053,
+            12.1396681
+        ],
+        "CityName": "L\u00fcssow"
+    },
+    "13072108": {
+        "Coordinates": [
+            54.0947311,
+            12.3034941
+        ],
+        "CityName": "Thulendorf"
+    },
+    "12072120": {
+        "Coordinates": [
+            52.3540888,
+            13.307754
+        ],
+        "CityName": "Gro\u00dfbeeren"
+    },
+    "13071164": {
+        "Coordinates": [
+            53.4592923,
+            13.5833378
+        ],
+        "CityName": "Woldegk"
+    },
+    "12069076": {
+        "Coordinates": [
+            52.1923564,
+            12.7584313
+        ],
+        "CityName": "Br\u00fcck"
+    },
+    "12068181": {
+        "Coordinates": [
+            53.1449761,
+            12.3601617
+        ],
+        "CityName": "Heiligengrabe"
+    },
+    "13071037": {
+        "Coordinates": [
+            53.6197596,
+            13.705076
+        ],
+        "CityName": "Galenbeck"
+    },
+    "12067408": {
+        "Coordinates": [
+            52.3304635,
+            14.0269414
+        ],
+        "CityName": "Rauen"
+    },
+    "13075050": {
+        "Coordinates": [
+            54.0676133,
+            13.3340859
+        ],
+        "CityName": "Hinrichshagen"
+    },
+    "13072086": {
+        "Coordinates": [
+            54.0466455,
+            11.8764843
+        ],
+        "CityName": "Retschow"
+    },
+    "13074037": {
+        "Coordinates": [
+            53.9705681,
+            11.0443051
+        ],
+        "CityName": "Kalkhorst"
+    },
+    "13075078": {
+        "Coordinates": [
+            53.7167,
+            14.0167
+        ],
+        "CityName": "Liepgarten"
+    },
+    "12064370": {
+        "Coordinates": [
+            52.601103,
+            14.016397437325864
+        ],
+        "CityName": "Oberbarnim"
+    },
+    "13073010": {
+        "Coordinates": [
+            54.4172673,
+            13.4305634
+        ],
+        "CityName": "Bergen auf R\u00fcgen"
+    },
+    "12064268": {
+        "Coordinates": [
+            52.4271025,
+            14.5338189
+        ],
+        "CityName": "Lebus"
+    },
+    "13073105": {
+        "Coordinates": [
+            54.4387302,
+            12.6821366
+        ],
+        "CityName": "Zingst"
+    },
+    "13073031": {
+        "Coordinates": [
+            54.3406599,
+            13.7449147
+        ],
+        "CityName": "G\u00f6hren"
+    },
+    "13072017": {
+        "Coordinates": [
+            54.1405165,
+            11.9377074
+        ],
+        "CityName": "B\u00f6rgerende-Rethwisch"
+    },
+    "12063260": {
+        "Coordinates": [
+            52.7508589,
+            12.3410614
+        ],
+        "CityName": "Rhinow"
+    },
+    "12069665": {
+        "Coordinates": [
+            52.1146266,
+            12.4531798
+        ],
+        "CityName": "Wiesenburg/Mark"
+    },
+    "12069345": {
+        "Coordinates": [
+            52.1540689,
+            12.7847626
+        ],
+        "CityName": "Linthe"
+    },
+    "13071047": {
+        "Coordinates": [
+            53.5683057,
+            12.594171
+        ],
+        "CityName": "Grabowh\u00f6fe"
+    },
+    "13071166": {
+        "Coordinates": [
+            53.5449174,
+            13.1699188
+        ],
+        "CityName": "Wulkenzin"
+    },
+    "12064388": {
+        "Coordinates": [
+            52.47,
+            14.539
+        ],
+        "CityName": "Podelzig"
+    },
+    "12073069": {
+        "Coordinates": [
+            53.270556299999996,
+            13.547824301173339
+        ],
+        "CityName": "Boitzenburger Land"
+    },
+    "12064349": {
+        "Coordinates": [
+            52.7249691,
+            14.2784765
+        ],
+        "CityName": "Neulewin"
+    },
+    "13073001": {
+        "Coordinates": [
+            54.2322873,
+            12.5782208
+        ],
+        "CityName": "Ahrenshagen-Daskow"
+    },
+    "13071133": {
+        "Coordinates": [
+            53.2248053,
+            12.7860693
+        ],
+        "CityName": "Schwarz"
+    },
+    "13073024": {
+        "Coordinates": [
+            54.1871931,
+            12.878125
+        ],
+        "CityName": "Franzburg"
+    },
+    "12065036": {
+        "Coordinates": [
+            52.6884408,
+            13.2831336
+        ],
+        "CityName": "Birkenwerder"
+    },
+    "12069485": {
+        "Coordinates": [
+            52.0325822,
+            12.6201345
+        ],
+        "CityName": "Rabenstein/Fl\u00e4ming"
+    },
+    "12060176": {
+        "Coordinates": [
+            52.8663385,
+            14.0451652
+        ],
+        "CityName": "Oderberg"
+    },
+    "13074049": {
+        "Coordinates": [
+            53.8324566,
+            10.8090408
+        ],
+        "CityName": "L\u00fcdersdorf"
+    },
+    "12067040": {
+        "Coordinates": [
+            52.3518222,
+            14.1482449
+        ],
+        "CityName": "Berkenbr\u00fcck"
+    },
+    "13073080": {
+        "Coordinates": [
+            54.516728,
+            13.644119
+        ],
+        "CityName": "Sassnitz"
+    },
+    "13071011": {
+        "Coordinates": [
+            53.5107781,
+            14.3110187
+        ],
+        "CityName": "Blankensee"
+    },
+    "13072080": {
+        "Coordinates": [
+            54.0097235,
+            12.0956473
+        ],
+        "CityName": "P\u00f6lchow"
+    },
+    "13071033": {
+        "Coordinates": [
+            53.3391872,
+            13.4191548
+        ],
+        "CityName": "Feldberger Seenlandschaft"
+    },
+    "13073086": {
+        "Coordinates": [
+            54.1237049,
+            12.9300084
+        ],
+        "CityName": "Splietsdorf"
+    },
+    "12073452": {
+        "Coordinates": [
+            53.3167,
+            13.866575
+        ],
+        "CityName": "Prenzlau"
+    },
+    "13072105": {
+        "Coordinates": [
+            54.0263099,
+            12.4684089
+        ],
+        "CityName": "Tessin"
+    },
+    "13071057": {
+        "Coordinates": [
+            53.6462433,
+            13.2292782
+        ],
+        "CityName": "Gro\u00df Teetzleben"
+    },
+    "13072064": {
+        "Coordinates": [
+            54.1040539,
+            12.0143412
+        ],
+        "CityName": "Lambrechtshagen"
+    },
+    "13071112": {
+        "Coordinates": [
+            53.9622784,
+            12.9590279
+        ],
+        "CityName": "Nossendorf"
+    },
+    "12068372": {
+        "Coordinates": [
+            52.8811372,
+            13.0000655
+        ],
+        "CityName": "R\u00fcthnick"
+    },
+    "13075115": {
+        "Coordinates": [
+            53.4715953,
+            13.9780158
+        ],
+        "CityName": "Rollwitz"
+    },
+    "12067336": {
+        "Coordinates": [
+            52.2468189,
+            14.4181081
+        ],
+        "CityName": "M\u00fcllrose"
+    },
+    "12073440": {
+        "Coordinates": [
+            53.6097486,
+            13.1424367
+        ],
+        "CityName": "Pinnow"
+    },
+    "12067426": {
+        "Coordinates": [
+            52.2290504,
+            14.1736362
+        ],
+        "CityName": "Rietz-Neuendorf"
+    },
+    "12064266": {
+        "Coordinates": [
+            52.5651264,
+            14.5691088
+        ],
+        "CityName": "K\u00fcstriner Vorland"
+    },
+    "13074035": {
+        "Coordinates": [
+            54.0081319,
+            11.4433345
+        ],
+        "CityName": "Insel Poel"
+    },
+    "13071115": {
+        "Coordinates": [
+            53.5055701,
+            13.0843264
+        ],
+        "CityName": "Penzlin"
+    },
+    "12073532": {
+        "Coordinates": [
+            53.0586366,
+            14.2840858
+        ],
+        "CityName": "Schwedt/Oder"
+    },
+    "13075076": {
+        "Coordinates": [
+            54.0881426,
+            13.271824
+        ],
+        "CityName": "Levenhagen"
+    },
+    "12073579": {
+        "Coordinates": [
+            53.47326515,
+            13.788906228137742
+        ],
+        "CityName": "Uckerland"
+    },
+    "12072298": {
+        "Coordinates": [
+            51.906123449999996,
+            13.206351350872541
+        ],
+        "CityName": "Niederer Fl\u00e4ming"
+    },
+    "12064172": {
+        "Coordinates": [
+            52.5743158,
+            14.492855
+        ],
+        "CityName": "Golzow"
+    },
+    "13071162": {
+        "Coordinates": [
+            53.2607735,
+            13.1924869
+        ],
+        "CityName": "Wokuhl-Dabelow"
+    },
+    "13073046": {
+        "Coordinates": [
+            54.3533164,
+            13.0536676
+        ],
+        "CityName": "Kramerhof"
+    },
+    "5170024": {
+        "Coordinates": [
+            51.451283,
+            6.62843
+        ],
+        "CityName": "Moers"
+    },
+    "12060100": {
+        "Coordinates": [
+            52.9770643,
+            13.7453282
+        ],
+        "CityName": "Joachimsthal"
+    },
+    "13072077": {
+        "Coordinates": [
+            53.4962286,
+            13.9464137
+        ],
+        "CityName": "Papendorf"
+    },
+    "13075049": {
+        "Coordinates": [
+            53.9543267,
+            14.1673508
+        ],
+        "CityName": "Heringsdorf"
+    },
+    "13075026": {
+        "Coordinates": [
+            53.8866497,
+            14.0656789
+        ],
+        "CityName": "Dargen"
+    },
+    "13075079": {
+        "Coordinates": [
+            53.4518623,
+            14.2169635
+        ],
+        "CityName": "L\u00f6cknitz"
+    },
+    "13071019": {
+        "Coordinates": [
+            53.6711367,
+            13.3706436
+        ],
+        "CityName": "Brunn"
+    },
+    "13074077": {
+        "Coordinates": [
+            53.7811626,
+            11.2627907
+        ],
+        "CityName": "Testorf-Steinfort"
+    },
+    "12073572": {
+        "Coordinates": [
+            53.1193496,
+            13.5005559
+        ],
+        "CityName": "Templin"
+    },
+    "13072094": {
+        "Coordinates": [
+            53.6817854,
+            12.5663884
+        ],
+        "CityName": "Schorssow"
+    },
+    "13075114": {
+        "Coordinates": [
+            53.9459553,
+            13.9258154
+        ],
+        "CityName": "Rankwitz"
+    },
+    "13075055": {
+        "Coordinates": [
+            53.578947,
+            13.9415618
+        ],
+        "CityName": "Jatznick"
+    },
+    "12067137": {
+        "Coordinates": [
+            53.6716022,
+            13.5487647
+        ],
+        "CityName": "Friedland"
+    },
+    "12061540": {
+        "Coordinates": [
+            52.3214429,
+            13.6348744
+        ],
+        "CityName": "Wildau"
+    },
+    "13075034": {
+        "Coordinates": [
+            53.8811804,
+            14.1705917
+        ],
+        "CityName": "Garz"
+    },
+    "12073429": {
+        "Coordinates": [
+            53.31705085,
+            13.655372863261551
+        ],
+        "CityName": "Nordwestuckermark"
+    },
+    "13073027": {
+        "Coordinates": [
+            54.3195842,
+            13.3516021
+        ],
+        "CityName": "Garz/R\u00fcgen"
+    },
+    "12061492": {
+        "Coordinates": [
+            52.135986,
+            13.6098424
+        ],
+        "CityName": "Teupitz"
+    },
+    "12067413": {
+        "Coordinates": [
+            52.2658593,
+            13.9980012
+        ],
+        "CityName": "Reichenwalde"
+    },
+    "13071092": {
+        "Coordinates": [
+            53.7382631,
+            12.7644198
+        ],
+        "CityName": "Malchin"
+    },
+    "13071173": {
+        "Coordinates": [
+            53.5341859,
+            13.089188446848897
+        ],
+        "CityName": "Kuckssee"
+    },
+    "13075054": {
+        "Coordinates": [
+            53.9221033,
+            13.3374416
+        ],
+        "CityName": "Jarmen"
+    },
+    "12067288": {
+        "Coordinates": [
+            52.3265965,
+            14.1066106
+        ],
+        "CityName": "Langewahl"
+    },
+    "1062091": {
+        "Coordinates": [
+            48.7692184,
+            7.4133351
+        ],
+        "CityName": "Steinburg"
+    },
+    "14511000": {
+        "Coordinates": [
+            50.8323531,
+            12.918914
+        ],
+        "CityName": "Chemnitz"
+    },
+    "12073201": {
+        "Coordinates": [
+            53.1711535,
+            13.7509084
+        ],
+        "CityName": "Gerswalde"
+    },
+    "13073092": {
+        "Coordinates": [
+            46.0664228,
+            11.1257601
+        ],
+        "CityName": "Trent"
+    },
+    "12070153": {
+        "Coordinates": [
+            53.2333,
+            12.28
+        ],
+        "CityName": "Halenbeck-Rohlsdorf"
+    },
+    "12067024": {
+        "Coordinates": [
+            52.2922975,
+            14.0552305
+        ],
+        "CityName": "Bad Saarow"
+    },
+    "12064448": {
+        "Coordinates": [
+            52.5318238,
+            14.380704
+        ],
+        "CityName": "Seelow"
+    },
+    "13073045": {
+        "Coordinates": [
+            54.462034450000004,
+            13.316117760383912
+        ],
+        "CityName": "Kluis"
+    },
+    "13075142": {
+        "Coordinates": [
+            54.04596015,
+            13.443104420379935
+        ],
+        "CityName": "Weitenhagen"
+    },
+    "13075031": {
+        "Coordinates": [
+            53.6820915,
+            14.077945
+        ],
+        "CityName": "Eggesin"
+    },
+    "12070325": {
+        "Coordinates": [
+            53.2505941,
+            12.0409827
+        ],
+        "CityName": "Putlitz"
+    },
+    "12064408": {
+        "Coordinates": [
+            52.5331289,
+            13.9105671
+        ],
+        "CityName": "Rehfelde"
+    },
+    "12073393": {
+        "Coordinates": [
+            53.25520185,
+            14.425521097275155
+        ],
+        "CityName": "Mescherin"
+    },
+    "12060034": {
+        "Coordinates": [
+            52.77552145,
+            13.831279284196041
+        ],
+        "CityName": "Breydin"
+    },
+    "12060161": {
+        "Coordinates": [
+            52.7787071,
+            13.7044522
+        ],
+        "CityName": "Melchow"
+    },
+    "12073569": {
+        "Coordinates": [
+            53.0636382,
+            13.7525568
+        ],
+        "CityName": "Temmen-Ringenwalde"
+    },
+    "13073022": {
+        "Coordinates": [
+            54.170775500000005,
+            12.704543703055172
+        ],
+        "CityName": "Eixen"
+    },
+    "12069680": {
+        "Coordinates": [
+            53.9131743,
+            14.52001388837596
+        ],
+        "CityName": "Wollin"
+    },
+    "13071066": {
+        "Coordinates": [
+            53.4442448,
+            13.0994261
+        ],
+        "CityName": "Hohenzieritz"
+    },
+    "13072038": {
+        "Coordinates": [
+            53.7829342,
+            12.5003166
+        ],
+        "CityName": "Gro\u00df Roge"
+    },
+    "12068280": {
+        "Coordinates": [
+            52.9744071,
+            12.9872378
+        ],
+        "CityName": "Lindow (Mark)"
+    },
+    "13074002": {
+        "Coordinates": [
+            53.7706474,
+            11.4727533
+        ],
+        "CityName": "Bad Kleinen"
+    },
+    "12067036": {
+        "Coordinates": [
+            52.1721569,
+            14.2471058
+        ],
+        "CityName": "Beeskow"
+    },
+    "13073103": {
+        "Coordinates": [
+            53.2253478,
+            12.9698436
+        ],
+        "CityName": "Wustrow"
+    },
+    "13073033": {
+        "Coordinates": [
+            54.0657667,
+            12.8819593
+        ],
+        "CityName": "Gransebieth"
+    },
+    "13074034": {
+        "Coordinates": [
+            53.9075134,
+            11.5333611
+        ],
+        "CityName": "Hornstorf"
+    },
+    "13073073": {
+        "Coordinates": [
+            54.3553964,
+            13.2025199
+        ],
+        "CityName": "Rambin"
+    },
+    "13073106": {
+        "Coordinates": [
+            54.3896444,
+            13.5419787
+        ],
+        "CityName": "Zirkow"
+    },
+    "13073025": {
+        "Coordinates": [
+            53.9435733,
+            9.884558
+        ],
+        "CityName": "Fuhlendorf"
+    },
+    "12067076": {
+        "Coordinates": [
+            52.256642,
+            14.5783041
+        ],
+        "CityName": "Brieskow-Finkenheerd"
+    },
+    "13074008": {
+        "Coordinates": [
+            53.8046821,
+            11.3610822
+        ],
+        "CityName": "Bobitz"
+    },
+    "12073085": {
+        "Coordinates": [
+            53.3994602,
+            14.126711
+        ],
+        "CityName": "Br\u00fcssow"
+    },
+    "13073104": {
+        "Coordinates": [
+            54.2375151,
+            13.1002611
+        ],
+        "CityName": "Zarrendorf"
+    },
+    "13071001": {
+        "Coordinates": [
+            53.5133185,
+            12.353353
+        ],
+        "CityName": "Alt Schwerin"
+    },
+    "13072098": {
+        "Coordinates": [
+            54.038423,
+            12.0183382
+        ],
+        "CityName": "St\u00e4below"
+    },
+    "12064340": {
+        "Coordinates": [
+            52.5965971,
+            14.2383658
+        ],
+        "CityName": "Neuhardenberg"
+    },
+    "13071069": {
+        "Coordinates": [
+            53.536747,
+            12.544993
+        ],
+        "CityName": "Jabel"
+    },
+    "12067292": {
+        "Coordinates": [
+            52.1067467,
+            14.6437359
+        ],
+        "CityName": "Lawitz"
+    },
+    "13075083": {
+        "Coordinates": [
+            54.1318409,
+            13.612798
+        ],
+        "CityName": "Lubmin"
+    },
+    "13075094": {
+        "Coordinates": [
+            53.905223,
+            13.7400345
+        ],
+        "CityName": "Murchin"
+    },
+    "13071155": {
+        "Coordinates": [
+            53.4230019,
+            12.4666868
+        ],
+        "CityName": "Walow"
+    },
+    "12067112": {
+        "Coordinates": [
+            52.2388104,
+            14.0594438
+        ],
+        "CityName": "Diensdorf-Radlow"
+    },
+    "13073090": {
+        "Coordinates": [
+            54.2156389,
+            13.1865752
+        ],
+        "CityName": "Sundhagen"
+    },
+    "13073071": {
+        "Coordinates": [
+            54.6728579,
+            13.4159183
+        ],
+        "CityName": "Putgarten"
+    },
+    "13075046": {
+        "Coordinates": [
+            54.0443308,
+            13.5388235
+        ],
+        "CityName": "Hanshagen"
+    },
+    "13071167": {
+        "Coordinates": [
+            53.2253478,
+            12.9698436
+        ],
+        "CityName": "Wustrow"
+    },
+    "13073002": {
+        "Coordinates": [
+            54.3789509,
+            12.419192
+        ],
+        "CityName": "Ahrenshoop"
+    },
+    "13073099": {
+        "Coordinates": [
+            54.2506148,
+            13.0723757
+        ],
+        "CityName": "Wendorf"
+    },
+    "12065084": {
+        "Coordinates": [
+            53.1844661,
+            13.1482276
+        ],
+        "CityName": "F\u00fcrstenberg/Havel"
+    },
+    "12060128": {
+        "Coordinates": [
+            52.8622377,
+            13.9704576
+        ],
+        "CityName": "Liepe"
+    },
+    "13073003": {
+        "Coordinates": [
+            54.3300215,
+            13.1261879
+        ],
+        "CityName": "Altef\u00e4hr"
+    },
+    "12065100": {
+        "Coordinates": [
+            53.0072783,
+            13.1588685
+        ],
+        "CityName": "Gransee"
+    },
+    "12073458": {
+        "Coordinates": [
+            53.30234045,
+            14.084588068948474
+        ],
+        "CityName": "Randowtal"
+    },
+    "12060172": {
+        "Coordinates": [
+            52.8334154,
+            13.9290729
+        ],
+        "CityName": "Niederfinow"
+    },
+    "12069688": {
+        "Coordinates": [
+            52.37841225,
+            12.352262902488427
+        ],
+        "CityName": "Wusterwitz"
+    },
+    "13072075": {
+        "Coordinates": [
+            54.159117,
+            11.955593
+        ],
+        "CityName": "Nienhagen"
+    },
+    "13075051": {
+        "Coordinates": [
+            53.6259599,
+            14.2649629
+        ],
+        "CityName": "Hintersee"
+    },
+    "12061308": {
+        "Coordinates": [
+            51.9865536,
+            14.2996945
+        ],
+        "CityName": "Lieberose"
+    },
+    "13071002": {
+        "Coordinates": [
+            53.7624989,
+            13.1047741
+        ],
+        "CityName": "Altenhagen"
+    },
+    "13071016": {
+        "Coordinates": [
+            53.6294639,
+            13.1635932
+        ],
+        "CityName": "Breesen"
+    },
+    "13075087": {
+        "Coordinates": [
+            54.0135132,
+            13.8787329
+        ],
+        "CityName": "L\u00fctow"
+    },
+    "13072007": {
+        "Coordinates": [
+            54.087182,
+            11.965336790816327
+        ],
+        "CityName": "Bartenshagen-Parkentin"
+    },
+    "13072085": {
+        "Coordinates": [
+            54.1067652,
+            11.6171165
+        ],
+        "CityName": "Rerik"
+    },
+    "13071010": {
+        "Coordinates": [
+            53.577206,
+            13.1306205
+        ],
+        "CityName": "Blankenhof"
+    },
+    "12068320": {
+        "Coordinates": [
+            52.9243859,
+            12.8092919
+        ],
+        "CityName": "Neuruppin"
+    },
+    "13073005": {
+        "Coordinates": [
+            54.3505543,
+            12.9217009
+        ],
+        "CityName": "Altenpleen"
+    },
+    "13073079": {
+        "Coordinates": [
+            54.3548328,
+            13.2928842
+        ],
+        "CityName": "Samtens"
+    },
+    "13071070": {
+        "Coordinates": [
+            53.6615913,
+            12.9024287
+        ],
+        "CityName": "J\u00fcrgenstorf"
+    },
+    "13075059": {
+        "Coordinates": [
+            54.0478175,
+            13.6756091
+        ],
+        "CityName": "Katzow"
+    },
+    "13073084": {
+        "Coordinates": [
+            54.3770567,
+            13.6942765
+        ],
+        "CityName": "Sellin"
+    },
+    "13075146": {
+        "Coordinates": [
+            54.1152894,
+            13.6193155
+        ],
+        "CityName": "Wusterhusen"
+    },
+    "13072082": {
+        "Coordinates": [
+            53.9081485,
+            12.4879004
+        ],
+        "CityName": "Prebberede"
+    },
+    "13071090": {
+        "Coordinates": [
+            53.4786,
+            13.4309785
+        ],
+        "CityName": "Lindetal"
+    },
+    "13073083": {
+        "Coordinates": [
+            54.3783743,
+            13.3863888
+        ],
+        "CityName": "Sehlen"
+    },
+    "12061224": {
+        "Coordinates": [
+            51.9915859,
+            14.3531406
+        ],
+        "CityName": "Jamlitz"
+    },
+    "13075103": {
+        "Coordinates": [
+            53.4393363,
+            13.9221613
+        ],
+        "CityName": "Nieden"
+    },
+    "13071068": {
+        "Coordinates": [
+            53.710979,
+            12.9652479
+        ],
+        "CityName": "Ivenack"
+    },
+    "13075069": {
+        "Coordinates": [
+            54.1167578,
+            13.7526663
+        ],
+        "CityName": "Kr\u00f6slin"
+    },
+    "13071039": {
+        "Coordinates": [
+            53.6975007,
+            12.7444399
+        ],
+        "CityName": "Gielow"
+    },
+    "12072014": {
+        "Coordinates": [
+            52.0462945,
+            13.5019022
+        ],
+        "CityName": "Baruth/Mark"
+    },
+    "13073011": {
+        "Coordinates": [
+            54.4010291,
+            13.6076477
+        ],
+        "CityName": "Binz"
+    },
+    "13073040": {
+        "Coordinates": [
+            54.531143650000004,
+            13.095163302147133
+        ],
+        "CityName": "Insel Hiddensee"
+    },
+    "13072099": {
+        "Coordinates": [
+            54.0996174,
+            11.8332725
+        ],
+        "CityName": "Steffenshagen"
+    },
+    "13074009": {
+        "Coordinates": [
+            54.0174057,
+            11.56283
+        ],
+        "CityName": "Boiensdorf"
+    },
+    "13073063": {
+        "Coordinates": [
+            54.4378921,
+            13.3987733
+        ],
+        "CityName": "Parchtitz"
+    },
+    "13072014": {
+        "Coordinates": [
+            54.0759513,
+            11.7010591
+        ],
+        "CityName": "Biendorf"
+    },
+    "12067520": {
+        "Coordinates": [
+            52.21303,
+            14.0058861
+        ],
+        "CityName": "Wendisch Rietz"
+    },
+    "13073048": {
+        "Coordinates": [
+            54.3668006,
+            13.6322495
+        ],
+        "CityName": "Lancken-Granitz"
+    },
+    "13073059": {
+        "Coordinates": [
+            54.23649,
+            8.9877874
+        ],
+        "CityName": "Neuenkirchen"
+    },
+    "13075038": {
+        "Coordinates": [
+            53.4120381,
+            14.3351744
+        ],
+        "CityName": "Grambow"
+    },
+    "13071144": {
+        "Coordinates": [
+            53.5581172,
+            12.7733902
+        ],
+        "CityName": "Torgelow am See"
+    },
+    "12073216": {
+        "Coordinates": [
+            53.40964,
+            13.9128852
+        ],
+        "CityName": "G\u00f6ritz"
+    },
+    "13071102": {
+        "Coordinates": [
+            53.62892,
+            10.6880174
+        ],
+        "CityName": "M\u00f6lln"
+    },
+    "12064205": {
+        "Coordinates": [
+            52.732254350000005,
+            13.819060433575281
+        ],
+        "CityName": "Heckelberg-Brunow"
+    },
+    "13074016": {
+        "Coordinates": [
+            53.9317199,
+            11.1504736
+        ],
+        "CityName": "Damshagen"
+    },
+    "13075084": {
+        "Coordinates": [
+            53.7258567,
+            13.8819589
+        ],
+        "CityName": "L\u00fcbs"
+    },
+    "13071007": {
+        "Coordinates": [
+            53.4189219,
+            10.5843316
+        ],
+        "CityName": "Basedow"
+    },
+    "12067324": {
+        "Coordinates": [
+            52.1950957,
+            14.4046835
+        ],
+        "CityName": "Mixdorf"
+    },
+    "12073645": {
+        "Coordinates": [
+            53.1886055,
+            14.0376867
+        ],
+        "CityName": "Zichow"
+    },
+    "13075119": {
+        "Coordinates": [
+            53.5169008,
+            14.2002958
+        ],
+        "CityName": "Rothenklempenow"
+    },
+    "12064274": {
+        "Coordinates": [
+            52.6436724,
+            14.3617627
+        ],
+        "CityName": "Letschin"
+    },
+    "13071172": {
+        "Coordinates": [
+            53.590339549999996,
+            12.73342821011617
+        ],
+        "CityName": "Peenehagen"
+    },
+    "12061216": {
+        "Coordinates": [
+            52.1072969,
+            13.7003105
+        ],
+        "CityName": "Halbe"
+    },
+    "13071124": {
+        "Coordinates": [
+            53.3768182,
+            12.6059705
+        ],
+        "CityName": "R\u00f6bel/M\u00fcritz"
+    },
+    "13073042": {
+        "Coordinates": [
+            54.3037795,
+            12.7928466
+        ],
+        "CityName": "Karnin"
+    },
+    "13072113": {
+        "Coordinates": [
+            53.8405439,
+            12.4529669
+        ],
+        "CityName": "Warnkenhagen"
+    },
+    "12063274": {
+        "Coordinates": [
+            52.6866902,
+            12.3935602
+        ],
+        "CityName": "Seeblick"
+    },
+    "13072036": {
+        "Coordinates": [
+            54.2552653,
+            12.2517155
+        ],
+        "CityName": "Graal-M\u00fcritz"
+    },
+    "12067552": {
+        "Coordinates": [
+            52.206289,
+            14.623729
+        ],
+        "CityName": "Ziltendorf"
+    },
+    "13071108": {
+        "Coordinates": [
+            54.23649,
+            8.9877874
+        ],
+        "CityName": "Neuenkirchen"
+    },
+    "13075133": {
+        "Coordinates": [
+            54.0862485,
+            13.8646353
+        ],
+        "CityName": "Trassenheide"
+    },
+    "13075154": {
+        "Coordinates": [
+            53.979879,
+            13.5470936
+        ],
+        "CityName": "Z\u00fcssow"
+    },
+    "13074004": {
+        "Coordinates": [
+            53.9404498,
+            14.0729189
+        ],
+        "CityName": "Benz"
+    },
+    "12060154": {
+        "Coordinates": [
+            53.7335842,
+            18.9319222
+        ],
+        "CityName": "Marienwerder"
+    },
+    "13073060": {
+        "Coordinates": [
+            54.281586,
+            12.96741601894601
+        ],
+        "CityName": "Niepars"
+    },
+    "13075143": {
+        "Coordinates": [
+            53.6413424,
+            13.8590054
+        ],
+        "CityName": "Wilhelmsburg"
+    },
+    "13075135": {
+        "Coordinates": [
+            54.0126683,
+            14.0494805
+        ],
+        "CityName": "\u00dcckeritz"
+    },
+    "13071036": {
+        "Coordinates": [
+            53.4212638,
+            12.383395975910512
+        ],
+        "CityName": "F\u00fcnfseen"
+    },
+    "13074031": {
+        "Coordinates": [
+            53.7847509,
+            11.5156311
+        ],
+        "CityName": "Hohen Viecheln"
+    },
+    "13075138": {
+        "Coordinates": [
+            53.5509875,
+            14.0425752
+        ],
+        "CityName": "Viereck"
+    },
+    "13075091": {
+        "Coordinates": [
+            54.1487099,
+            13.3190547
+        ],
+        "CityName": "Mesekenhagen"
+    },
+    "13073074": {
+        "Coordinates": [
+            54.5082156,
+            13.3839914
+        ],
+        "CityName": "Rappin"
+    },
+    "13074047": {
+        "Coordinates": [
+            53.852032,
+            11.5245017
+        ],
+        "CityName": "L\u00fcbow"
+    },
+    "13074022": {
+        "Coordinates": [
+            53.9000945,
+            11.3832152
+        ],
+        "CityName": "G\u00e4gelow"
+    },
+    "12073189": {
+        "Coordinates": [
+            53.208577,
+            14.3914352
+        ],
+        "CityName": "Gartz (Oder)"
+    },
+    "13071053": {
+        "Coordinates": [
+            53.40665265,
+            12.53965079165632
+        ],
+        "CityName": "Gro\u00df Kelle"
+    },
+    "12063134": {
+        "Coordinates": [
+            52.7167,
+            12.2567
+        ],
+        "CityName": "Havelaue"
+    },
+    "12064365": {
+        "Coordinates": [
+            52.6670589,
+            14.2262364
+        ],
+        "CityName": "Neutrebbin"
+    },
+    "13071077": {
+        "Coordinates": [
+            53.4785811,
+            12.6232857
+        ],
+        "CityName": "Klink"
+    },
+    "13073061": {
+        "Coordinates": [
+            54.3000095,
+            12.9687416
+        ],
+        "CityName": "Pantelitz"
+    },
+    "12063293": {
+        "Coordinates": [
+            52.6478,
+            12.45
+        ],
+        "CityName": "Stechow-Ferchesar"
+    },
+    "12065117": {
+        "Coordinates": [
+            53.07863135,
+            13.116881308446912
+        ],
+        "CityName": "Gro\u00dfwoltersdorf"
+    },
+    "13072047": {
+        "Coordinates": [
+            53.8443378,
+            9.6243131
+        ],
+        "CityName": "Hohenfelde"
+    },
+    "12065356": {
+        "Coordinates": [
+            52.9794838,
+            13.3348959
+        ],
+        "CityName": "Zehdenick"
+    },
+    "13071014": {
+        "Coordinates": [
+            53.808927,
+            12.9681483
+        ],
+        "CityName": "Borrentin"
+    },
+    "13073021": {
+        "Coordinates": [
+            54.4034567,
+            13.2945704
+        ],
+        "CityName": "Dreschvitz"
+    },
+    "13074056": {
+        "Coordinates": [
+            49.0231964,
+            6.0436493
+        ],
+        "CityName": "Neuburg"
+    },
+    "12067508": {
+        "Coordinates": [
+            53.7245663,
+            14.1643535
+        ],
+        "CityName": "Vogelsang"
+    },
+    "12064190": {
+        "Coordinates": [
+            52.5777,
+            14.34
+        ],
+        "CityName": "Gusow-Platkow"
+    },
+    "13075058": {
+        "Coordinates": [
+            54.1166965,
+            13.8291312
+        ],
+        "CityName": "Karlshagen"
+    },
+    "13071054": {
+        "Coordinates": [
+            53.5352842,
+            13.5949467
+        ],
+        "CityName": "Gro\u00df Miltzow"
+    },
+    "13072015": {
+        "Coordinates": [
+            54.1707198,
+            12.3416938
+        ],
+        "CityName": "Blankenhagen"
+    },
+    "13071163": {
+        "Coordinates": [
+            53.6795353,
+            13.0826498
+        ],
+        "CityName": "Wolde"
+    },
+    "13073032": {
+        "Coordinates": [
+            54.0344746,
+            12.877419
+        ],
+        "CityName": "Grammendorf"
+    },
+    "13071161": {
+        "Coordinates": [
+            53.6078896,
+            13.2313311
+        ],
+        "CityName": "Woggersin"
+    },
+    "12064417": {
+        "Coordinates": [
+            52.654066900000004,
+            14.066478234935893
+        ],
+        "CityName": "Reichenow-M\u00f6glin"
+    },
+    "13075029": {
+        "Coordinates": [
+            53.7646667,
+            13.7848469
+        ],
+        "CityName": "Ducherow"
+    },
+    "13071056": {
+        "Coordinates": [
+            53.548226,
+            12.850238404179366
+        ],
+        "CityName": "Gro\u00df Plasten"
+    },
+    "13074003": {
+        "Coordinates": [
+            53.8664831,
+            11.3721403
+        ],
+        "CityName": "Barnekow"
+    },
+    "13075021": {
+        "Coordinates": [
+            53.922636,
+            13.8624391
+        ],
+        "CityName": "Buggenhagen"
+    },
+    "12073520": {
+        "Coordinates": [
+            46.4053676,
+            13.0158357
+        ],
+        "CityName": "Sch\u00f6nfeld"
+    },
+    "13071045": {
+        "Coordinates": [
+            53.4160883,
+            12.5918371
+        ],
+        "CityName": "Gotthun"
+    },
+    "13071117": {
+        "Coordinates": [
+            53.5386215,
+            13.3953547
+        ],
+        "CityName": "Pragsdorf"
+    },
+    "13071157": {
+        "Coordinates": [
+            53.9027682,
+            12.9466674
+        ],
+        "CityName": "Warrenzin"
+    },
+    "12060192": {
+        "Coordinates": [
+            52.721631,
+            13.62807
+        ],
+        "CityName": "R\u00fcdnitz"
+    },
+    "13075152": {
+        "Coordinates": [
+            53.8912086,
+            14.1407975
+        ],
+        "CityName": "Zirchow"
+    },
+    "13073067": {
+        "Coordinates": [
+            54.445906,
+            12.5660206
+        ],
+        "CityName": "Prerow"
+    },
+    "13075109": {
+        "Coordinates": [
+            53.4995592,
+            14.0612732
+        ],
+        "CityName": "Polzow"
+    },
+    "13074019": {
+        "Coordinates": [
+            53.8430441,
+            11.4651679
+        ],
+        "CityName": "Dorf Mecklenburg"
+    },
+    "12064128": {
+        "Coordinates": [
+            52.4290876,
+            14.316869
+        ],
+        "CityName": "Falkenhagen (Mark)"
+    },
+    "13071159": {
+        "Coordinates": [
+            53.2819098,
+            12.9694804
+        ],
+        "CityName": "Wesenberg"
+    },
+    "13073069": {
+        "Coordinates": [
+            54.3773772,
+            12.675384
+        ],
+        "CityName": "Pruchten"
+    },
+    "12067338": {
+        "Coordinates": [
+            52.04910005,
+            14.70908579596449
+        ],
+        "CityName": "Nei\u00dfem\u00fcnde"
+    },
+    "13071050": {
+        "Coordinates": [
+            53.6972814,
+            13.3381707
+        ],
+        "CityName": "Grischow"
+    },
+    "13072103": {
+        "Coordinates": [
+            53.8463445,
+            12.608644961424332
+        ],
+        "CityName": "Sukow-Levitzow"
+    },
+    "13071139": {
+        "Coordinates": [
+            53.7931529,
+            12.8917322
+        ],
+        "CityName": "Sommersdorf"
+    },
+    "12060045": {
+        "Coordinates": [
+            52.9036603,
+            13.8724943
+        ],
+        "CityName": "Chorin"
+    },
+    "13003000": {
+        "Coordinates": [
+            54.0886707,
+            12.1400211
+        ],
+        "CityName": "Rostock"
+    },
+    "12063088": {
+        "Coordinates": [
+            52.7395263,
+            12.5782641
+        ],
+        "CityName": "Friesack"
+    },
+    "13071012": {
+        "Coordinates": [
+            53.4131905,
+            13.1223041
+        ],
+        "CityName": "Blumenholz"
+    },
+    "13075097": {
+        "Coordinates": [
+            54.0657656,
+            13.610385
+        ],
+        "CityName": "Neu Boltenhagen"
+    },
+    "12068417": {
+        "Coordinates": [
+            52.9010705,
+            12.2891937
+        ],
+        "CityName": "St\u00fcdenitz-Sch\u00f6nermark"
+    },
+    "12065193": {
+        "Coordinates": [
+            52.8726482,
+            13.3943575
+        ],
+        "CityName": "Liebenwalde"
+    },
+    "13073072": {
+        "Coordinates": [
+            54.4735989,
+            13.4466663
+        ],
+        "CityName": "Ralswiek"
+    },
+    "12054000": {
+        "Coordinates": [
+            52.4009309,
+            13.0591397
+        ],
+        "CityName": "Potsdam"
+    },
+    "13075089": {
+        "Coordinates": [
+            53.7028752,
+            13.9440022
+        ],
+        "CityName": "Meiersberg"
+    },
+    "13075092": {
+        "Coordinates": [
+            54.0775043,
+            13.8348278
+        ],
+        "CityName": "M\u00f6lschow"
+    },
+    "13075015": {
+        "Coordinates": [
+            53.7221578,
+            13.5945788
+        ],
+        "CityName": "Boldekow"
+    },
+    "13071025": {
+        "Coordinates": [
+            53.3552947,
+            13.2421795
+        ],
+        "CityName": "Carpin"
+    },
+    "13072032": {
+        "Coordinates": [
+            54.2,
+            12.3
+        ],
+        "CityName": "Gelbensande"
+    },
+    "12064084": {
+        "Coordinates": [
+            52.5672167,
+            14.0761529
+        ],
+        "CityName": "Buckow (M\u00e4rkische Schweiz)"
+    },
+    "13074010": {
+        "Coordinates": [
+            53.9864246,
+            11.205923
+        ],
+        "CityName": "Boltenhagen"
+    },
+    "13072008": {
+        "Coordinates": [
+            54.1248485,
+            11.6992361
+        ],
+        "CityName": "Bastorf"
+    },
+    "13073078": {
+        "Coordinates": [
+            54.5262226,
+            13.5561327
+        ],
+        "CityName": "Sagard"
+    },
+    "13074044": {
+        "Coordinates": [
+            53.9452433,
+            11.5288534
+        ],
+        "CityName": "Krusenhagen"
+    },
+    "13071018": {
+        "Coordinates": [
+            53.6205761,
+            12.9866464
+        ],
+        "CityName": "Briggow"
+    },
+    "13075155": {
+        "Coordinates": [
+            53.877010299999995,
+            13.437425283989532
+        ],
+        "CityName": "Neetzow-Liepen"
+    },
+    "12061344": {
+        "Coordinates": [
+            52.1476964,
+            13.8355949
+        ],
+        "CityName": "M\u00fcnchehofe"
+    },
+    "13072121": {
+        "Coordinates": [
+            53.9938297,
+            12.0400292
+        ],
+        "CityName": "Ziesendorf"
+    },
+    "13071130": {
+        "Coordinates": [
+            53.5835531,
+            13.5735705
+        ],
+        "CityName": "Sch\u00f6nbeck"
+    },
+    "13073094": {
+        "Coordinates": [
+            54.2504397,
+            12.6260361
+        ],
+        "CityName": "Trinwillershagen"
+    },
+    "13073095": {
+        "Coordinates": [
+            54.46788315,
+            13.169874381127858
+        ],
+        "CityName": "Ummanz"
+    },
+    "13073044": {
+        "Coordinates": [
+            54.4040082,
+            13.0134809
+        ],
+        "CityName": "Klausdorf"
+    },
+    "13075151": {
+        "Coordinates": [
+            54.0678501,
+            13.8984786
+        ],
+        "CityName": "Zinnowitz"
+    },
+    "12073404": {
+        "Coordinates": [
+            52.2642238,
+            13.5360563
+        ],
+        "CityName": "Mittenwalde"
+    },
+    "12068501": {
+        "Coordinates": [
+            52.8650363,
+            12.337083025441107
+        ],
+        "CityName": "Zernitz-Lohm"
+    },
+    "13074032": {
+        "Coordinates": [
+            53.9165447,
+            11.3066229
+        ],
+        "CityName": "Hohenkirchen"
+    },
+    "13072005": {
+        "Coordinates": [
+            54.044436250000004,
+            11.608491506818183
+        ],
+        "CityName": "Am Salzhaff"
+    },
+    "13073051": {
+        "Coordinates": [
+            54.2946145,
+            12.7201126
+        ],
+        "CityName": "L\u00f6bnitz"
+    },
+    "13072035": {
+        "Coordinates": [
+            53.9703915,
+            12.7054032
+        ],
+        "CityName": "Gnoien"
+    },
+    "13075008": {
+        "Coordinates": [
+            54.0045712,
+            13.3897901
+        ],
+        "CityName": "Behrenhoff"
+    },
+    "13075060": {
+        "Coordinates": [
+            54.0766382,
+            13.5317936
+        ],
+        "CityName": "Kemnitz"
+    },
+    "12064371": {
+        "Coordinates": [
+            52.7944903,
+            14.1722143
+        ],
+        "CityName": "Oderaue"
+    },
+    "13075137": {
+        "Coordinates": [
+            53.9905064,
+            14.082945091597797
+        ],
+        "CityName": "Usedom"
+    },
+    "13074091": {
+        "Coordinates": [
+            53.9235238,
+            11.6721552
+        ],
+        "CityName": "Z\u00fcsow"
+    },
+    "13073101": {
+        "Coordinates": [
+            54.621387,
+            13.2899509
+        ],
+        "CityName": "Wiek"
+    },
+    "13071154": {
+        "Coordinates": [
+            53.6464425,
+            12.4943575
+        ],
+        "CityName": "Vollrathsruhe"
+    },
+    "13075071": {
+        "Coordinates": [
+            53.5249143,
+            14.0845642
+        ],
+        "CityName": "Krugsdorf"
+    },
+    "13073052": {
+        "Coordinates": [
+            54.5829592,
+            13.6109554
+        ],
+        "CityName": "Lohme"
+    },
+    "13075127": {
+        "Coordinates": [
+            53.7833308,
+            13.5255823
+        ],
+        "CityName": "Spantekow"
+    },
+    "13071064": {
+        "Coordinates": [
+            53.7888179,
+            13.0198173
+        ],
+        "CityName": "Hohenbollentin"
+    },
+    "13073076": {
+        "Coordinates": [
+            54.2007307,
+            12.8857023
+        ],
+        "CityName": "Richtenberg"
+    },
+    "12067180": {
+        "Coordinates": [
+            52.2363553,
+            14.5329245
+        ],
+        "CityName": "Gro\u00df Lindow"
+    },
+    "13075107": {
+        "Coordinates": [
+            53.2977629,
+            14.2413131
+        ],
+        "CityName": "Penkun"
+    },
+    "12063112": {
+        "Coordinates": [
+            52.7897614,
+            12.3665016
+        ],
+        "CityName": "Gro\u00dfderschau"
+    },
+    "13071111": {
+        "Coordinates": [
+            53.6188209,
+            13.3357842
+        ],
+        "CityName": "Neverin"
+    },
+    "13072083": {
+        "Coordinates": [
+            54.08843,
+            11.8481686
+        ],
+        "CityName": "Reddelich"
+    },
+    "12064130": {
+        "Coordinates": [
+            52.46001365,
+            14.419488603366577
+        ],
+        "CityName": "Fichtenh\u00f6he"
+    },
+    "13071076": {
+        "Coordinates": [
+            53.9243172,
+            13.1554275
+        ],
+        "CityName": "Kletzin"
+    },
+    "13073016": {
+        "Coordinates": [
+            54.0439209,
+            12.8227586
+        ],
+        "CityName": "Deyelsdorf"
+    },
+    "13075080": {
+        "Coordinates": [
+            54.0230235,
+            14.0068261
+        ],
+        "CityName": "Loddin"
+    },
+    "13071079": {
+        "Coordinates": [
+            53.6313915,
+            13.0660141
+        ],
+        "CityName": "Knorrendorf"
+    },
+    "12070302": {
+        "Coordinates": [
+            52.9579836,
+            12.0302625
+        ],
+        "CityName": "Plattenburg"
+    },
+    "13075090": {
+        "Coordinates": [
+            53.922363,
+            14.0125308
+        ],
+        "CityName": "Mellenthin"
+    },
+    "13071028": {
+        "Coordinates": [
+            53.64457125,
+            13.463274519347587
+        ],
+        "CityName": "Datzetal"
+    },
+    "12060036": {
+        "Coordinates": [
+            52.4483324,
+            13.4423401
+        ],
+        "CityName": "Britz"
+    },
+    "13072023": {
+        "Coordinates": [
+            53.6616058,
+            12.5814819
+        ],
+        "CityName": "Dahmen"
+    },
+    "12064484": {
+        "Coordinates": [
+            52.5417743,
+            14.0685587
+        ],
+        "CityName": "Waldsieversdorf"
+    },
+    "13073050": {
+        "Coordinates": [
+            54.057047499999996,
+            12.693416453548089
+        ],
+        "CityName": "Lindholz"
+    },
+    "13075001": {
+        "Coordinates": [
+            53.6704395,
+            14.1862434
+        ],
+        "CityName": "Ahlbeck"
+    },
+    "13071084": {
+        "Coordinates": [
+            53.7683188,
+            12.8351626
+        ],
+        "CityName": "Kummerow"
+    },
+    "13072003": {
+        "Coordinates": [
+            53.8026278,
+            12.6518405
+        ],
+        "CityName": "Alt S\u00fchrkow"
+    },
+    "12060250": {
+        "Coordinates": [
+            52.732030050000006,
+            13.7090247024624
+        ],
+        "CityName": "Sydower Flie\u00df"
+    },
+    "12073032": {
+        "Coordinates": [
+            53.0523795,
+            14.2248201
+        ],
+        "CityName": "Berkholz-Meyenburg"
+    },
+    "13072097": {
+        "Coordinates": [
+            53.9934062,
+            12.4962456
+        ],
+        "CityName": "Selpin"
+    },
+    "13075040": {
+        "Coordinates": [
+            53.943225,
+            13.481916931124196
+        ],
+        "CityName": "Gribow"
+    },
+    "12070280": {
+        "Coordinates": [
+            53.3140131,
+            12.2426273
+        ],
+        "CityName": "Meyenburg"
+    },
+    "13073007": {
+        "Coordinates": [
+            54.1119649,
+            12.6581128
+        ],
+        "CityName": "Bad S\u00fclze"
+    },
+    "13074085": {
+        "Coordinates": [
+            53.7852296,
+            11.8820169
+        ],
+        "CityName": "Warnow"
+    },
+    "13075145": {
+        "Coordinates": [
+            54.016375,
+            13.5944793
+        ],
+        "CityName": "Wrangelsburg"
+    },
+    "13071127": {
+        "Coordinates": [
+            53.6286829,
+            13.0382434
+        ],
+        "CityName": "Rosenow"
+    },
+    "13074007": {
+        "Coordinates": [
+            53.9890827,
+            11.5350974
+        ],
+        "CityName": "Blowatz"
+    },
+    "13075072": {
+        "Coordinates": [
+            54.0480193,
+            13.8474682
+        ],
+        "CityName": "Krummin"
+    },
+    "13075101": {
+        "Coordinates": [
+            54.23649,
+            8.9877874
+        ],
+        "CityName": "Neuenkirchen"
+    },
+    "13074053": {
+        "Coordinates": [
+            53.8529294,
+            11.4348295
+        ],
+        "CityName": "Metelsdorf"
+    },
+    "13071114": {
+        "Coordinates": [
+            53.4610632,
+            12.4829521
+        ],
+        "CityName": "Penkow"
+    },
+    "13073038": {
+        "Coordinates": [
+            54.3026813,
+            13.2121596
+        ],
+        "CityName": "Gustow"
+    },
+    "12061448": {
+        "Coordinates": [
+            53.6288297,
+            11.4148038
+        ],
+        "CityName": "Schwerin"
+    },
+    "13075044": {
+        "Coordinates": [
+            53.9378689,
+            13.4100305
+        ],
+        "CityName": "G\u00fctzkow"
+    },
+    "12068306": {
+        "Coordinates": [
+            52.93329305,
+            12.718244941196524
+        ],
+        "CityName": "M\u00e4rkisch Linden"
+    },
+    "12073396": {
+        "Coordinates": [
+            53.1099895,
+            13.6397852
+        ],
+        "CityName": "Milmersdorf"
+    },
+    "12069224": {
+        "Coordinates": [
+            52.1719963,
+            12.3720603
+        ],
+        "CityName": "G\u00f6rzke"
+    },
+    "13073037": {
+        "Coordinates": [
+            54.3883938,
+            12.9504953
+        ],
+        "CityName": "Gro\u00df Mohrdorf"
+    },
+    "13071138": {
+        "Coordinates": [
+            53.5202915,
+            12.4410713
+        ],
+        "CityName": "Silz"
+    },
+    "12060012": {
+        "Coordinates": [
+            52.9620208,
+            13.8069312
+        ],
+        "CityName": "Alth\u00fcttendorf"
+    },
+    "12073309": {
+        "Coordinates": [
+            53.19054295,
+            14.287268750850286
+        ],
+        "CityName": "Hohenselchow-Gro\u00df Pinnow"
+    },
+    "13075120": {
+        "Coordinates": [
+            54.0994542,
+            13.6987412
+        ],
+        "CityName": "Rubenow"
+    },
+    "13071009": {
+        "Coordinates": [
+            53.7017777,
+            13.4575365
+        ],
+        "CityName": "Beseritz"
+    },
+    "12072157": {
+        "Coordinates": [
+            53.40789105,
+            7.399296559482491
+        ],
+        "CityName": "Ihlow"
+    },
+    "12067205": {
+        "Coordinates": [
+            52.114877199999995,
+            14.452304586397986
+        ],
+        "CityName": "Grunow-Dammendorf"
+    },
+    "13072040": {
+        "Coordinates": [
+            53.7505163,
+            12.4929352
+        ],
+        "CityName": "Gro\u00df Wokern"
+    },
+    "13071118": {
+        "Coordinates": [
+            53.3034836,
+            12.6608898
+        ],
+        "CityName": "Priborn"
+    },
+    "13072010": {
+        "Coordinates": [
+            54.0291146,
+            12.6646378
+        ],
+        "CityName": "Behren-L\u00fcbchin"
+    },
+    "13072111": {
+        "Coordinates": [
+            53.9454748,
+            12.550668114821786
+        ],
+        "CityName": "Walkendorf"
+    },
+    "13071080": {
+        "Coordinates": [
+            53.4302665,
+            12.9473449
+        ],
+        "CityName": "Kratzeburg"
+    },
+    "13071034": {
+        "Coordinates": [
+            53.3554035,
+            12.4409217
+        ],
+        "CityName": "Fincken"
+    },
+    "12070300": {
+        "Coordinates": [
+            53.2180941,
+            11.8995923
+        ],
+        "CityName": "Pirow"
+    },
+    "13071026": {
+        "Coordinates": [
+            53.51816,
+            13.4357663
+        ],
+        "CityName": "C\u00f6lpin"
+    },
+    "13071087": {
+        "Coordinates": [
+            53.2918111,
+            12.7454315
+        ],
+        "CityName": "L\u00e4rz"
+    },
+    "12063240": {
+        "Coordinates": [
+            52.642457,
+            12.6636913
+        ],
+        "CityName": "Pessin"
+    },
+    "13071022": {
+        "Coordinates": [
+            53.773249,
+            13.2686374
+        ],
+        "CityName": "Burow"
+    },
+    "12061328": {
+        "Coordinates": [
+            52.110158,
+            13.7628126
+        ],
+        "CityName": "M\u00e4rkisch Buchholz"
+    },
+    "13071160": {
+        "Coordinates": [
+            53.6530029,
+            13.1232854
+        ],
+        "CityName": "Wildberg"
+    },
+    "13073093": {
+        "Coordinates": [
+            54.0946272,
+            12.7584066
+        ],
+        "CityName": "Tribsees"
+    },
+    "12060092": {
+        "Coordinates": [
+            52.8115296,
+            13.9240229
+        ],
+        "CityName": "Hohenfinow"
+    },
+    "8116068": {
+        "Coordinates": [
+            48.6566983,
+            9.3554739
+        ],
+        "CityName": "Unterensingen"
+    },
+    "13071119": {
+        "Coordinates": [
+            53.2167,
+            13.0333
+        ],
+        "CityName": "Priepert"
+    },
+    "12063212": {
+        "Coordinates": [
+            52.6038537,
+            12.5072123
+        ],
+        "CityName": "Nennhausen"
+    },
+    "13075003": {
+        "Coordinates": [
+            53.7430093,
+            14.2630267
+        ],
+        "CityName": "Altwarp"
+    },
+    "12063256": {
+        "Coordinates": [
+            52.6250923,
+            12.6827945
+        ],
+        "CityName": "Retzow"
+    },
+    "12064222": {
+        "Coordinates": [
+            52.711850150000004,
+            13.930292571211595
+        ],
+        "CityName": "H\u00f6henland"
+    },
+    "13071109": {
+        "Coordinates": [
+            53.8228766,
+            12.7918145
+        ],
+        "CityName": "Neukalen"
+    },
+    "12064061": {
+        "Coordinates": [
+            52.6932095,
+            14.1588719
+        ],
+        "CityName": "Bliesdorf"
+    },
+    "5382072": {
+        "Coordinates": [
+            50.6435631,
+            7.0882889
+        ],
+        "CityName": "Wachtberg"
+    },
+    "12069232": {
+        "Coordinates": [
+            52.2332087,
+            12.4273121
+        ],
+        "CityName": "Gr\u00e4ben"
+    },
+    "13074023": {
+        "Coordinates": [
+            53.9122914,
+            11.7386982
+        ],
+        "CityName": "Glasin"
+    },
+    "12068409": {
+        "Coordinates": [
+            52.8209998,
+            12.3954402
+        ],
+        "CityName": "Sieversdorf-Hohenofen"
+    },
+    "12066316": {
+        "Coordinates": [
+            50.4695139,
+            11.2588086
+        ],
+        "CityName": "Tettau"
+    },
+    "13071113": {
+        "Coordinates": [
+            53.5324174,
+            12.4242076
+        ],
+        "CityName": "Nossentiner H\u00fctte"
+    },
+    "12064538": {
+        "Coordinates": [
+            52.6220426,
+            14.460917155238102
+        ],
+        "CityName": "Zechin"
+    },
+    "12060020": {
+        "Coordinates": [
+            52.6753854,
+            13.5919415
+        ],
+        "CityName": "Bernau bei Berlin"
+    },
+    "12065276": {
+        "Coordinates": [
+            53.0067992,
+            13.1227562
+        ],
+        "CityName": "Sch\u00f6nermark"
+    },
+    "13073085": {
+        "Coordinates": [
+            54.1813339,
+            12.6558755
+        ],
+        "CityName": "Semlow"
+    },
+    "12067528": {
+        "Coordinates": [
+            52.2309612,
+            14.5910238
+        ],
+        "CityName": "Wiesenau"
+    },
+    "12064053": {
+        "Coordinates": [
+            52.695412950000005,
+            13.809217555873282
+        ],
+        "CityName": "Beiersdorf-Freudenberg"
+    },
+    "13071140": {
+        "Coordinates": [
+            53.5523168,
+            13.3661725
+        ],
+        "CityName": "Sponholz"
+    },
+    "12060068": {
+        "Coordinates": [
+            53.0268996,
+            13.706869479855229
+        ],
+        "CityName": "Friedrichswalde"
+    },
+    "13075032": {
+        "Coordinates": [
+            53.4400479,
+            14.0634629
+        ],
+        "CityName": "Fahrenwalde"
+    },
+    "12073157": {
+        "Coordinates": [
+            53.1391927,
+            13.8293543
+        ],
+        "CityName": "Flieth-Stegelitz"
+    },
+    "12061450": {
+        "Coordinates": [
+            51.995567300000005,
+            14.16707500144054
+        ],
+        "CityName": "Schwielochsee"
+    },
+    "13073057": {
+        "Coordinates": [
+            54.2035704,
+            12.8213518
+        ],
+        "CityName": "Millienhagen-Oebelitz"
+    },
+    "12073225": {
+        "Coordinates": [
+            53.1996922,
+            13.9607915
+        ],
+        "CityName": "Gramzow"
+    },
+    "13073012": {
+        "Coordinates": [
+            54.3875596,
+            12.5322667
+        ],
+        "CityName": "Born a. Dar\u00df"
+    },
+    "12069216": {
+        "Coordinates": [
+            52.5743158,
+            14.492855
+        ],
+        "CityName": "Golzow"
+    },
+    "13073081": {
+        "Coordinates": [
+            54.5137699,
+            13.1667837
+        ],
+        "CityName": "Schaprode"
+    },
+    "12064303": {
+        "Coordinates": [
+            52.6151088,
+            14.133375272129943
+        ],
+        "CityName": "M\u00e4rkische H\u00f6he"
+    },
+    "13071128": {
+        "Coordinates": [
+            53.7948096,
+            13.1052602
+        ],
+        "CityName": "Sarow"
+    },
+    "13075111": {
+        "Coordinates": [
+            53.9687948,
+            14.0658848
+        ],
+        "CityName": "Pudagla"
+    },
+    "13072063": {
+        "Coordinates": [
+            53.7562735,
+            12.3892512
+        ],
+        "CityName": "Lalendorf"
+    },
+    "12073505": {
+        "Coordinates": [
+            52.482157,
+            13.3551901
+        ],
+        "CityName": "Sch\u00f6neberg"
+    },
+    "13071125": {
+        "Coordinates": [
+            53.707767,
+            13.1010641
+        ],
+        "CityName": "R\u00f6ckwitz"
+    },
+    "13075065": {
+        "Coordinates": [
+            53.9185046,
+            14.1625509
+        ],
+        "CityName": "Korswandt"
+    },
+    "12065310": {
+        "Coordinates": [
+            53.0824967,
+            13.0549455
+        ],
+        "CityName": "Stechlin"
+    },
+    "13075048": {
+        "Coordinates": [
+            53.6122691,
+            13.7789588
+        ],
+        "CityName": "Heinrichswalde"
+    },
+    "13073102": {
+        "Coordinates": [
+            54.1831998,
+            13.0703875
+        ],
+        "CityName": "Wittenhagen"
+    },
+    "12063142": {
+        "Coordinates": [
+            52.719073300000005,
+            12.66536290413825
+        ],
+        "CityName": "Wiesenaue"
+    },
+    "13075020": {
+        "Coordinates": [
+            53.7888022,
+            13.8318238
+        ],
+        "CityName": "Bugewitz"
+    },
+    "13074005": {
+        "Coordinates": [
+            53.8282461,
+            11.1150471
+        ],
+        "CityName": "Bernstorf"
+    },
+    "12064393": {
+        "Coordinates": [
+            52.6371848,
+            13.9885623
+        ],
+        "CityName": "Pr\u00f6tzel"
+    },
+    "13075095": {
+        "Coordinates": [
+            53.3321104,
+            14.3497828
+        ],
+        "CityName": "Nadrensee"
+    },
+    "13071048": {
+        "Coordinates": [
+            53.7584053,
+            12.9015208
+        ],
+        "CityName": "Grammentin"
+    },
+    "13072041": {
+        "Coordinates": [
+            53.8742455,
+            12.5536166
+        ],
+        "CityName": "Gro\u00df W\u00fcstenfelde"
+    },
+    "12068052": {
+        "Coordinates": [
+            52.8870686,
+            12.2245542
+        ],
+        "CityName": "Breddin"
+    },
+    "13071104": {
+        "Coordinates": [
+            53.6494026,
+            13.2786352
+        ],
+        "CityName": "Neddemin"
+    },
+    "13071123": {
+        "Coordinates": [
+            53.660948,
+            12.9648588
+        ],
+        "CityName": "Ritzerow"
+    },
+    "13073034": {
+        "Coordinates": [
+            54.1103696,
+            12.8708476
+        ],
+        "CityName": "Gremersdorf-Buchholz"
+    },
+    "13071110": {
+        "Coordinates": [
+            53.3617163,
+            13.0630004
+        ],
+        "CityName": "Neustrelitz"
+    },
+    "12064153": {
+        "Coordinates": [
+            52.546825,
+            13.978813
+        ],
+        "CityName": "Garzau-Garzin"
+    },
+    "13073065": {
+        "Coordinates": [
+            54.2996648,
+            13.2744129
+        ],
+        "CityName": "Poseritz"
+    },
+    "12068437": {
+        "Coordinates": [
+            52.94156,
+            13.02293
+        ],
+        "CityName": "Vielitzsee"
+    },
+    "13071088": {
+        "Coordinates": [
+            53.3656956,
+            12.4762859
+        ],
+        "CityName": "Leizen"
+    },
+    "13073013": {
+        "Coordinates": [
+            54.6132529,
+            13.3548357
+        ],
+        "CityName": "Breege"
+    },
+    "12064009": {
+        "Coordinates": [
+            52.5371927,
+            14.5117987
+        ],
+        "CityName": "Alt Tucheband"
+    },
+    "12063202": {
+        "Coordinates": [
+            52.66436375,
+            12.610957211227978
+        ],
+        "CityName": "M\u00fchlenberge"
+    },
+    "13072071": {
+        "Coordinates": [
+            53.8832584,
+            12.1421375
+        ],
+        "CityName": "Mistorf"
+    },
+    "12061329": {
+        "Coordinates": [
+            52.04742425,
+            14.027702474410248
+        ],
+        "CityName": "M\u00e4rkische Heide"
+    },
+    "13071071": {
+        "Coordinates": [
+            53.5104936,
+            12.7794072
+        ],
+        "CityName": "Kargow"
+    },
+    "13071008": {
+        "Coordinates": [
+            53.8258947,
+            13.0533071
+        ],
+        "CityName": "Beggerow"
+    },
+    "12073565": {
+        "Coordinates": [
+            53.27273275,
+            14.34981040553765
+        ],
+        "CityName": "Tantow"
+    },
+    "12069648": {
+        "Coordinates": [
+            52.3003,
+            12.4465043
+        ],
+        "CityName": "Wenzlow"
+    },
+    "13073029": {
+        "Coordinates": [
+            54.0207064,
+            12.9258534
+        ],
+        "CityName": "Glewitz"
+    },
+    "13075124": {
+        "Coordinates": [
+            54.0353128,
+            13.785178
+        ],
+        "CityName": "Sauzin"
+    },
+    "13073009": {
+        "Coordinates": [
+            54.3690547,
+            12.7258585
+        ],
+        "CityName": "Barth"
+    },
+    "13071093": {
+        "Coordinates": [
+            53.4775641,
+            12.4245172
+        ],
+        "CityName": "Malchow"
+    },
+    "13071141": {
+        "Coordinates": [
+            53.6274649,
+            13.4026285
+        ],
+        "CityName": "Staven"
+    },
+    "13073019": {
+        "Coordinates": [
+            54.6306404,
+            13.2296614
+        ],
+        "CityName": "Dranske"
+    },
+    "13071013": {
+        "Coordinates": [
+            53.3560542,
+            12.5799858
+        ],
+        "CityName": "Bollewick"
+    },
+    "13075108": {
+        "Coordinates": [
+            53.4640986,
+            14.2647704
+        ],
+        "CityName": "Pl\u00f6wen"
+    },
+    "13075125": {
+        "Coordinates": [
+            53.9243062,
+            13.5524835
+        ],
+        "CityName": "Schmatzin"
+    },
+    "12073093": {
+        "Coordinates": [
+            53.367353300000005,
+            14.061916489568198
+        ],
+        "CityName": "Carmzow-Wallmow"
+    },
+    "13073062": {
+        "Coordinates": [
+            54.1465766,
+            12.9834396
+        ],
+        "CityName": "Papenhagen"
+    },
+    "13071058": {
+        "Coordinates": [
+            53.3443337,
+            13.3123778
+        ],
+        "CityName": "Gr\u00fcnow"
+    },
+    "13073028": {
+        "Coordinates": [
+            54.4566445,
+            13.2591116
+        ],
+        "CityName": "Gingst"
+    },
+    "13072109": {
+        "Coordinates": [
+            53.8267587,
+            12.5623357
+        ],
+        "CityName": "Th\u00fcrkow"
+    },
+    "12064057": {
+        "Coordinates": [
+            52.6130522,
+            14.5442925
+        ],
+        "CityName": "Bleyen-Genschmar"
+    },
+    "13071041": {
+        "Coordinates": [
+            53.7869982,
+            13.191868167468234
+        ],
+        "CityName": "Gnevkow"
+    },
+    "13073096": {
+        "Coordinates": [
+            54.2729973,
+            12.8078742
+        ],
+        "CityName": "Velgast"
+    },
+    "13075022": {
+        "Coordinates": [
+            53.8374497,
+            13.6451173
+        ],
+        "CityName": "Butzow"
+    },
+    "13073006": {
+        "Coordinates": [
+            54.3602126,
+            13.7043671
+        ],
+        "CityName": "Baabe"
+    },
+    "13074046": {
+        "Coordinates": [
+            53.8581858,
+            11.7308622
+        ],
+        "CityName": "L\u00fcbberstorf"
+    },
+    "13073097": {
+        "Coordinates": [
+            54.04596015,
+            13.443104420379935
+        ],
+        "CityName": "Weitenhagen"
+    },
+    "12073430": {
+        "Coordinates": [
+            53.2322212,
+            13.8646183
+        ],
+        "CityName": "Oberuckersee"
+    },
+    "13073004": {
+        "Coordinates": [
+            50.6880109,
+            7.6477412
+        ],
+        "CityName": "Altenkirchen"
+    },
+    "13071146": {
+        "Coordinates": [
+            53.7244625,
+            13.1412226
+        ],
+        "CityName": "T\u00fctzpatz"
+    },
+    "12068413": {
+        "Coordinates": [
+            52.9676509,
+            12.7655685
+        ],
+        "CityName": "Storbeck-Frankendorf"
+    },
+    "13071148": {
+        "Coordinates": [
+            53.8582984,
+            13.1146961
+        ],
+        "CityName": "Utzedel"
+    },
+    "13075039": {
+        "Coordinates": [
+            54.095791,
+            13.3815238
+        ],
+        "CityName": "Greifswald"
+    },
+    "12073603": {
+        "Coordinates": [
+            53.5063088,
+            12.053437
+        ],
+        "CityName": "Passow"
+    },
+    "13075016": {
+        "Coordinates": [
+            53.4933317,
+            14.2472422
+        ],
+        "CityName": "Boock"
+    },
+    "12069474": {
+        "Coordinates": [
+            52.1149883,
+            12.662783286985889
+        ],
+        "CityName": "Planetal"
+    },
+    "12063161": {
+        "Coordinates": [
+            52.7167,
+            12.5
+        ],
+        "CityName": "Kle\u00dfen-G\u00f6rne"
+    },
+    "13071032": {
+        "Coordinates": [
+            53.6376066,
+            12.7844285
+        ],
+        "CityName": "Faulenrost"
+    },
+    "12073490": {
+        "Coordinates": [
+            53.3639263,
+            13.9492666
+        ],
+        "CityName": "Schenkenberg"
+    },
+    "1060077": {
+        "Coordinates": [
+            53.8455828,
+            10.1129249
+        ],
+        "CityName": "Sieversh\u00fctten"
+    },
+    "13075148": {
+        "Coordinates": [
+            54.0674062,
+            13.9537785
+        ],
+        "CityName": "Zempin"
+    },
+    "13071150": {
+        "Coordinates": [
+            53.8489624,
+            12.9071378
+        ],
+        "CityName": "Verchen"
+    },
+    "13072066": {
+        "Coordinates": [
+            53.8432343,
+            12.7336806
+        ],
+        "CityName": "Lelkendorf"
+    },
+    "13074067": {
+        "Coordinates": [
+            53.8202096,
+            10.9825271
+        ],
+        "CityName": "Roduchelstorf"
+    },
+    "13071100": {
+        "Coordinates": [
+            53.2857225,
+            11.7378645
+        ],
+        "CityName": "M\u00f6llenbeck"
+    },
+    "12067397": {
+        "Coordinates": [
+            52.2204814,
+            14.321079023879316
+        ],
+        "CityName": "Ragow-Merz"
+    },
+    "13075088": {
+        "Coordinates": [
+            53.8398831,
+            13.5307507
+        ],
+        "CityName": "Medow"
+    },
+    "13072045": {
+        "Coordinates": [
+            53.719704,
+            12.5482238
+        ],
+        "CityName": "Hohen Demzin"
+    },
+    "13072002": {
+        "Coordinates": [
+            53.9978174,
+            11.6087258
+        ],
+        "CityName": "Alt Bukow"
+    },
+    "13072118": {
+        "Coordinates": [
+            54.0571567,
+            12.4935655
+        ],
+        "CityName": "Zarnewanz"
+    },
+    "13073100": {
+        "Coordinates": [
+            54.4100179,
+            12.5827902
+        ],
+        "CityName": "Wieck a. Dar\u00df"
+    },
+    "13075070": {
+        "Coordinates": [
+            53.9010832,
+            13.2370958
+        ],
+        "CityName": "Kruckow"
+    },
+    "13075013": {
+        "Coordinates": [
+            53.8261942,
+            13.6165675
+        ],
+        "CityName": "Blesewitz"
+    },
+    "13075043": {
+        "Coordinates": [
+            53.8963476,
+            13.5948964
+        ],
+        "CityName": "Gro\u00df Polzin"
+    },
+    "13072076": {
+        "Coordinates": [
+            54.0154294,
+            12.598184
+        ],
+        "CityName": "Nustrow"
+    },
+    "13074087": {
+        "Coordinates": [
+            53.8909832,
+            11.4647932
+        ],
+        "CityName": "Wismar"
+    },
+    "13075067": {
+        "Coordinates": [
+            53.3429873,
+            14.2641713
+        ],
+        "CityName": "Krackow"
+    },
+    "13075128": {
+        "Coordinates": [
+            53.8722241,
+            13.5624936
+        ],
+        "CityName": "Stolpe an der Peene"
+    },
+    "12063165": {
+        "Coordinates": [
+            52.6384672,
+            12.5178351
+        ],
+        "CityName": "Kotzen"
+    },
+    "13073023": {
+        "Coordinates": [
+            53.5462437,
+            10.5344352
+        ],
+        "CityName": "Elmenhorst"
+    },
+    "13075134": {
+        "Coordinates": [
+            53.9170765,
+            13.2424282
+        ],
+        "CityName": "Tutow"
+    },
+    "13071074": {
+        "Coordinates": [
+            53.6239568,
+            12.9017689
+        ],
+        "CityName": "Kittendorf"
+    },
+    "13075002": {
+        "Coordinates": [
+            53.844379,
+            13.2429346
+        ],
+        "CityName": "Alt Tellin"
+    },
+    "8337049": {
+        "Coordinates": [
+            47.6665531,
+            8.0006455
+        ],
+        "CityName": "Herrischried"
+    },
+    "13071135": {
+        "Coordinates": [
+            53.7327758,
+            13.3804198
+        ],
+        "CityName": "Siedenbollentin"
+    },
+    "12060296": {
+        "Coordinates": [
+            53.6943936,
+            10.8104899
+        ],
+        "CityName": "Ziethen"
+    },
+    "12069089": {
+        "Coordinates": [
+            52.2298896,
+            12.3290449
+        ],
+        "CityName": "Buckautal"
+    },
+    "13071042": {
+        "Coordinates": [
+            53.2578656,
+            13.1537709
+        ],
+        "CityName": "Godendorf"
+    },
+    "13076114": {
+        "Coordinates": [
+            53.4600943,
+            12.2631689
+        ],
+        "CityName": "Plau am See"
+    },
+    "12064480": {
+        "Coordinates": [
+            52.3967296,
+            14.3957599
+        ],
+        "CityName": "Treplin"
+    },
+    "13075150": {
+        "Coordinates": [
+            53.6943936,
+            10.8104899
+        ],
+        "CityName": "Ziethen"
+    },
+    "13075098": {
+        "Coordinates": [
+            53.7935098,
+            13.7501891
+        ],
+        "CityName": "Neu Kosenow"
+    },
+    "13072031": {
+        "Coordinates": [
+            53.9392954,
+            12.7796175
+        ],
+        "CityName": "Finkenthal"
+    },
+    "12070266": {
+        "Coordinates": [
+            53.3196466,
+            12.13738469523308
+        ],
+        "CityName": "Marienflie\u00df"
+    },
+    "5170008": {
+        "Coordinates": [
+            51.5623618,
+            6.7345106
+        ],
+        "CityName": "Dinslaken"
+    },
+    "13072095": {
+        "Coordinates": [
+            53.9400696,
+            12.1071145
+        ],
+        "CityName": "Schwaan"
+    },
+    "12073386": {
+        "Coordinates": [
+            53.096639,
+            14.0921973
+        ],
+        "CityName": "Mark Landin"
+    },
+    "12061316": {
+        "Coordinates": [
+            51.9418987,
+            13.8963805
+        ],
+        "CityName": "L\u00fcbben (Spreewald)"
+    },
+    "13071060": {
+        "Coordinates": [
+            53.4418789,
+            10.4904128
+        ],
+        "CityName": "G\u00fclzow"
+    },
+    "12060185": {
+        "Coordinates": [
+            52.9352984,
+            14.047548
+        ],
+        "CityName": "Parsteinsee"
+    },
+    "13072037": {
+        "Coordinates": [
+            54.0466401,
+            12.6303268
+        ],
+        "CityName": "Grammow"
+    },
+    "13075118": {
+        "Coordinates": [
+            53.5947261,
+            13.8219184
+        ],
+        "CityName": "Rothem\u00fchl"
+    },
+    "13071006": {
+        "Coordinates": [
+            34.2394683,
+            -84.8406984
+        ],
+        "CityName": "Bartow"
+    },
+    "13071158": {
+        "Coordinates": [
+            53.4997082,
+            12.0094433
+        ],
+        "CityName": "Werder"
+    },
+    "13071063": {
+        "Coordinates": [
+            53.613126,
+            12.4265897
+        ],
+        "CityName": "Hohen Wangelin"
+    },
+    "12072055": {
+        "Coordinates": [
+            51.8992808,
+            13.49757411796331
+        ],
+        "CityName": "Dahmetal"
+    },
+    "12070096": {
+        "Coordinates": [
+            53.2445323,
+            12.1985369
+        ],
+        "CityName": "Gerdshagen"
+    },
+    "12070222": {
+        "Coordinates": [
+            53.2397159,
+            12.161814412375286
+        ],
+        "CityName": "K\u00fcmmernitztal"
+    },
+    "8225014": {
+        "Coordinates": [
+            49.5222974,
+            9.3243187
+        ],
+        "CityName": "Buchen (Odenwald)"
+    },
+    "13071156": {
+        "Coordinates": [
+            53.5156249,
+            12.6850606
+        ],
+        "CityName": "Waren (M\u00fcritz)"
+    },
+    "13073041": {
+        "Coordinates": [
+            54.2333037,
+            12.9333
+        ],
+        "CityName": "Jakobsdorf"
+    },
+    "13072107": {
+        "Coordinates": [
+            54.037322,
+            12.5594373
+        ],
+        "CityName": "Thelkow"
+    },
+    "13071083": {
+        "Coordinates": [
+            53.554961,
+            13.5040719
+        ],
+        "CityName": "Kublank"
+    },
+    "12072232": {
+        "Coordinates": [
+            52.0902045,
+            13.1741882
+        ],
+        "CityName": "Luckenwalde"
+    },
+    "13071003": {
+        "Coordinates": [
+            54.4337876,
+            9.8718523
+        ],
+        "CityName": "Altenhof"
+    },
+    "13073014": {
+        "Coordinates": [
+            54.438487550000005,
+            13.45556506332084
+        ],
+        "CityName": "Buschvitz"
+    },
+    "12061435": {
+        "Coordinates": [
+            49.9113999,
+            16.7107615
+        ],
+        "CityName": "Sch\u00f6nwald"
+    },
+    "13071073": {
+        "Coordinates": [
+            53.2747285,
+            12.5951417
+        ],
+        "CityName": "Kieve"
+    },
+    "13071081": {
+        "Coordinates": [
+            53.7330674,
+            13.0497575
+        ],
+        "CityName": "Kriesow"
+    },
+    "13075037": {
+        "Coordinates": [
+            53.7568511,
+            14.0143742
+        ],
+        "CityName": "Grambin"
+    },
+    "13075117": {
+        "Coordinates": [
+            53.4733376,
+            14.1276324
+        ],
+        "CityName": "Rossow"
+    },
+    "13075007": {
+        "Coordinates": [
+            53.8328659,
+            13.755449
+        ],
+        "CityName": "Bargischow"
+    },
+    "13075085": {
+        "Coordinates": [
+            53.7065052,
+            14.1602275
+        ],
+        "CityName": "Luckow"
+    },
+    "13074030": {
+        "Coordinates": [
+            53.8167,
+            11.45
+        ],
+        "CityName": "Gro\u00df Stieten"
+    },
+    "13072096": {
+        "Coordinates": [
+            53.893753,
+            12.6286931
+        ],
+        "CityName": "Schwasdorf"
+    },
+    "13071131": {
+        "Coordinates": [
+            46.4053676,
+            13.0158357
+        ],
+        "CityName": "Sch\u00f6nfeld"
+    },
+    "13071072": {
+        "Coordinates": [
+            53.753572,
+            12.972276341326479
+        ],
+        "CityName": "Kentzlin"
+    },
+    "13071143": {
+        "Coordinates": [
+            53.3802208,
+            12.3397206
+        ],
+        "CityName": "Stuer"
+    },
+    "13073018": {
+        "Coordinates": [
+            54.314368,
+            12.686365713919496
+        ],
+        "CityName": "Divitz-Spoldershagen"
+    },
+    "13071020": {
+        "Coordinates": [
+            53.9882387,
+            9.2264708
+        ],
+        "CityName": "Buchholz"
+    },
+    "12067120": {
+        "Coordinates": [
+            52.1448863,
+            14.6294413
+        ],
+        "CityName": "Eisenh\u00fcttenstadt"
+    },
+    "13071171": {
+        "Coordinates": [
+            53.4313899,
+            12.3157987
+        ],
+        "CityName": "Zislow"
+    },
+    "5774032": {
+        "Coordinates": [
+            51.71895955,
+            8.764869778177559
+        ],
+        "CityName": "Paderborn"
+    },
+    "6534011": {
+        "Coordinates": [
+            50.826987700000004,
+            8.927593310210382
+        ],
+        "CityName": "Kirchhain"
+    },
+    "13071089": {
+        "Coordinates": [
+            53.7651998,
+            13.0225848
+        ],
+        "CityName": "Lindenberg"
+    },
+    "13074060": {
+        "Coordinates": [
+            53.9538996,
+            11.7714654
+        ],
+        "CityName": "Passee"
+    },
+    "13073020": {
+        "Coordinates": [
+            54.1415538,
+            12.800377
+        ],
+        "CityName": "Drechow"
+    },
+    "13075061": {
+        "Coordinates": [
+            53.929855,
+            13.6333304
+        ],
+        "CityName": "Klein B\u00fcnzow"
+    },
+    "13071132": {
+        "Coordinates": [
+            53.5536007,
+            13.7006752
+        ],
+        "CityName": "Sch\u00f6nhausen"
+    },
+    "13075129": {
+        "Coordinates": [
+            53.8678462,
+            13.9888732
+        ],
+        "CityName": "Stolpe auf Usedom"
+    },
+    "13075073": {
+        "Coordinates": [
+            53.8460004,
+            13.399301
+        ],
+        "CityName": "Krusenfelde"
+    },
+    "15091145": {
+        "Coordinates": [
+            51.7931158,
+            12.9590741
+        ],
+        "CityName": "Jessen (Elster)"
+    },
+    "13071136": {
+        "Coordinates": [
+            53.8971143,
+            13.1462242
+        ],
+        "CityName": "Siedenbr\u00fcnzow"
+    },
+    "13074071": {
+        "Coordinates": [
+            53.7961362,
+            11.2174
+        ],
+        "CityName": "R\u00fcting"
+    },
+    "13071096": {
+        "Coordinates": [
+            53.8133068,
+            12.9166932
+        ],
+        "CityName": "Meesiger"
+    },
+    "13075141": {
+        "Coordinates": [
+            54.104319,
+            13.34487
+        ],
+        "CityName": "Wackerow"
+    },
+    "12064472": {
+        "Coordinates": [
+            52.5814009,
+            13.8833952
+        ],
+        "CityName": "Strausberg"
+    },
+    "13073053": {
+        "Coordinates": [
+            54.3062345,
+            12.6096536
+        ],
+        "CityName": "L\u00fcdershagen"
+    },
+    "12064288": {
+        "Coordinates": [
+            52.4703892,
+            14.3420442
+        ],
+        "CityName": "Lietzen"
+    },
+    "13075110": {
+        "Coordinates": [
+            53.8355365,
+            13.5760781
+        ],
+        "CityName": "Postlow"
+    },
+    "13074058": {
+        "Coordinates": [
+            53.8096237,
+            10.8945715
+        ],
+        "CityName": "Niendorf"
+    },
+    "13071120": {
+        "Coordinates": [
+            53.7167029,
+            13.183299
+        ],
+        "CityName": "Pripsleben"
+    },
+    "12071032": {
+        "Coordinates": [
+            51.8317244,
+            14.1481268
+        ],
+        "CityName": "Burg (Spreewald)"
+    },
+    "13075004": {
+        "Coordinates": [
+            53.7042776,
+            13.8362087
+        ],
+        "CityName": "Altwigshagen"
+    },
+    "13075116": {
+        "Coordinates": [
+            53.7697796,
+            13.7047265
+        ],
+        "CityName": "Rossin"
+    },
+    "13075075": {
+        "Coordinates": [
+            53.7738975,
+            13.8958911
+        ],
+        "CityName": "Leopoldshagen"
+    },
+    "13075053": {
+        "Coordinates": [
+            53.796594,
+            13.4305144
+        ],
+        "CityName": "Iven"
+    },
+    "13072021": {
+        "Coordinates": [
+            53.9889794,
+            12.3592941
+        ],
+        "CityName": "Cammin"
+    },
+    "13075113": {
+        "Coordinates": [
+            53.4126688,
+            14.2902967
+        ],
+        "CityName": "Ramin"
+    },
+    "13075106": {
+        "Coordinates": [
+            54.1355894,
+            13.7730504
+        ],
+        "CityName": "Peenem\u00fcnde"
+    },
+    "13075057": {
+        "Coordinates": [
+            53.9717738,
+            13.6087935
+        ],
+        "CityName": "Karlsburg"
+    },
+    "13075139": {
+        "Coordinates": [
+            53.7245663,
+            14.1643535
+        ],
+        "CityName": "Vogelsang-Warsin"
+    },
+    "13072011": {
+        "Coordinates": [
+            53.9741488,
+            12.1024646
+        ],
+        "CityName": "Benitz"
+    },
+    "13071149": {
+        "Coordinates": [
+            53.58128535,
+            12.874068003625208
+        ],
+        "CityName": "Varchentin"
+    },
+    "5315000": {
+        "Coordinates": [
+            50.938361,
+            6.959974
+        ],
+        "CityName": "K\u00f6ln"
+    },
+    "13075122": {
+        "Coordinates": [
+            53.7502892,
+            13.6284985
+        ],
+        "CityName": "Sarnow"
+    },
+    "13075105": {
+        "Coordinates": [
+            53.5053677,
+            13.9889049
+        ],
+        "CityName": "Pasewalk"
+    },
+    "13074036": {
+        "Coordinates": [
+            53.8038603,
+            11.5992299
+        ],
+        "CityName": "Jesendorf"
+    },
+    "13075140": {
+        "Coordinates": [
+            53.8776499,
+            13.3362233
+        ],
+        "CityName": "V\u00f6lschow"
+    },
+    "13075149": {
+        "Coordinates": [
+            53.4940989,
+            14.0912263
+        ],
+        "CityName": "Zerrenthin"
+    },
+    "13075086": {
+        "Coordinates": [
+            54.0089374,
+            13.6378924
+        ],
+        "CityName": "L\u00fchmannsdorf"
+    },
+    "13074027": {
+        "Coordinates": [
+            53.8418936,
+            11.0473297
+        ],
+        "CityName": "Grieben"
+    },
+    "13071078": {
+        "Coordinates": [
+            53.6369044,
+            12.5412268
+        ],
+        "CityName": "Klocksin"
+    },
+    "13072051": {
+        "Coordinates": [
+            53.8788518,
+            12.0733487
+        ],
+        "CityName": "Kassow"
+    },
+    "13075023": {
+        "Coordinates": [
+            53.838019,
+            13.3000713
+        ],
+        "CityName": "Daberkow"
+    },
+    "13075056": {
+        "Coordinates": [
+            53.8684526,
+            14.2065532
+        ],
+        "CityName": "Kamminke"
+    },
+    "9184123": {
+        "Coordinates": [
+            48.1062182,
+            11.7289603
+        ],
+        "CityName": "Haar"
+    },
+    "13075104": {
+        "Coordinates": [
+            53.4962286,
+            13.9464137
+        ],
+        "CityName": "Papendorf"
+    },
+    "13075035": {
+        "Coordinates": [
+            53.37889,
+            14.2736659
+        ],
+        "CityName": "Glasow"
+    },
+    "13071030": {
+        "Coordinates": [
+            53.69024815,
+            12.808427566203783
+        ],
+        "CityName": "Duckow"
+    },
+    "13071169": {
+        "Coordinates": [
+            53.6478386,
+            12.8307769
+        ],
+        "CityName": "Zettemin"
+    },
+    "13074063": {
+        "Coordinates": [
+            53.8324325,
+            11.2726707
+        ],
+        "CityName": "Pl\u00fcschow"
+    },
+    "13071005": {
+        "Coordinates": [
+            53.4804669,
+            12.9666929
+        ],
+        "CityName": "Ankershagen"
+    },
+    "13071095": {
+        "Coordinates": [
+            53.496222,
+            15.0613549
+        ],
+        "CityName": "Massow"
+    },
+    "13071152": {
+        "Coordinates": [
+            53.3295356,
+            12.6892995
+        ],
+        "CityName": "Vipperow"
+    },
+    "13074045": {
+        "Coordinates": [
+            53.8418578,
+            10.8537571
+        ],
+        "CityName": "Lockwisch"
+    },
+    "13071017": {
+        "Coordinates": [
+            53.7897308,
+            13.3340256
+        ],
+        "CityName": "Breest"
+    },
+    "13071165": {
+        "Coordinates": [
+            53.2900804,
+            12.5188694
+        ],
+        "CityName": "Wredenhagen"
+    },
+    "13075017": {
+        "Coordinates": [
+            53.4770298,
+            13.9040812
+        ],
+        "CityName": "Brietzig"
+    },
+    "13075063": {
+        "Coordinates": [
+            53.5316583,
+            14.1324765
+        ],
+        "CityName": "Koblentz"
+    },
+    "13075025": {
+        "Coordinates": [
+            54.014856,
+            13.3554443
+        ],
+        "CityName": "Dargelin"
+    },
+    "13072024": {
+        "Coordinates": [
+            53.8162802,
+            12.5012286
+        ],
+        "CityName": "Dalkendorf"
+    },
+    "8337116": {
+        "Coordinates": [
+            49.5892164,
+            6.37869
+        ],
+        "CityName": "Wehr"
+    },
+    "13071153": {
+        "Coordinates": [
+            53.5586029,
+            13.648505596530816
+        ],
+        "CityName": "Voigtsdorf"
+    },
+    "12071160": {
+        "Coordinates": [
+            51.9503235,
+            14.7153567
+        ],
+        "CityName": "Guben"
+    },
+    "5111000": {
+        "Coordinates": [
+            51.2254018,
+            6.7763137
+        ],
+        "CityName": "D\u00fcsseldorf"
+    },
+    "16061034": {
+        "Coordinates": [
+            51.3494903,
+            10.1993304
+        ],
+        "CityName": "Geisleden"
+    },
+    "2000000": {
+        "Coordinates": [
+            53.550341,
+            10.000654
+        ],
+        "CityName": "Hamburg"
+    },
+    "13071107": {
+        "Coordinates": [
+            53.5574458,
+            13.2602781
+        ],
+        "CityName": "Neubrandenburg"
+    },
+    "13074006": {
+        "Coordinates": [
+            53.7831117,
+            11.633518
+        ],
+        "CityName": "Bibow"
+    },
+    "13071105": {
+        "Coordinates": [
+            53.5291132,
+            13.5060008
+        ],
+        "CityName": "Neetzka"
+    },
+    "13071015": {
+        "Coordinates": [
+            53.6011125,
+            12.9550796
+        ],
+        "CityName": "Bredenfelde"
+    },
+    "13074026": {
+        "Coordinates": [
+            53.8644705,
+            11.1898839
+        ],
+        "CityName": "Grevesm\u00fchlen"
+    },
+    "13074029": {
+        "Coordinates": [
+            53.8168767,
+            10.9276698
+        ],
+        "CityName": "Gro\u00df Siemz"
+    },
+    "13075028": {
+        "Coordinates": [
+            54.0526157,
+            13.4761113
+        ],
+        "CityName": "Diedrichshagen"
+    },
+    "13075042": {
+        "Coordinates": [
+            53.5357156,
+            13.8302869
+        ],
+        "CityName": "Gro\u00df Luckow"
+    },
+    "13071091": {
+        "Coordinates": [
+            53.3798084,
+            12.669278
+        ],
+        "CityName": "Ludorf"
+    },
+    "13071046": {
+        "Coordinates": [
+            53.2784648,
+            12.4407726
+        ],
+        "CityName": "Grabow-Below"
+    },
+    "12061244": {
+        "Coordinates": [
+            51.9341727,
+            13.6973976
+        ],
+        "CityName": "Kasel-Golzig"
+    },
+    "12061097": {
+        "Coordinates": [
+            51.9167509,
+            13.5791999
+        ],
+        "CityName": "Drahnsdorf"
+    },
+    "13071038": {
+        "Coordinates": [
+            53.6286449,
+            13.4987406
+        ],
+        "CityName": "Genzkow"
+    },
+    "13072068": {
+        "Coordinates": [
+            53.9850008,
+            12.5949072
+        ],
+        "CityName": "L\u00fchburg"
+    },
+    "13072120": {
+        "Coordinates": [
+            53.8347808,
+            12.0478415
+        ],
+        "CityName": "Zepelin"
+    },
+    "13072039": {
+        "Coordinates": [
+            53.8458818,
+            12.0965965
+        ],
+        "CityName": "Gro\u00df Schwiesow"
+    },
+    "13073047": {
+        "Coordinates": [
+            53.7683188,
+            12.8351626
+        ],
+        "CityName": "Kummerow"
+    },
+    "13072052": {
+        "Coordinates": [
+            53.9651445,
+            11.690459286948517
+        ],
+        "CityName": "Kirch Mulsow"
+    },
+    "13076166": {
+        "Coordinates": [
+            53.4070024,
+            12.2526365
+        ],
+        "CityName": "Ganzlin"
+    },
+    "13071168": {
+        "Coordinates": [
+            53.3027077,
+            12.4898384
+        ],
+        "CityName": "Zepkow"
+    },
+    "9187162": {
+        "Coordinates": [
+            47.8541669,
+            12.3455493
+        ],
+        "CityName": "Prien a. Chiemsee"
+    },
+    "3241009": {
+        "Coordinates": [
+            52.3077423,
+            9.8132829
+        ],
+        "CityName": "Laatzen"
+    },
+    "13072102": {
+        "Coordinates": [
+            54.0875894,
+            12.5242798
+        ],
+        "CityName": "Stubbendorf"
+    },
+    "12070296": {
+        "Coordinates": [
+            53.0762716,
+            11.8627933
+        ],
+        "CityName": "Perleberg"
+    },
+    "13073039": {
+        "Coordinates": [
+            54.150003,
+            12.75
+        ],
+        "CityName": "Hugoldsdorf"
+    },
+    "13073088": {
+        "Coordinates": [
+            54.3096314,
+            13.0820846
+        ],
+        "CityName": "Stralsund"
+    },
+    "13074052": {
+        "Coordinates": [
+            53.8463155,
+            11.0106674
+        ],
+        "CityName": "Menzendorf"
+    },
+    "13072013": {
+        "Coordinates": [
+            53.902911,
+            11.8867125
+        ],
+        "CityName": "Bernitt"
+    },
+    "1055035": {
+        "Coordinates": [
+            53.9523876,
+            10.7301577
+        ],
+        "CityName": "Ratekau"
+    },
+    "5362036": {
+        "Coordinates": [
+            50.9979888,
+            6.8025409
+        ],
+        "CityName": "Pulheim"
+    },
+    "12052000": {
+        "Coordinates": [
+            51.7567447,
+            14.3357307
+        ],
+        "CityName": "Cottbus"
+    },
+    "8335100": {
+        "Coordinates": [
+            47.729588,
+            8.8453483
+        ],
+        "CityName": "Rielasingen-Worblingen"
+    },
+    "5382036": {
+        "Coordinates": [
+            50.9044492,
+            7.4017528
+        ],
+        "CityName": "Much"
+    },
+    "5366012": {
+        "Coordinates": [
+            52.4573805,
+            13.2810976
+        ],
+        "CityName": "Dahlem"
+    },
+    "1058058": {
+        "Coordinates": [
+            54.4052957,
+            9.9785888
+        ],
+        "CityName": "Gettorf"
+    },
+    "3256025": {
+        "Coordinates": [
+            52.4690166,
+            9.1567507
+        ],
+        "CityName": "Rehburg-Loccum"
+    },
+    "12066272": {
+        "Coordinates": [
+            51.4590647,
+            13.8656245
+        ],
+        "CityName": "Ruhland"
+    },
+    "12053000": {
+        "Coordinates": [
+            52.3412273,
+            14.549452
+        ],
+        "CityName": "Frankfurt (Oder)"
+    },
+    "13072106": {
+        "Coordinates": [
+            53.7709505,
+            12.5753569
+        ],
+        "CityName": "Teterow"
+    },
+    "13072090": {
+        "Coordinates": [
+            53.9104224,
+            12.14788377448243
+        ],
+        "CityName": "Rukieten"
+    },
+    "13074050": {
+        "Coordinates": [
+            53.6529632,
+            11.1790692
+        ],
+        "CityName": "L\u00fctzow"
+    },
+    "13074084": {
+        "Coordinates": [
+            53.7998004,
+            11.7043569
+        ],
+        "CityName": "Warin"
+    },
+    "12062289": {
+        "Coordinates": [
+            51.7963002,
+            13.4215035
+        ],
+        "CityName": "Lebusa"
+    },
+    "5562032": {
+        "Coordinates": [
+            51.6143815,
+            7.1978546
+        ],
+        "CityName": "Recklinghausen"
+    },
+    "7312000": {
+        "Coordinates": [
+            49.4432174,
+            7.7689951
+        ],
+        "CityName": "Kaiserslautern"
+    },
+    "13072112": {
+        "Coordinates": [
+            53.9298374,
+            12.412359
+        ],
+        "CityName": "Wardow"
+    },
+    "13074062": {
+        "Coordinates": [
+            53.6825321,
+            11.3372466
+        ],
+        "CityName": "Pingelshagen"
+    },
+    "13072016": {
+        "Coordinates": [
+            53.9384176,
+            12.6480929
+        ],
+        "CityName": "Boddin"
+    },
+    "12062124": {
+        "Coordinates": [
+            51.4614993,
+            13.5204883
+        ],
+        "CityName": "Elsterwerda"
+    },
+    "13072053": {
+        "Coordinates": [
+            53.9385956,
+            11.9637506
+        ],
+        "CityName": "Klein Belitz"
+    },
+    "13072110": {
+        "Coordinates": [
+            53.9079609,
+            12.070016
+        ],
+        "CityName": "Vorbeck"
+    },
+    "13071116": {
+        "Coordinates": [
+            49.9881171,
+            16.541522
+        ],
+        "CityName": "Petersdorf"
+    },
+    "16068051": {
+        "Coordinates": [
+            51.1618258,
+            11.1174874
+        ],
+        "CityName": "S\u00f6mmerda"
+    },
+    "13073056": {
+        "Coordinates": [
+            54.3300698,
+            13.7046652
+        ],
+        "CityName": "Middelhagen"
+    },
+    "12061471": {
+        "Coordinates": [
+            51.951063950000005,
+            13.496301317431941
+        ],
+        "CityName": "Steinreich"
+    },
+    "13072033": {
+        "Coordinates": [
+            53.8194539,
+            12.2823709
+        ],
+        "CityName": "Glasewitz"
+    },
+    "15091010": {
+        "Coordinates": [
+            51.7327678,
+            13.0434296
+        ],
+        "CityName": "Annaburg"
+    },
+    "13073091": {
+        "Coordinates": [
+            54.2759944,
+            13.7147217
+        ],
+        "CityName": "Thiessow"
+    },
+    "8436009": {
+        "Coordinates": [
+            47.9209556,
+            9.7542772
+        ],
+        "CityName": "Bad Waldsee"
+    },
+    "12062461": {
+        "Coordinates": [
+            51.8142338,
+            13.2279131
+        ],
+        "CityName": "Sch\u00f6newalde"
+    },
+    "13073058": {
+        "Coordinates": [
+            54.3437562,
+            12.8620716
+        ],
+        "CityName": "Neu Bartelshagen"
+    },
+    "13072079": {
+        "Coordinates": [
+            53.8423776,
+            12.3441231
+        ],
+        "CityName": "Plaaz"
+    },
+    "14521410": {
+        "Coordinates": [
+            50.7795002,
+            12.8669288
+        ],
+        "CityName": "Neukirchen/Erzgeb."
+    },
+    "13072043": {
+        "Coordinates": [
+            53.7936523,
+            12.1759661
+        ],
+        "CityName": "G\u00fcstrow"
+    },
+    "13072054": {
+        "Coordinates": [
+            54.1350006,
+            12.2407159
+        ],
+        "CityName": "Klein Kussewitz"
+    },
+    "15086080": {
+        "Coordinates": [
+            52.4976362,
+            12.0257528
+        ],
+        "CityName": "Jerichow"
+    },
+    "5124000": {
+        "Coordinates": [
+            51.264018,
+            7.1780374
+        ],
+        "CityName": "Wuppertal"
+    },
+    "3358019": {
+        "Coordinates": [
+            53.1165973,
+            9.7925898
+        ],
+        "CityName": "Schneverdingen"
+    },
+    "6438004": {
+        "Coordinates": [
+            48.1466103,
+            16.9422459
+        ],
+        "CityName": "Hainburg"
+    }
+}

@@ -1,0 +1,10 @@
+# ignore dirs
+
+# ignore files
+.DS_Store
+
+# ignore extensions
+*.png
+*.csv
+*.log
+
